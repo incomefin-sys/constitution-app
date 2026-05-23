@@ -1,0 +1,22 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(ls /Users/allsmn/IT/konstitution && echo \"---\" && ls /Users/allsmn/Downloads/)",
+      "Bash(npm install *)",
+      "Bash(find /usr/local /opt/homebrew /usr /nix -name \"npm\" -type f 2>/dev/null | head -5; ls ~/.nvm/versions/node/ 2>/dev/null | tail -3)",
+      "Bash(ls /usr/local/bin/ 2>/dev/null | grep -E \"node|npm|pnpm|bun|yarn\"; ls /opt/homebrew/bin/ 2>/dev/null | grep -E \"node|npm|pnpm|bun|yarn\"; ls ~/.bun/bin/ 2>/dev/null | grep -E \"node|npm|bun\")",
+      "Bash(ls /pkg/env/global/bin/ 2>/dev/null | head -20)",
+      "Bash(ls \"/Users/allsmn/Library/Application Support/Claude/local-agent-mode-sessions/skills-plugin/bae44491-0681-4f65-8681-e8608839b582/1cdee638-e91b-43e5-a570-49f68fdc070a/bin/\" 2>/dev/null)",
+      "Bash(mdfind \"kMDItemDisplayName == 'node'\")",
+      "Bash(mdfind \"kMDItemDisplayName == 'npm'\")",
+      "Bash(grep -E \"nvm|node|fnm|volta|n \" ~/.zshrc ~/.bashrc ~/.zprofile ~/.profile 2>/dev/null | head -20)",
+      "Bash(ls ~/. 2>/dev/null | grep -E \"zsh|bash|profile|nvm|volta\" | head -20; ls /Applications/ | grep -i node 2>/dev/null)",
+      "Bash(brew --version)",
+      "Bash(ruby --version)",
+      "Bash(mkdir -p /Users/allsmn/IT/konstitution/.claude && ls /usr/local/bin/node /opt/homebrew/bin/node /usr/local/bin/npm /opt/homebrew/bin/npm 2>/dev/null; find /Users/allsmn -name \"node\" -type f 2>/dev/null | head -5)",
+      "mcp__Claude_Preview__preview_start",
+      "Bash(python3 -c ' *)",
+      "Bash(mkdir -p /Users/allsmn/.claude/projects/-Users-allsmn-IT-konstitution/memory)"
+    ]
+  }
+}

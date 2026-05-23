@@ -1,0 +1,558 @@
+<!DOCTYPE html>
+<html lang="lt">
+<head>
+  <meta charset="UTF-8"/>
+  <meta name="viewport" content="width=device-width,initial-scale=1.0,viewport-fit=cover"/>
+  <meta name="apple-mobile-web-app-capable" content="yes"/>
+  <title>Konstitucija</title>
+  <style>
+    *,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
+    :root{
+      --bg:#F2F2F7;--card:#fff;--blue:#007AFF;--green:#34C759;--red:#FF3B30;
+      --text:#000;--text2:#6D6D72;--sep:rgba(60,60,67,.12);--r:16px;
+      --shadow:0 1px 3px rgba(0,0,0,.08),0 1px 2px rgba(0,0,0,.04);
+    }
+    html,body{height:100%;background:var(--bg);color:var(--text);
+      font-family:-apple-system,BlinkMacSystemFont,"SF Pro Display","Helvetica Neue",Arial,sans-serif;
+      -webkit-font-smoothing:antialiased;overscroll-behavior:none}
+    #root{height:100%}
+    .app{display:flex;flex-direction:column;height:100%;max-width:430px;margin:0 auto;position:relative}
+    .app-header{position:sticky;top:0;z-index:200;height:52px;padding:0 16px;
+      background:rgba(255,255,255,.85);backdrop-filter:saturate(180%) blur(20px);
+      -webkit-backdrop-filter:saturate(180%) blur(20px);
+      border-bottom:.5px solid var(--sep);display:flex;align-items:center;justify-content:space-between}
+    .app-title{font-size:17px;font-weight:700;letter-spacing:-.4px}
+    .lang-btn{background:var(--bg);border:none;border-radius:20px;padding:6px 14px;
+      font-size:14px;font-weight:600;color:var(--blue);cursor:pointer;transition:opacity .15s}
+    .lang-btn:active{opacity:.7}
+    .app-main{flex:1;overflow-y:auto;-webkit-overflow-scrolling:touch;
+      padding:16px 16px calc(72px + env(safe-area-inset-bottom,0px))}
+    .bottom-nav{position:fixed;bottom:0;left:50%;transform:translateX(-50%);
+      width:100%;max-width:430px;height:calc(56px + env(safe-area-inset-bottom,0px));
+      padding-bottom:env(safe-area-inset-bottom,0px);
+      background:rgba(255,255,255,.9);backdrop-filter:saturate(180%) blur(20px);
+      -webkit-backdrop-filter:saturate(180%) blur(20px);
+      border-top:.5px solid var(--sep);display:flex;z-index:200}
+    .nav-item{flex:1;display:flex;flex-direction:column;align-items:center;justify-content:center;
+      gap:3px;background:none;border:none;cursor:pointer;color:var(--text2);
+      -webkit-tap-highlight-color:transparent;transition:color .15s;padding:0}
+    .nav-item.active{color:var(--blue)}
+    .nav-icon{font-size:22px;line-height:1}
+    .nav-label{font-size:10px;font-weight:500}
+    .screen{display:flex;flex-direction:column;gap:12px}
+    .screen-center{align-items:center}
+    .card{background:var(--card);border-radius:var(--r);padding:20px;box-shadow:var(--shadow)}
+    .card-title{font-size:22px;font-weight:700;letter-spacing:-.5px;margin-bottom:20px;text-align:center}
+    .btn-primary{display:block;width:100%;background:var(--blue);color:#fff;border:none;
+      border-radius:14px;padding:16px;font-size:17px;font-weight:600;cursor:pointer;margin-top:12px;
+      -webkit-tap-highlight-color:transparent;transition:opacity .15s}
+    .btn-primary:active{opacity:.85}
+    .btn-ghost{display:block;width:100%;background:none;color:var(--blue);border:none;
+      border-radius:14px;padding:13px;font-size:16px;font-weight:500;cursor:pointer;margin-top:4px;
+      -webkit-tap-highlight-color:transparent;transition:opacity .15s}
+    .btn-ghost:active{opacity:.7}
+    .btn-reset{display:block;width:100%;background:rgba(255,59,48,.08);color:var(--red);border:none;
+      border-radius:14px;padding:14px;font-size:15px;font-weight:600;cursor:pointer;margin-top:4px}
+    .count-row{display:flex;gap:10px;margin-bottom:12px}
+    .count-btn{flex:1;background:var(--bg);border:2px solid transparent;border-radius:12px;
+      padding:14px 8px;font-size:20px;font-weight:700;color:var(--text);cursor:pointer;transition:all .15s}
+    .count-btn.active{background:rgba(0,122,255,.1);border-color:var(--blue);color:var(--blue)}
+    .hint{font-size:13px;color:var(--text2);text-align:center;margin-bottom:4px}
+    .progress-wrap{display:flex;align-items:center;gap:10px}
+    .progress-track{flex:1;height:4px;background:var(--sep);border-radius:2px;overflow:hidden}
+    .progress-fill{height:100%;background:var(--blue);border-radius:2px;transition:width .3s ease}
+    .progress-label{font-size:13px;font-weight:600;color:var(--text2);min-width:44px;text-align:right}
+    .section-tag{font-size:11px;font-weight:600;color:var(--text2);text-transform:uppercase;
+      letter-spacing:.6px;margin-bottom:10px}
+    .question-text{font-size:18px;font-weight:600;line-height:1.45;letter-spacing:-.2px}
+    .term-text{font-size:22px;font-weight:700;line-height:1.3;letter-spacing:-.3px}
+    .options{display:flex;flex-direction:column;gap:8px}
+    .option-btn{background:var(--card);border:1.5px solid var(--sep);border-radius:14px;
+      padding:14px 16px;font-size:16px;font-weight:500;color:var(--text);text-align:left;
+      cursor:pointer;min-height:52px;line-height:1.4;-webkit-tap-highlight-color:transparent;
+      transition:border-color .12s,background .12s,color .12s,opacity .12s}
+    .opt-correct{background:rgba(52,199,89,.1)!important;border-color:var(--green)!important;color:#1a8c3a!important;font-weight:600}
+    .opt-wrong{background:rgba(255,59,48,.1)!important;border-color:var(--red)!important;color:#c0392b!important;font-weight:600}
+    .opt-dim{opacity:.45}
+    .results-card{width:100%;text-align:center}
+    .score-ring{width:148px;height:148px;border-radius:50%;border:6px solid;margin:0 auto 16px;
+      display:flex;flex-direction:column;align-items:center;justify-content:center;gap:2px}
+    .ring-pass{border-color:var(--green);background:rgba(52,199,89,.07)}
+    .ring-fail{border-color:var(--red);background:rgba(255,59,48,.07)}
+    .ring-pct{font-size:40px;font-weight:800;letter-spacing:-2px}
+    .ring-frac{font-size:14px;color:var(--text2);font-weight:500}
+    .verdict{display:inline-block;border-radius:20px;padding:6px 22px;font-size:16px;font-weight:700;margin-bottom:4px}
+    .verdict-pass{background:rgba(52,199,89,.12);color:#1a8c3a}
+    .verdict-fail{background:rgba(255,59,48,.12);color:#c0392b}
+    .terms-counter{font-size:13px;color:var(--text2);font-weight:600;text-align:center}
+    .feedback-row{display:flex;flex-direction:column;align-items:stretch;gap:4px}
+    .fb-correct{font-size:17px;font-weight:700;color:#1a8c3a;text-align:center}
+    .fb-wrong{font-size:17px;font-weight:700;color:#c0392b;text-align:center}
+    .mode-btn{display:flex;align-items:center;justify-content:center;gap:8px;width:100%;
+      background:var(--bg);border:none;border-radius:14px;padding:18px 16px;font-size:16px;
+      font-weight:600;color:var(--blue);cursor:pointer;margin-bottom:10px;
+      -webkit-tap-highlight-color:transparent;transition:opacity .15s}
+    .mode-btn:active{opacity:.75}
+    .stats-screen{gap:12px}
+    .section-heading{font-size:20px;font-weight:700;letter-spacing:-.4px;margin-bottom:12px}
+    .sub-heading{font-size:14px;font-weight:600;color:var(--text2);text-transform:uppercase;letter-spacing:.5px;margin-bottom:12px}
+    .stat-row{display:flex;justify-content:space-between;align-items:center;padding:11px 0;
+      border-bottom:.5px solid var(--sep);font-size:15px}
+    .stat-row:last-child{border-bottom:none;padding-bottom:0}
+    .stat-value{font-size:17px;font-weight:700;color:var(--blue)}
+    .bar-chart{display:flex;align-items:flex-end;gap:5px;height:96px}
+    .bar-col{flex:1;display:flex;flex-direction:column;align-items:center;justify-content:flex-end;height:100%}
+    .bar-pct{font-size:9px;font-weight:600;color:var(--text2);margin-bottom:3px;line-height:1}
+    .bar-fill{width:100%;border-radius:5px 5px 0 0;min-height:4px}
+    .bar-pass{background:var(--green)}.bar-fail{background:var(--red)}
+    .weak-item{border-bottom:.5px solid var(--sep);padding:10px 0}
+    .weak-item:last-child{border-bottom:none;padding-bottom:0}
+    .weak-summary{display:flex;justify-content:space-between;align-items:flex-start;gap:10px;
+      cursor:pointer;list-style:none;-webkit-tap-highlight-color:transparent}
+    .weak-summary::-webkit-details-marker{display:none}
+    .weak-preview{font-size:14px;font-weight:500;line-height:1.4;flex:1}
+    .miss-badge{background:var(--red);color:#fff;border-radius:10px;padding:2px 8px;
+      font-size:12px;font-weight:700;white-space:nowrap;flex-shrink:0}
+    .weak-body{margin-top:8px;padding-left:4px}
+    .weak-full{font-size:14px;line-height:1.45;color:var(--text);margin-bottom:4px}
+    .weak-section{font-size:12px;color:var(--text2)}
+    .term-row{display:flex;justify-content:space-between;align-items:center;gap:10px;
+      padding:10px 0;border-bottom:.5px solid var(--sep)}
+    .term-row:last-child{border-bottom:none;padding-bottom:0}
+    .term-pair{display:flex;flex-direction:column;gap:2px;flex:1}
+    .term-lt{font-size:14px;font-weight:600}.term-ru{font-size:13px;color:var(--text2)}
+    .empty-card{text-align:center;padding:40px 20px;display:flex;flex-direction:column;align-items:center;gap:12px}
+    .empty-icon{font-size:48px}
+    .empty-card p{font-size:16px;color:var(--text2);line-height:1.5}
+    .loading{text-align:center;padding:60px 20px;font-size:16px;color:var(--text2)}
+  </style>
+</head>
+<body>
+<div id="root"></div>
+<script src="https://unpkg.com/react@18/umd/react.development.js" crossorigin></script>
+<script src="https://unpkg.com/react-dom@18/umd/react-dom.development.js" crossorigin></script>
+<script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
+<script type="text/babel" data-presets="react">
+const { useState, useContext, createContext, useRef, useEffect } = React;
+
+/* ── i18n ──────────────────────────────────────────────── */
+const I18N = {
+  ru: {
+    tabs:{ quiz:'Тесты', terms:'Термины', stats:'Статистика' },
+    quiz:{ selectCount:'Количество вопросов', start:'Начать', result:'Результат',
+           pass:'Сдан', fail:'Не сдан', restart:'Повторить', goStats:'Перейти к статистике',
+           of:'из', note:'Вопросы на литовском языке' },
+    terms:{ selectMode:'Выберите режим', modeA:'Литовский → Русский', modeB:'Русский → Литовский',
+            next:'Следующий', correct:'Правильно!', wrong:'Неверно', back:'Назад' },
+    stats:{ quizTitle:'Тесты', sessions:'Сессий завершено', avgScore:'Средний балл',
+            bestScore:'Лучший результат', passRate:'Процент сдачи (≥70%)',
+            last10:'Последние 10 сессий', weakSpots:'Слабые места',
+            noData:'Статистика появится после первого теста',
+            termsTitle:'Термины', termsTotal:'Всего ответов', termsCorrectRate:'Правильных',
+            termsMissed:'Часто ошибаетесь', missCount:'ошибок',
+            reset:'Сбросить статистику', resetConfirm:'Вы уверены? Все данные будут удалены.' },
+  },
+  lt: {
+    tabs:{ quiz:'Testai', terms:'Terminai', stats:'Statistika' },
+    quiz:{ selectCount:'Klausimų skaičius', start:'Pradėti', result:'Rezultatas',
+           pass:'Išlaikyta', fail:'Neišlaikyta', restart:'Kartoti', goStats:'Eiti į statistiką',
+           of:'iš', note:'Klausimai lietuvių kalba' },
+    terms:{ selectMode:'Pasirinkite režimą', modeA:'Lietuvių → Rusų', modeB:'Rusų → Lietuvių',
+            next:'Kitas', correct:'Teisingai!', wrong:'Neteisingai', back:'Atgal' },
+    stats:{ quizTitle:'Testai', sessions:'Sesijų skaičius', avgScore:'Vidutinis balas',
+            bestScore:'Geriausias rezultatas', passRate:'Išlaikymo procentas (≥70%)',
+            last10:'Paskutinės 10 sesijų', weakSpots:'Silpnosios vietos',
+            noData:'Statistika pasirodys po pirmojo testo',
+            termsTitle:'Terminai', termsTotal:'Iš viso atsakymų', termsCorrectRate:'Teisingų',
+            termsMissed:'Dažnai klystama', missCount:'klaidų',
+            reset:'Išvalyti statistiką', resetConfirm:'Ar tikrai? Visi duomenys bus ištrinti.' },
+  },
+};
+
+/* ── Keys ──────────────────────────────────────────────── */
+const SESSIONS_KEY='konst_quiz_sessions', QUIZ_MISS='konst_quiz_missed';
+const TERMS_STATS='konst_terms_stats', TERMS_MISS='konst_terms_missed';
+const LANG_KEY='konst_lang';
+
+/* ── Helpers ───────────────────────────────────────────── */
+function shuffle(arr){
+  const a=[...arr];
+  for(let i=a.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[a[i],a[j]]=[a[j],a[i]];}
+  return a;
+}
+function pct(n,d){ return d>0?Math.round(n/d*100):0; }
+function ls(k,def){ try{ return JSON.parse(localStorage.getItem(k)||JSON.stringify(def)); }catch(e){ return def; } }
+function lsSet(k,v){ localStorage.setItem(k,JSON.stringify(v)); }
+
+/* ── Context ───────────────────────────────────────────── */
+const AppCtx = createContext();
+
+/* ── Quiz component ────────────────────────────────────── */
+function Quiz({ questions }) {
+  const { i18n, setTab } = useContext(AppCtx);
+  const [phase, setPhase] = useState('start');
+  const [count, setCount] = useState(20);
+  const [deck, setDeck] = useState([]);
+  const [cur, setCur] = useState(0);
+  const [selected, setSelected] = useState(null);
+  const [showCorrect, setShowCorrect] = useState(false);
+  const scoreRef = useRef(0);
+  const missRef = useRef({});
+  const [finalScore, setFinalScore] = useState(0);
+  const [finalTotal, setFinalTotal] = useState(0);
+
+  function prepQ(q) {
+    const idx = q.options.map((t,i)=>({t,i}));
+    const sh = shuffle(idx);
+    return { ...q, displayOptions: sh.map(o=>o.t), displayCorrect: sh.findIndex(o=>o.i===q.correct) };
+  }
+
+  const startQuiz = () => {
+    const d = shuffle(questions).slice(0, count).map(prepQ);
+    setDeck(d); setCur(0); setSelected(null); setShowCorrect(false);
+    scoreRef.current=0; missRef.current={};
+    setPhase('playing');
+  };
+
+  const handleAnswer = (idx) => {
+    if (selected !== null) return;
+    setSelected(idx); setShowCorrect(true);
+    const q = deck[cur];
+    if (idx === q.displayCorrect) scoreRef.current++;
+    else missRef.current[q.id] = (missRef.current[q.id]||0)+1;
+    setTimeout(() => {
+      const next = cur+1;
+      if (next >= deck.length) {
+        const fs=scoreRef.current, ft=deck.length;
+        const sessions=ls(SESSIONS_KEY,[]);
+        sessions.push({score:fs,total:ft,date:Date.now()});
+        lsSet(SESSIONS_KEY,sessions);
+        const gm=ls(QUIZ_MISS,{});
+        for(const [id,c] of Object.entries(missRef.current)) gm[id]=(gm[id]||0)+c;
+        lsSet(QUIZ_MISS,gm);
+        setFinalScore(fs); setFinalTotal(ft); setPhase('results');
+      } else {
+        setCur(next); setSelected(null); setShowCorrect(false);
+      }
+    }, 1200);
+  };
+
+  if (phase==='start') return (
+    <div className="screen">
+      <div className="card">
+        <h2 className="card-title">{i18n.quiz.selectCount}</h2>
+        <div className="count-row">
+          {[20,50,100].map(n=>(
+            <button key={n} className={`count-btn${count===n?' active':''}`} onClick={()=>setCount(n)}>{n}</button>
+          ))}
+        </div>
+        <p className="hint">{i18n.quiz.note}</p>
+        <button className="btn-primary" onClick={startQuiz}>{i18n.quiz.start}</button>
+      </div>
+    </div>
+  );
+
+  if (phase==='playing') {
+    const q = deck[cur];
+    return (
+      <div className="screen" style={{gap:'12px'}}>
+        <div className="progress-wrap">
+          <div className="progress-track">
+            <div className="progress-fill" style={{width:`${(cur/deck.length)*100}%`}}/>
+          </div>
+          <span className="progress-label">{cur+1} / {deck.length}</span>
+        </div>
+        <div className="card">
+          <p className="section-tag">{q.section}</p>
+          <p className="question-text">{q.question}</p>
+        </div>
+        <div className="options">
+          {q.displayOptions.map((opt,idx)=>{
+            let cls='option-btn';
+            if(showCorrect){
+              if(idx===q.displayCorrect) cls+=' opt-correct';
+              else if(idx===selected) cls+=' opt-wrong';
+              else cls+=' opt-dim';
+            }
+            return <button key={idx} className={cls} onClick={()=>handleAnswer(idx)}>{opt}</button>;
+          })}
+        </div>
+      </div>
+    );
+  }
+
+  const p=pct(finalScore,finalTotal), passed=p>=70;
+  return (
+    <div className="screen screen-center">
+      <div className="card results-card">
+        <h2 className="card-title">{i18n.quiz.result}</h2>
+        <div className={`score-ring ${passed?'ring-pass':'ring-fail'}`}>
+          <span className="ring-pct">{p}%</span>
+          <span className="ring-frac">{finalScore} {i18n.quiz.of} {finalTotal}</span>
+        </div>
+        <div className={`verdict ${passed?'verdict-pass':'verdict-fail'}`}>
+          {passed?i18n.quiz.pass:i18n.quiz.fail}
+        </div>
+        <button className="btn-primary" onClick={()=>setPhase('start')}>{i18n.quiz.restart}</button>
+        <button className="btn-ghost" onClick={()=>setTab('stats')}>{i18n.quiz.goStats}</button>
+      </div>
+    </div>
+  );
+}
+
+/* ── Terms component ───────────────────────────────────── */
+function Terms({ glossary }) {
+  const { i18n } = useContext(AppCtx);
+  const [mode, setMode] = useState(null);
+  const [queue, setQueue] = useState([]);
+  const [pos, setPos] = useState(0);
+  const [options, setOptions] = useState([]);
+  const [correctIdx, setCorrectIdx] = useState(null);
+  const [selected, setSelected] = useState(null);
+
+  function buildCard(term, m, pool) {
+    const correct = m==='A' ? term.definition : term.term;
+    const dist = shuffle(pool.filter(t=>t.id!==term.id)).slice(0,3).map(t=>m==='A'?t.definition:t.term);
+    const opts = shuffle([correct,...dist]);
+    return { options:opts, correctIdx:opts.indexOf(correct) };
+  }
+
+  const startMode = (m) => {
+    const q=shuffle([...glossary]);
+    const {options:opts,correctIdx:ci}=buildCard(q[0],m,glossary);
+    setMode(m); setQueue(q); setPos(0); setOptions(opts); setCorrectIdx(ci); setSelected(null);
+  };
+
+  const handleAnswer = (idx) => {
+    if(selected!==null) return;
+    setSelected(idx);
+    const term=queue[pos], isOk=idx===correctIdx;
+    const st=ls(TERMS_STATS,{total:0,correct:0});
+    st.total++; if(isOk) st.correct++;
+    lsSet(TERMS_STATS,st);
+    if(!isOk){ const m=ls(TERMS_MISS,{}); m[term.id]=(m[term.id]||0)+1; lsSet(TERMS_MISS,m); }
+  };
+
+  const handleNext = () => {
+    let np=pos+1, nq=queue;
+    if(np>=queue.length){ np=0; nq=shuffle([...glossary]); setQueue(nq); }
+    const {options:opts,correctIdx:ci}=buildCard(nq[np],mode,glossary);
+    setPos(np); setOptions(opts); setCorrectIdx(ci); setSelected(null);
+  };
+
+  if(!mode) return (
+    <div className="screen">
+      <div className="card">
+        <h2 className="card-title">{i18n.terms.selectMode}</h2>
+        <button className="mode-btn" onClick={()=>startMode('A')}>🇱🇹 → 🇷🇺&ensp;{i18n.terms.modeA}</button>
+        <button className="mode-btn" onClick={()=>startMode('B')}>🇷🇺 → 🇱🇹&ensp;{i18n.terms.modeB}</button>
+      </div>
+    </div>
+  );
+
+  const term=queue[pos], prompt=mode==='A'?term.term:term.definition;
+  return (
+    <div className="screen">
+      <div className="terms-counter">{pos+1} / {queue.length}</div>
+      <div className="card">
+        <p className="section-tag">{mode==='A'?'🇱🇹 Lietuviškai':'🇷🇺 По-русски'}</p>
+        <p className="term-text">{prompt}</p>
+      </div>
+      <div className="options">
+        {options.map((opt,idx)=>{
+          let cls='option-btn';
+          if(selected!==null){
+            if(idx===correctIdx) cls+=' opt-correct';
+            else if(idx===selected) cls+=' opt-wrong';
+            else cls+=' opt-dim';
+          }
+          return <button key={idx} className={cls} onClick={()=>handleAnswer(idx)}>{opt}</button>;
+        })}
+      </div>
+      {selected!==null && (
+        <div className="feedback-row">
+          <span className={selected===correctIdx?'fb-correct':'fb-wrong'}>
+            {selected===correctIdx?i18n.terms.correct:i18n.terms.wrong}
+          </span>
+          <button className="btn-primary" onClick={handleNext}>{i18n.terms.next}</button>
+        </div>
+      )}
+      <button className="btn-ghost" onClick={()=>setMode(null)}>← {i18n.terms.back}</button>
+    </div>
+  );
+}
+
+/* ── Stats component ───────────────────────────────────── */
+function Stats({ questions, glossary }) {
+  const { i18n } = useContext(AppCtx);
+  const [, forceUp] = useState(0);
+
+  const sessions=ls(SESSIONS_KEY,[]);
+  const qMiss=ls(QUIZ_MISS,{});
+  const tStats=ls(TERMS_STATS,{total:0,correct:0});
+  const tMiss=ls(TERMS_MISS,{});
+
+  const total=sessions.length;
+  const avg=total?Math.round(sessions.reduce((s,x)=>s+pct(x.score,x.total),0)/total):0;
+  const best=total?Math.max(...sessions.map(x=>pct(x.score,x.total))):0;
+  const pass=total?Math.round(sessions.filter(x=>pct(x.score,x.total)>=70).length/total*100):0;
+  const last10=sessions.slice(-10);
+
+  const qMap=Object.fromEntries(questions.map(q=>[q.id,q]));
+  const gMap=Object.fromEntries(glossary.map(t=>[t.id,t]));
+
+  const topQ=Object.entries(qMiss).sort((a,b)=>b[1]-a[1]).slice(0,10)
+    .map(([id,cnt])=>({q:qMap[+id],cnt})).filter(x=>x.q);
+  const topT=Object.entries(tMiss).sort((a,b)=>b[1]-a[1]).slice(0,10)
+    .map(([id,cnt])=>({t:gMap[+id],cnt})).filter(x=>x.t);
+
+  const handleReset=()=>{
+    if(!window.confirm(i18n.stats.resetConfirm)) return;
+    [SESSIONS_KEY,QUIZ_MISS,TERMS_STATS,TERMS_MISS].forEach(k=>localStorage.removeItem(k));
+    forceUp(n=>n+1);
+  };
+
+  const isEmpty=total===0&&tStats.total===0;
+
+  return (
+    <div className="screen stats-screen">
+      {isEmpty ? (
+        <div className="card empty-card">
+          <span className="empty-icon">📊</span>
+          <p>{i18n.stats.noData}</p>
+        </div>
+      ) : (
+        <>
+          {total>0 && <>
+            <div className="card">
+              <h2 className="section-heading">{i18n.stats.quizTitle}</h2>
+              <div className="stat-row"><span>{i18n.stats.sessions}</span><strong className="stat-value">{total}</strong></div>
+              <div className="stat-row"><span>{i18n.stats.avgScore}</span><strong className="stat-value">{avg}%</strong></div>
+              <div className="stat-row"><span>{i18n.stats.bestScore}</span><strong className="stat-value">{best}%</strong></div>
+              <div className="stat-row"><span>{i18n.stats.passRate}</span><strong className="stat-value">{pass}%</strong></div>
+            </div>
+            <div className="card">
+              <h3 className="sub-heading">{i18n.stats.last10}</h3>
+              <div className="bar-chart">
+                {last10.map((s,i)=>{
+                  const p=pct(s.score,s.total), passed=p>=70;
+                  const h=Math.max(4,Math.round(p/100*72));
+                  return (
+                    <div key={i} className="bar-col">
+                      <span className="bar-pct">{p}%</span>
+                      <div className={`bar-fill ${passed?'bar-pass':'bar-fail'}`} style={{height:`${h}px`}}/>
+                    </div>
+                  );
+                })}
+              </div>
+            </div>
+            {topQ.length>0 && (
+              <div className="card">
+                <h3 className="sub-heading">{i18n.stats.weakSpots}</h3>
+                {topQ.map(({q,cnt},i)=>(
+                  <details key={i} className="weak-item">
+                    <summary className="weak-summary">
+                      <span className="weak-preview">{q.question.length>70?q.question.slice(0,70)+'…':q.question}</span>
+                      <span className="miss-badge">{cnt}</span>
+                    </summary>
+                    <div className="weak-body">
+                      <p className="weak-full">{q.question}</p>
+                      <p className="weak-section">{q.section}</p>
+                    </div>
+                  </details>
+                ))}
+              </div>
+            )}
+          </>}
+          {tStats.total>0 && <>
+            <div className="card">
+              <h2 className="section-heading">{i18n.stats.termsTitle}</h2>
+              <div className="stat-row"><span>{i18n.stats.termsTotal}</span><strong className="stat-value">{tStats.total}</strong></div>
+              <div className="stat-row"><span>{i18n.stats.termsCorrectRate}</span><strong className="stat-value">{pct(tStats.correct,tStats.total)}%</strong></div>
+            </div>
+            {topT.length>0 && (
+              <div className="card">
+                <h3 className="sub-heading">{i18n.stats.termsMissed}</h3>
+                {topT.map(({t,cnt},i)=>(
+                  <div key={i} className="term-row">
+                    <div className="term-pair">
+                      <span className="term-lt">{t.term}</span>
+                      <span className="term-ru">{t.definition}</span>
+                    </div>
+                    <span className="miss-badge">{cnt}</span>
+                  </div>
+                ))}
+              </div>
+            )}
+          </>}
+        </>
+      )}
+      {!isEmpty && <button className="btn-reset" onClick={handleReset}>{i18n.stats.reset}</button>}
+    </div>
+  );
+}
+
+/* ── App root ──────────────────────────────────────────── */
+function App() {
+  const [lang, setLang] = useState(()=>localStorage.getItem(LANG_KEY)||'ru');
+  const [tab,  setTab]  = useState('quiz');
+  const [data, setData] = useState(null);
+
+  useEffect(()=>{
+    Promise.all([
+      fetch('./src/data/questions.json').then(r=>r.json()),
+      fetch('./src/data/glossary.json').then(r=>r.json()),
+    ]).then(([q,g])=>setData({questions:q,glossary:g}));
+  },[]);
+
+  const i18n = I18N[lang];
+  const toggleLang = () => {
+    const next = lang==='ru'?'lt':'ru';
+    setLang(next); localStorage.setItem(LANG_KEY,next);
+  };
+
+  const tabs=[
+    {id:'quiz', icon:'📝', label:i18n.tabs.quiz},
+    {id:'terms',icon:'📚', label:i18n.tabs.terms},
+    {id:'stats',icon:'📊', label:i18n.tabs.stats},
+  ];
+
+  return (
+    <AppCtx.Provider value={{lang,i18n,setTab}}>
+      <div className="app">
+        <header className="app-header">
+          <span className="app-title">Konstitucija</span>
+          <button className="lang-btn" onClick={toggleLang}>
+            {lang==='ru'?'🇱🇹 LT':'🇷🇺 RU'}
+          </button>
+        </header>
+
+        <main className="app-main">
+          {!data ? (
+            <p className="loading">Загрузка данных…</p>
+          ) : (
+            <>
+              {tab==='quiz'  && <Quiz  questions={data.questions}/>}
+              {tab==='terms' && <Terms glossary={data.glossary}/>}
+              {tab==='stats' && <Stats questions={data.questions} glossary={data.glossary}/>}
+            </>
+          )}
+        </main>
+
+        <nav className="bottom-nav">
+          {tabs.map(({id,icon,label})=>(
+            <button key={id} className={`nav-item${tab===id?' active':''}`} onClick={()=>setTab(id)}>
+              <span className="nav-icon">{icon}</span>
+              <span className="nav-label">{label}</span>
+            </button>
+          ))}
+        </nav>
+      </div>
+    </AppCtx.Provider>
+  );
+}
+
+ReactDOM.createRoot(document.getElementById('root')).render(<App/>);
+</script>
+</body>
+</html>

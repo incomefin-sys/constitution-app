@@ -1,0 +1,4251 @@
+[
+  {
+    "id": 1,
+    "section": "Preambulė",
+    "term": "Atgimimas",
+    "definition": "воскрешение, возрождение",
+    "translation_ru": ""
+  },
+  {
+    "id": 2,
+    "section": "Preambulė",
+    "term": "Atkakliai",
+    "definition": "настойчиво, упорно, упрямо",
+    "translation_ru": ""
+  },
+  {
+    "id": 3,
+    "section": "Preambulė",
+    "term": "Atviras",
+    "definition": "прямой, открытый, явный",
+    "translation_ru": ""
+  },
+  {
+    "id": 4,
+    "section": "Preambulė",
+    "term": "Darnus",
+    "definition": "гармоничный, согласованный",
+    "translation_ru": ""
+  },
+  {
+    "id": 5,
+    "section": "Preambulė",
+    "term": "Dvasia",
+    "definition": "дух",
+    "translation_ru": ""
+  },
+  {
+    "id": 6,
+    "section": "Preambulė",
+    "term": "Gimtas",
+    "definition": "родной, родимый",
+    "translation_ru": ""
+  },
+  {
+    "id": 7,
+    "section": "Preambulė",
+    "term": "Ginti – gina – gynė",
+    "definition": "защищать, оборонять",
+    "translation_ru": ""
+  },
+  {
+    "id": 8,
+    "section": "Preambulė",
+    "term": "Grindyti – grindija – grindijo",
+    "definition": "базировать, основывать",
+    "translation_ru": ""
+  },
+  {
+    "id": 9,
+    "section": "Preambulė",
+    "term": "Įkūnyti – įkūnija – įkūnijo",
+    "definition": "запечатлеть, воплотить, олицетворить",
+    "translation_ru": ""
+  },
+  {
+    "id": 10,
+    "section": "Preambulė",
+    "term": "Kurti – kuria – kūrė",
+    "definition": "творить, создавать",
+    "translation_ru": ""
+  },
+  {
+    "id": 11,
+    "section": "Preambulė",
+    "term": "Laisvė",
+    "definition": "свобода",
+    "translation_ru": ""
+  },
+  {
+    "id": 12,
+    "section": "Preambulė",
+    "term": "Nepriklausomybė",
+    "definition": "независимость",
+    "translation_ru": ""
+  },
+  {
+    "id": 13,
+    "section": "Preambulė",
+    "term": "Pamatai",
+    "definition": "фундамент, база, основание",
+    "translation_ru": ""
+  },
+  {
+    "id": 14,
+    "section": "Preambulė",
+    "term": "Papročiai",
+    "definition": "нравы, обычаи",
+    "translation_ru": ""
+  },
+  {
+    "id": 15,
+    "section": "Preambulė",
+    "term": "Pilietybė",
+    "definition": "гражданство",
+    "translation_ru": ""
+  },
+  {
+    "id": 16,
+    "section": "Preambulė",
+    "term": "Pilietinis",
+    "definition": "гражданский",
+    "translation_ru": ""
+  },
+  {
+    "id": 17,
+    "section": "Preambulė",
+    "term": "Pilietis",
+    "definition": "гражданин",
+    "translation_ru": ""
+  },
+  {
+    "id": 18,
+    "section": "Preambulė",
+    "term": "Prigimtinė teisė",
+    "definition": "естественное право",
+    "translation_ru": ""
+  },
+  {
+    "id": 19,
+    "section": "Preambulė",
+    "term": "Puoselėti – puoselėja – puoselėjo",
+    "definition": "лелеять, холить, нянчить",
+    "translation_ru": ""
+  },
+  {
+    "id": 20,
+    "section": "Preambulė",
+    "term": "Santarvė",
+    "definition": "примирение, согласие, единодушие",
+    "translation_ru": ""
+  },
+  {
+    "id": 21,
+    "section": "Preambulė",
+    "term": "Saugoti – saugo – saugojo",
+    "definition": "хранить, оберегать, беречь",
+    "translation_ru": ""
+  },
+  {
+    "id": 22,
+    "section": "Preambulė",
+    "term": "Siekti – siekia – siekė",
+    "definition": "стремиться",
+    "translation_ru": ""
+  },
+  {
+    "id": 23,
+    "section": "Preambulė",
+    "term": "Sukurti – sukuria – sukūrė",
+    "definition": "образовать, создать, выработать, сочинить",
+    "translation_ru": ""
+  },
+  {
+    "id": 24,
+    "section": "Preambulė",
+    "term": "Šimtametis",
+    "definition": "столетний",
+    "translation_ru": ""
+  },
+  {
+    "id": 25,
+    "section": "Preambulė",
+    "term": "Tauta",
+    "definition": "национальность, народ, нация",
+    "translation_ru": ""
+  },
+  {
+    "id": 26,
+    "section": "Preambulė",
+    "term": "Teisingas",
+    "definition": "справедливый",
+    "translation_ru": ""
+  },
+  {
+    "id": 27,
+    "section": "Preambulė",
+    "term": "Teisinis",
+    "definition": "правовой, юридический",
+    "translation_ru": ""
+  },
+  {
+    "id": 28,
+    "section": "Preambulė",
+    "term": "Valia",
+    "definition": "воля",
+    "translation_ru": ""
+  },
+  {
+    "id": 29,
+    "section": "I skirsnis – Lietuvos valstybė",
+    "term": "(Ne)galiojantis",
+    "definition": "(не)действительный",
+    "translation_ru": ""
+  },
+  {
+    "id": 30,
+    "section": "I skirsnis – Lietuvos valstybė",
+    "term": "Atleisti – atleidžia – atleido",
+    "definition": "освободить, простить, устранить",
+    "translation_ru": ""
+  },
+  {
+    "id": 31,
+    "section": "I skirsnis – Lietuvos valstybė",
+    "term": "Atsakomybė",
+    "definition": "ответственность, ответ, спрос",
+    "translation_ru": ""
+  },
+  {
+    "id": 32,
+    "section": "I skirsnis – Lietuvos valstybė",
+    "term": "Atskiraz",
+    "definition": "отдельный",
+    "translation_ru": ""
+  },
+  {
+    "id": 33,
+    "section": "I skirsnis – Lietuvos valstybė",
+    "term": "Atstovas",
+    "definition": "представитель",
+    "translation_ru": ""
+  },
+  {
+    "id": 34,
+    "section": "I skirsnis – Lietuvos valstybė",
+    "term": "Atvejis",
+    "definition": "случай",
+    "translation_ru": ""
+  },
+  {
+    "id": 35,
+    "section": "I skirsnis – Lietuvos valstybė",
+    "term": "Dalijimas",
+    "definition": "деление",
+    "translation_ru": ""
+  },
+  {
+    "id": 36,
+    "section": "I skirsnis – Lietuvos valstybė",
+    "term": "Darinys",
+    "definition": "образование",
+    "translation_ru": ""
+  },
+  {
+    "id": 37,
+    "section": "I skirsnis – Lietuvos valstybė",
+    "term": "Draudžiama",
+    "definition": "запрещено",
+    "translation_ru": ""
+  },
+  {
+    "id": 38,
+    "section": "I skirsnis – Lietuvos valstybė",
+    "term": "Galia",
+    "definition": "могущество, власть, потенция",
+    "translation_ru": ""
+  },
+  {
+    "id": 39,
+    "section": "I skirsnis – Lietuvos valstybė",
+    "term": "Globoti – globoja – globojo",
+    "definition": "опекать",
+    "translation_ru": ""
+  },
+  {
+    "id": 40,
+    "section": "I skirsnis – Lietuvos valstybė",
+    "term": "Įgyti – įgyja – įgijo",
+    "definition": "приобретать",
+    "translation_ru": ""
+  },
+  {
+    "id": 41,
+    "section": "I skirsnis – Lietuvos valstybė",
+    "term": "Išrinktas",
+    "definition": "избранный",
+    "translation_ru": ""
+  },
+  {
+    "id": 42,
+    "section": "I skirsnis – Lietuvos valstybė",
+    "term": "Išskyrus",
+    "definition": "за исключением",
+    "translation_ru": ""
+  },
+  {
+    "id": 43,
+    "section": "I skirsnis – Lietuvos valstybė",
+    "term": "Įstaiga",
+    "definition": "орган, учреждение, заведение",
+    "translation_ru": ""
+  },
+  {
+    "id": 44,
+    "section": "I skirsnis – Lietuvos valstybė",
+    "term": "Įstatymas",
+    "definition": "закон",
+    "translation_ru": ""
+  },
+  {
+    "id": 45,
+    "section": "I skirsnis – Lietuvos valstybė",
+    "term": "Joks",
+    "definition": "всякий, никакой",
+    "translation_ru": ""
+  },
+  {
+    "id": 46,
+    "section": "I skirsnis – Lietuvos valstybė",
+    "term": "Kėsintis – kesinasi – kesinosi",
+    "definition": "посягать, покушаться",
+    "translation_ru": ""
+  },
+  {
+    "id": 47,
+    "section": "I skirsnis – Lietuvos valstybė",
+    "term": "Laikomas",
+    "definition": "считается",
+    "translation_ru": ""
+  },
+  {
+    "id": 48,
+    "section": "I skirsnis – Lietuvos valstybė",
+    "term": "Narys",
+    "definition": "член",
+    "translation_ru": ""
+  },
+  {
+    "id": 49,
+    "section": "I skirsnis – Lietuvos valstybė",
+    "term": "Netekimas",
+    "definition": "утрата, потеря",
+    "translation_ru": ""
+  },
+  {
+    "id": 50,
+    "section": "I skirsnis – Lietuvos valstybė",
+    "term": "Nustatyti – nustato – nustatė",
+    "definition": "устанавливать",
+    "translation_ru": ""
+  },
+  {
+    "id": 51,
+    "section": "I skirsnis – Lietuvos valstybė",
+    "term": "Paskelbti – paskelbia – paskelbė",
+    "definition": "объявить, обнародовать, опубликовать",
+    "translation_ru": ""
+  },
+  {
+    "id": 52,
+    "section": "I skirsnis – Lietuvos valstybė",
+    "term": "Priešingas",
+    "definition": "противоречащий, обратный, антагонистический",
+    "translation_ru": ""
+  },
+  {
+    "id": 53,
+    "section": "I skirsnis – Lietuvos valstybė",
+    "term": "Priešintis – priešinasi – priešinosi",
+    "definition": "сопротивляться, противодействовать",
+    "translation_ru": ""
+  },
+  {
+    "id": 54,
+    "section": "I skirsnis – Lietuvos valstybė",
+    "term": "Prievarta",
+    "definition": "принуждение, насилие",
+    "translation_ru": ""
+  },
+  {
+    "id": 55,
+    "section": "I skirsnis – Lietuvos valstybė",
+    "term": "Priklausyti – priklauso – priklausė",
+    "definition": "зависеть, принадлежать",
+    "translation_ru": ""
+  },
+  {
+    "id": 56,
+    "section": "I skirsnis – Lietuvos valstybė",
+    "term": "Reikalauti – reikalauja – reikalavo",
+    "definition": "требовать",
+    "translation_ru": ""
+  },
+  {
+    "id": 57,
+    "section": "I skirsnis – Lietuvos valstybė",
+    "term": "Riba",
+    "definition": "предел",
+    "translation_ru": ""
+  },
+  {
+    "id": 58,
+    "section": "I skirsnis – Lietuvos valstybė",
+    "term": "Riboti – riboja – ribojo",
+    "definition": "лимитировать, ущемлять",
+    "translation_ru": ""
+  },
+  {
+    "id": 59,
+    "section": "I skirsnis – Lietuvos valstybė",
+    "term": "Rinkti – renka – rinko",
+    "definition": "избирать",
+    "translation_ru": ""
+  },
+  {
+    "id": 60,
+    "section": "I skirsnis – Lietuvos valstybė",
+    "term": "Remdamasis Konstitucija",
+    "definition": "на основании Конституции",
+    "translation_ru": ""
+  },
+  {
+    "id": 61,
+    "section": "I skirsnis – Lietuvos valstybė",
+    "term": "Santvarka",
+    "definition": "строй, порядок",
+    "translation_ru": ""
+  },
+  {
+    "id": 62,
+    "section": "I skirsnis – Lietuvos valstybė",
+    "term": "Savintis – savinasi – savinosi",
+    "definition": "присваивать",
+    "translation_ru": ""
+  },
+  {
+    "id": 63,
+    "section": "I skirsnis – Lietuvos valstybė",
+    "term": "Siena",
+    "definition": "граница",
+    "translation_ru": ""
+  },
+  {
+    "id": 64,
+    "section": "I skirsnis – Lietuvos valstybė",
+    "term": "Smurtas",
+    "definition": "насилие",
+    "translation_ru": ""
+  },
+  {
+    "id": 65,
+    "section": "I skirsnis – Lietuvos valstybė",
+    "term": "Spręsti – sprendžia – sprendė",
+    "definition": "решить, решать",
+    "translation_ru": ""
+  },
+  {
+    "id": 66,
+    "section": "I skirsnis – Lietuvos valstybė",
+    "term": "Taikomas",
+    "definition": "применимый",
+    "translation_ru": ""
+  },
+  {
+    "id": 67,
+    "section": "I skirsnis – Lietuvos valstybė",
+    "term": "Tarnauti – tarnauja – tarnavo",
+    "definition": "служить",
+    "translation_ru": ""
+  },
+  {
+    "id": 68,
+    "section": "I skirsnis – Lietuvos valstybė",
+    "term": "Sutartis",
+    "definition": "договор",
+    "translation_ru": ""
+  },
+  {
+    "id": 69,
+    "section": "I skirsnis – Lietuvos valstybė",
+    "term": "Numatytas",
+    "definition": "предусмотренный",
+    "translation_ru": ""
+  },
+  {
+    "id": 70,
+    "section": "I skirsnis – Lietuvos valstybė",
+    "term": "Tiesioginis",
+    "definition": "прямой",
+    "translation_ru": ""
+  },
+  {
+    "id": 71,
+    "section": "I skirsnis – Lietuvos valstybė",
+    "term": "Užgrobimas",
+    "definition": "захват",
+    "translation_ru": ""
+  },
+  {
+    "id": 72,
+    "section": "I skirsnis – Lietuvos valstybė",
+    "term": "Valdžia",
+    "definition": "власть",
+    "translation_ru": ""
+  },
+  {
+    "id": 73,
+    "section": "I skirsnis – Lietuvos valstybė",
+    "term": "Varžyti – varžo – varžė",
+    "definition": "ограничивать, притеснять",
+    "translation_ru": ""
+  },
+  {
+    "id": 74,
+    "section": "I skirsnis – Lietuvos valstybė",
+    "term": "Veiksmas",
+    "definition": "действие",
+    "translation_ru": ""
+  },
+  {
+    "id": 75,
+    "section": "I skirsnis – Lietuvos valstybė",
+    "term": "Vėliava",
+    "definition": "флаг",
+    "translation_ru": ""
+  },
+  {
+    "id": 76,
+    "section": "I skirsnis – Lietuvos valstybė",
+    "term": "Vientisumas",
+    "definition": "целостность, монолитность",
+    "translation_ru": ""
+  },
+  {
+    "id": 77,
+    "section": "I skirsnis – Lietuvos valstybė",
+    "term": "Vykdyti – vykdo – vykdė",
+    "definition": "осуществлять, вершить, делать",
+    "translation_ru": ""
+  },
+  {
+    "id": 78,
+    "section": "II skirsnis – Žmogus ir valstybė",
+    "term": "Apeigos",
+    "definition": "обряд",
+    "translation_ru": ""
+  },
+  {
+    "id": 79,
+    "section": "II skirsnis – Žmogus ir valstybė",
+    "term": "Apklausa",
+    "definition": "допрос",
+    "translation_ru": ""
+  },
+  {
+    "id": 80,
+    "section": "II skirsnis – Žmogus ir valstybė",
+    "term": "Apskųsti – apskundžia – apskundė",
+    "definition": "обжаловать",
+    "translation_ru": ""
+  },
+  {
+    "id": 81,
+    "section": "II skirsnis – Žmogus ir valstybė",
+    "term": "Artimi giminaičiai",
+    "definition": "близкие родственники",
+    "translation_ru": ""
+  },
+  {
+    "id": 82,
+    "section": "II skirsnis – Žmogus ir valstybė",
+    "term": "Asmuo",
+    "definition": "личность",
+    "translation_ru": ""
+  },
+  {
+    "id": 83,
+    "section": "II skirsnis – Žmogus ir valstybė",
+    "term": "Atimti – atima – atėmė",
+    "definition": "лишить, отобрать, забрать",
+    "translation_ru": ""
+  },
+  {
+    "id": 84,
+    "section": "II skirsnis – Žmogus ir valstybė",
+    "term": "Atlikinėti – atlikinėja – atlikinėjo",
+    "definition": "выполнять, исполнять",
+    "translation_ru": ""
+  },
+  {
+    "id": 85,
+    "section": "II skirsnis – Žmogus ir valstybė",
+    "term": "Atlikti – atlieka – atliko",
+    "definition": "пройти, совершить",
+    "translation_ru": ""
+  },
+  {
+    "id": 86,
+    "section": "II skirsnis – Žmogus ir valstybė",
+    "term": "Atlyginimas",
+    "definition": "компенсация, возмещение",
+    "translation_ru": ""
+  },
+  {
+    "id": 87,
+    "section": "II skirsnis – Žmogus ir valstybė",
+    "term": "Bandymas",
+    "definition": "эксперимент, опыт",
+    "translation_ru": ""
+  },
+  {
+    "id": 88,
+    "section": "II skirsnis – Žmogus ir valstybė",
+    "term": "Bausmė",
+    "definition": "наказание",
+    "translation_ru": ""
+  },
+  {
+    "id": 89,
+    "section": "II skirsnis – Žmogus ir valstybė",
+    "term": "Bausti – baudžia – baudė",
+    "definition": "наказывать",
+    "translation_ru": ""
+  },
+  {
+    "id": 90,
+    "section": "II skirsnis – Žmogus ir valstybė",
+    "term": "Bešalis",
+    "definition": "беспристрастный",
+    "translation_ru": ""
+  },
+  {
+    "id": 91,
+    "section": "II skirsnis – Žmogus ir valstybė",
+    "term": "Byla",
+    "definition": "дело, тяжба",
+    "translation_ru": ""
+  },
+  {
+    "id": 92,
+    "section": "II skirsnis – Žmogus ir valstybė",
+    "term": "Dorovė",
+    "definition": "нравственность, мораль",
+    "translation_ru": ""
+  },
+  {
+    "id": 93,
+    "section": "II skirsnis – Žmogus ir valstybė",
+    "term": "Drausti – draudžia – draudė",
+    "definition": "запрещать",
+    "translation_ru": ""
+  },
+  {
+    "id": 94,
+    "section": "II skirsnis – Žmogus ir valstybė",
+    "term": "Elgtis – elgiasi – elgėsi",
+    "definition": "обращаться",
+    "translation_ru": ""
+  },
+  {
+    "id": 95,
+    "section": "II skirsnis – Žmogus ir valstybė",
+    "term": "Garbė",
+    "definition": "честь",
+    "translation_ru": ""
+  },
+  {
+    "id": 96,
+    "section": "II skirsnis – Žmogus ir valstybė",
+    "term": "Gauti – gauna – gavo",
+    "definition": "добыть, заполучить, извлечь",
+    "translation_ru": ""
+  },
+  {
+    "id": 97,
+    "section": "II skirsnis – Žmogus ir valstybė",
+    "term": "Gelbėti – gelbėja – gelbėjo",
+    "definition": "спасать, помогать",
+    "translation_ru": ""
+  },
+  {
+    "id": 98,
+    "section": "II skirsnis – Žmogus ir valstybė",
+    "term": "Ginklas",
+    "definition": "оружие",
+    "translation_ru": ""
+  },
+  {
+    "id": 99,
+    "section": "II skirsnis – Žmogus ir valstybė",
+    "term": "Gyvybė",
+    "definition": "жизнь, живот",
+    "translation_ru": ""
+  },
+  {
+    "id": 100,
+    "section": "II skirsnis – Žmogus ir valstybė",
+    "term": "Ieškoti – ieško – ieškojo",
+    "definition": "искать",
+    "translation_ru": ""
+  },
+  {
+    "id": 101,
+    "section": "II skirsnis – Žmogus ir valstybė",
+    "term": "Įgyvendinamas",
+    "definition": "осуществимый, исполнимый",
+    "translation_ru": ""
+  },
+  {
+    "id": 102,
+    "section": "II skirsnis – Žmogus ir valstybė",
+    "term": "Įrodyti – įrodo – įrodė",
+    "definition": "доказать",
+    "translation_ru": ""
+  },
+  {
+    "id": 103,
+    "section": "II skirsnis – Žmogus ir valstybė",
+    "term": "Įsiteisėjimas",
+    "definition": "вступление в законную силу",
+    "translation_ru": ""
+  },
+  {
+    "id": 104,
+    "section": "II skirsnis – Žmogus ir valstybė",
+    "term": "Įsitikinimas",
+    "definition": "убеждение",
+    "translation_ru": ""
+  },
+  {
+    "id": 105,
+    "section": "II skirsnis – Žmogus ir valstybė",
+    "term": "Išnagrinėti – išnagrinėja – išnagrinėjo",
+    "definition": "рассмотреть, расследовать",
+    "translation_ru": ""
+  },
+  {
+    "id": 106,
+    "section": "II skirsnis – Žmogus ir valstybė",
+    "term": "Išpažinti – išpažįsta – išpažino",
+    "definition": "исповедовать",
+    "translation_ru": ""
+  },
+  {
+    "id": 107,
+    "section": "II skirsnis – Žmogus ir valstybė",
+    "term": "Kaltinamas",
+    "definition": "обвиняемый",
+    "translation_ru": ""
+  },
+  {
+    "id": 108,
+    "section": "II skirsnis – Žmogus ir valstybė",
+    "term": "Kaltinti – kaltina – kaltino",
+    "definition": "обвинять",
+    "translation_ru": ""
+  },
+  {
+    "id": 109,
+    "section": "II skirsnis – Žmogus ir valstybė",
+    "term": "Kankinti – kankina – kankino",
+    "definition": "мучить, пытать, истязать",
+    "translation_ru": ""
+  },
+  {
+    "id": 110,
+    "section": "II skirsnis – Žmogus ir valstybė",
+    "term": "Kilmė",
+    "definition": "происхождение, род",
+    "translation_ru": ""
+  },
+  {
+    "id": 111,
+    "section": "II skirsnis – Žmogus ir valstybė",
+    "term": "Kilnotis – kilnojasi – kilnojosi",
+    "definition": "передвигаться, перемещаться",
+    "translation_ru": ""
+  },
+  {
+    "id": 112,
+    "section": "II skirsnis – Žmogus ir valstybė",
+    "term": "Kišimasis",
+    "definition": "вмешательство",
+    "translation_ru": ""
+  },
+  {
+    "id": 113,
+    "section": "II skirsnis – Žmogus ir valstybė",
+    "term": "Kliudyti – kliudo – kliudė",
+    "definition": "противодействовать, мешать",
+    "translation_ru": ""
+  },
+  {
+    "id": 114,
+    "section": "II skirsnis – Žmogus ir valstybė",
+    "term": "Kreiptis – kreipiasi – kreipėsi",
+    "definition": "обратиться",
+    "translation_ru": ""
+  },
+  {
+    "id": 115,
+    "section": "II skirsnis – Žmogus ir valstybė",
+    "term": "Kurstymas",
+    "definition": "разжигание, возбуждение",
+    "translation_ru": ""
+  },
+  {
+    "id": 116,
+    "section": "II skirsnis – Žmogus ir valstybė",
+    "term": "Laiduoti – laiduoja – laidavo",
+    "definition": "гарантировать",
+    "translation_ru": ""
+  },
+  {
+    "id": 117,
+    "section": "II skirsnis – Žmogus ir valstybė",
+    "term": "Laikyti – laiko – laikė suimtą",
+    "definition": "содержать под арестом",
+    "translation_ru": ""
+  },
+  {
+    "id": 118,
+    "section": "II skirsnis – Žmogus ir valstybė",
+    "term": "Lygus",
+    "definition": "равный",
+    "translation_ru": ""
+  },
+  {
+    "id": 119,
+    "section": "II skirsnis – Žmogus ir valstybė",
+    "term": "Mintis",
+    "definition": "мысль, идея",
+    "translation_ru": ""
+  },
+  {
+    "id": 120,
+    "section": "II skirsnis – Žmogus ir valstybė",
+    "term": "Naudoti – naudoja – naudojo",
+    "definition": "использовать, потреблять",
+    "translation_ru": ""
+  },
+  {
+    "id": 121,
+    "section": "II skirsnis – Žmogus ir valstybė",
+    "term": "Neapykanta",
+    "definition": "ненависть, нетерпимость",
+    "translation_ru": ""
+  },
+  {
+    "id": 122,
+    "section": "II skirsnis – Žmogus ir valstybė",
+    "term": "Neliečiamas",
+    "definition": "неприкосновенный",
+    "translation_ru": ""
+  },
+  {
+    "id": 123,
+    "section": "II skirsnis – Žmogus ir valstybė",
+    "term": "Nesuderinamas",
+    "definition": "несовместимый",
+    "translation_ru": ""
+  },
+  {
+    "id": 124,
+    "section": "II skirsnis – Žmogus ir valstybė",
+    "term": "Neveiksnus",
+    "definition": "недееспособный",
+    "translation_ru": ""
+  },
+  {
+    "id": 125,
+    "section": "II skirsnis – Žmogus ir valstybė",
+    "term": "Nuosavybė",
+    "definition": "собственность",
+    "translation_ru": ""
+  },
+  {
+    "id": 126,
+    "section": "II skirsnis – Žmogus ir valstybė",
+    "term": "Nuosprendis",
+    "definition": "приговор",
+    "translation_ru": ""
+  },
+  {
+    "id": 127,
+    "section": "II skirsnis – Žmogus ir valstybė",
+    "term": "Nusikaltimas",
+    "definition": "преступление",
+    "translation_ru": ""
+  },
+  {
+    "id": 128,
+    "section": "II skirsnis – Žmogus ir valstybė",
+    "term": "Nutarimas",
+    "definition": "постановление",
+    "translation_ru": ""
+  },
+  {
+    "id": 129,
+    "section": "II skirsnis – Žmogus ir valstybė",
+    "term": "Orumas",
+    "definition": "достоинство",
+    "translation_ru": ""
+  },
+  {
+    "id": 130,
+    "section": "II skirsnis – Žmogus ir valstybė",
+    "term": "Padaryti – padaro – padarė",
+    "definition": "совершить",
+    "translation_ru": ""
+  },
+  {
+    "id": 131,
+    "section": "II skirsnis – Žmogus ir valstybė",
+    "term": "Paleisti – paleidžia – paleido",
+    "definition": "выпускать",
+    "translation_ru": ""
+  },
+  {
+    "id": 132,
+    "section": "II skirsnis – Žmogus ir valstybė",
+    "term": "Pareigūnas",
+    "definition": "должностное лицо",
+    "translation_ru": ""
+  },
+  {
+    "id": 133,
+    "section": "II skirsnis – Žmogus ir valstybė",
+    "term": "Parodymas",
+    "definition": "показание",
+    "translation_ru": ""
+  },
+  {
+    "id": 134,
+    "section": "II skirsnis – Žmogus ir valstybė",
+    "term": "Pateisinti – pateisina – pateisino",
+    "definition": "оправдать",
+    "translation_ru": ""
+  },
+  {
+    "id": 135,
+    "section": "II skirsnis – Žmogus ir valstybė",
+    "term": "Patirti – patiria – patyrė",
+    "definition": "изведать, испытать",
+    "translation_ru": ""
+  },
+  {
+    "id": 136,
+    "section": "II skirsnis – Žmogus ir valstybė",
+    "term": "Pažeisti – pažeidžia – pažeidė",
+    "definition": "нарушать",
+    "translation_ru": ""
+  },
+  {
+    "id": 137,
+    "section": "II skirsnis – Žmogus ir valstybė",
+    "term": "Persekioti – persekioja – persekiojo",
+    "definition": "преследовать, травить, гнаться",
+    "translation_ru": ""
+  },
+  {
+    "id": 138,
+    "section": "II skirsnis – Žmogus ir valstybė",
+    "term": "Pranešimas",
+    "definition": "сообщение, извещение",
+    "translation_ru": ""
+  },
+  {
+    "id": 139,
+    "section": "II skirsnis – Žmogus ir valstybė",
+    "term": "Privalėti – privalo – privalėjo",
+    "definition": "быть обязанным, быть должным",
+    "translation_ru": ""
+  },
+  {
+    "id": 140,
+    "section": "II skirsnis – Žmogus ir valstybė",
+    "term": "Pripažinti – pripažįsta – pripažino",
+    "definition": "признать",
+    "translation_ru": ""
+  },
+  {
+    "id": 141,
+    "section": "II skirsnis – Žmogus ir valstybė",
+    "term": "Reikšti – reiškia – reiškė",
+    "definition": "выражать, изъявлять",
+    "translation_ru": ""
+  },
+  {
+    "id": 142,
+    "section": "II skirsnis – Žmogus ir valstybė",
+    "term": "Remiantis įstatymu",
+    "definition": "на основании закона",
+    "translation_ru": ""
+  },
+  {
+    "id": 143,
+    "section": "II skirsnis – Žmogus ir valstybė",
+    "term": "Rinkimai",
+    "definition": "выборы",
+    "translation_ru": ""
+  },
+  {
+    "id": 144,
+    "section": "II skirsnis – Žmogus ir valstybė",
+    "term": "Rinkti – renka – rinko",
+    "definition": "собирать",
+    "translation_ru": ""
+  },
+  {
+    "id": 145,
+    "section": "II skirsnis – Žmogus ir valstybė",
+    "term": "Rinktis – renkasi – rinkosi",
+    "definition": "собираться",
+    "translation_ru": ""
+  },
+  {
+    "id": 146,
+    "section": "II skirsnis – Žmogus ir valstybė",
+    "term": "Rūpintis – rūpinasi – rūpinosi",
+    "definition": "заботиться",
+    "translation_ru": ""
+  },
+  {
+    "id": 147,
+    "section": "II skirsnis – Žmogus ir valstybė",
+    "term": "Sąlyga",
+    "definition": "условие",
+    "translation_ru": ""
+  },
+  {
+    "id": 148,
+    "section": "II skirsnis – Žmogus ir valstybė",
+    "term": "Savavališkas",
+    "definition": "произвольный, самовольный",
+    "translation_ru": ""
+  },
+  {
+    "id": 149,
+    "section": "II skirsnis – Žmogus ir valstybė",
+    "term": "Sąžinė",
+    "definition": "совесть",
+    "translation_ru": ""
+  },
+  {
+    "id": 150,
+    "section": "II skirsnis – Žmogus ir valstybė",
+    "term": "Skirti – skiria – skyrė",
+    "definition": "назначить",
+    "translation_ru": ""
+  },
+  {
+    "id": 151,
+    "section": "II skirsnis – Žmogus ir valstybė",
+    "term": "Skleisti – skleidžia – skleidė",
+    "definition": "распространять, распускать",
+    "translation_ru": ""
+  },
+  {
+    "id": 152,
+    "section": "II skirsnis – Žmogus ir valstybė",
+    "term": "Spręsti – sprendžia – sprendė",
+    "definition": "решать",
+    "translation_ru": ""
+  },
+  {
+    "id": 153,
+    "section": "II skirsnis – Žmogus ir valstybė",
+    "term": "Steigimas",
+    "definition": "создание, учреждение",
+    "translation_ru": ""
+  },
+  {
+    "id": 154,
+    "section": "II skirsnis – Žmogus ir valstybė",
+    "term": "Stoti – stoja – stojo",
+    "definition": "поступить, вступить, становиться",
+    "translation_ru": ""
+  },
+  {
+    "id": 155,
+    "section": "II skirsnis – Žmogus ir valstybė",
+    "term": "Sukakti – sukanka – sukako",
+    "definition": "стукнуть, минуть, исполниться",
+    "translation_ru": ""
+  },
+  {
+    "id": 156,
+    "section": "II skirsnis – Žmogus ir valstybė",
+    "term": "Sulaikymas",
+    "definition": "задержание, остановка",
+    "translation_ru": ""
+  },
+  {
+    "id": 157,
+    "section": "II skirsnis – Žmogus ir valstybė",
+    "term": "Susirašinėjimas",
+    "definition": "переписка, корреспонденция",
+    "translation_ru": ""
+  },
+  {
+    "id": 158,
+    "section": "II skirsnis – Žmogus ir valstybė",
+    "term": "Susirinkti – susirenka – susirinko",
+    "definition": "собираться",
+    "translation_ru": ""
+  },
+  {
+    "id": 159,
+    "section": "II skirsnis – Žmogus ir valstybė",
+    "term": "Susižinojimas",
+    "definition": "сношение",
+    "translation_ru": ""
+  },
+  {
+    "id": 160,
+    "section": "II skirsnis – Žmogus ir valstybė",
+    "term": "Sutikimas",
+    "definition": "согласие, разрешение, встреча",
+    "translation_ru": ""
+  },
+  {
+    "id": 161,
+    "section": "II skirsnis – Žmogus ir valstybė",
+    "term": "Šmeižtas",
+    "definition": "клевета",
+    "translation_ru": ""
+  },
+  {
+    "id": 162,
+    "section": "II skirsnis – Žmogus ir valstybė",
+    "term": "Taikus",
+    "definition": "мирный",
+    "translation_ru": ""
+  },
+  {
+    "id": 163,
+    "section": "II skirsnis – Žmogus ir valstybė",
+    "term": "Teikti – teikia – teikė",
+    "definition": "дать, предоставить",
+    "translation_ru": ""
+  },
+  {
+    "id": 164,
+    "section": "II skirsnis – Žmogus ir valstybė",
+    "term": "Teisė į gynybą",
+    "definition": "право на защиту",
+    "translation_ru": ""
+  },
+  {
+    "id": 165,
+    "section": "II skirsnis – Žmogus ir valstybė",
+    "term": "Teisingumas",
+    "definition": "правосудие",
+    "translation_ru": ""
+  },
+  {
+    "id": 166,
+    "section": "II skirsnis – Žmogus ir valstybė",
+    "term": "Tikėjimas",
+    "definition": "вероисповедание",
+    "translation_ru": ""
+  },
+  {
+    "id": 167,
+    "section": "II skirsnis – Žmogus ir valstybė",
+    "term": "Tikslai",
+    "definition": "цели",
+    "translation_ru": ""
+  },
+  {
+    "id": 168,
+    "section": "II skirsnis – Žmogus ir valstybė",
+    "term": "Trukdyti – trukdo – trukdė",
+    "definition": "препятствовать",
+    "translation_ru": ""
+  },
+  {
+    "id": 169,
+    "section": "II skirsnis – Žmogus ir valstybė",
+    "term": "Tuojau pat",
+    "definition": "немедленно, тотчас",
+    "translation_ru": ""
+  },
+  {
+    "id": 170,
+    "section": "II skirsnis – Žmogus ir valstybė",
+    "term": "Turtas",
+    "definition": "имущество, состояние",
+    "translation_ru": ""
+  },
+  {
+    "id": 171,
+    "section": "II skirsnis – Žmogus ir valstybė",
+    "term": "Valstybinė tarnyba",
+    "definition": "государственная служба",
+    "translation_ru": ""
+  },
+  {
+    "id": 172,
+    "section": "II skirsnis – Žmogus ir valstybė",
+    "term": "Varžyti – varžo – varžė",
+    "definition": "притеснять, ограничивать",
+    "translation_ru": ""
+  },
+  {
+    "id": 173,
+    "section": "II skirsnis – Žmogus ir valstybė",
+    "term": "Veikla",
+    "definition": "деятельность, занятие, поприще",
+    "translation_ru": ""
+  },
+  {
+    "id": 174,
+    "section": "II skirsnis – Žmogus ir valstybė",
+    "term": "Versti – verčia – vertė",
+    "definition": "заставлять, принуждать",
+    "translation_ru": ""
+  },
+  {
+    "id": 175,
+    "section": "II skirsnis – Žmogus ir valstybė",
+    "term": "Vienytis – vienijasi – vienijosi",
+    "definition": "объединяться",
+    "translation_ru": ""
+  },
+  {
+    "id": 176,
+    "section": "II skirsnis – Žmogus ir valstybė",
+    "term": "Viešai",
+    "definition": "открыто, публично",
+    "translation_ru": ""
+  },
+  {
+    "id": 177,
+    "section": "II skirsnis – Žmogus ir valstybė",
+    "term": "Viešoji tvarka",
+    "definition": "общественный порядок",
+    "translation_ru": ""
+  },
+  {
+    "id": 178,
+    "section": "II skirsnis – Žmogus ir valstybė",
+    "term": "Vykdymas",
+    "definition": "исполнение",
+    "translation_ru": ""
+  },
+  {
+    "id": 179,
+    "section": "II skirsnis – Žmogus ir valstybė",
+    "term": "Žaloti – žaloja – žalojo",
+    "definition": "увечить, калечить",
+    "translation_ru": ""
+  },
+  {
+    "id": 180,
+    "section": "II skirsnis – Žmogus ir valstybė",
+    "term": "Žeminti – žemina – žemino",
+    "definition": "унижать, принижать",
+    "translation_ru": ""
+  },
+  {
+    "id": 181,
+    "section": "II skirsnis – Žmogus ir valstybė",
+    "term": "Žiaurus",
+    "definition": "жестокий",
+    "translation_ru": ""
+  },
+  {
+    "id": 182,
+    "section": "II skirsnis – Žmogus ir valstybė",
+    "term": "Žinia",
+    "definition": "новость, извещение",
+    "translation_ru": ""
+  },
+  {
+    "id": 183,
+    "section": "III skirsnis – Visuomenė ir valstybė",
+    "term": "Atlikti – atlieka – atliko",
+    "definition": "совершить, выполнить",
+    "translation_ru": ""
+  },
+  {
+    "id": 184,
+    "section": "III skirsnis – Visuomenė ir valstybė",
+    "term": "Atrama",
+    "definition": "опора",
+    "translation_ru": ""
+  },
+  {
+    "id": 185,
+    "section": "III skirsnis – Visuomenė ir valstybė",
+    "term": "Auginti",
+    "definition": "выращивать",
+    "translation_ru": ""
+  },
+  {
+    "id": 186,
+    "section": "III skirsnis – Visuomenė ir valstybė",
+    "term": "Auklėti – auklėja – auklėjo",
+    "definition": "воспитывать",
+    "translation_ru": ""
+  },
+  {
+    "id": 187,
+    "section": "III skirsnis – Visuomenė ir valstybė",
+    "term": "Bažnytinis",
+    "definition": "церковный",
+    "translation_ru": ""
+  },
+  {
+    "id": 188,
+    "section": "III skirsnis – Visuomenė ir valstybė",
+    "term": "Bendrojo lavinimo",
+    "definition": "общеобразовательный",
+    "translation_ru": ""
+  },
+  {
+    "id": 189,
+    "section": "III skirsnis – Visuomenė ir valstybė",
+    "term": "Būklė",
+    "definition": "положение",
+    "translation_ru": ""
+  },
+  {
+    "id": 190,
+    "section": "III skirsnis – Visuomenė ir valstybė",
+    "term": "Dėstymas",
+    "definition": "преподавание",
+    "translation_ru": ""
+  },
+  {
+    "id": 191,
+    "section": "III skirsnis – Visuomenė ir valstybė",
+    "term": "Doras",
+    "definition": "честный",
+    "translation_ru": ""
+  },
+  {
+    "id": 192,
+    "section": "III skirsnis – Visuomenė ir valstybė",
+    "term": "Dvasininkas",
+    "definition": "священник",
+    "translation_ru": ""
+  },
+  {
+    "id": 193,
+    "section": "III skirsnis – Visuomenė ir valstybė",
+    "term": "Gerbti – gerbia – gerbė",
+    "definition": "уважать",
+    "translation_ru": ""
+  },
+  {
+    "id": 194,
+    "section": "III skirsnis – Visuomenė ir valstybė",
+    "term": "Gimimas",
+    "definition": "рождение",
+    "translation_ru": ""
+  },
+  {
+    "id": 195,
+    "section": "III skirsnis – Visuomenė ir valstybė",
+    "term": "Išlaikyti – išlaiko – išlaikė",
+    "definition": "выдержать, содержать",
+    "translation_ru": ""
+  },
+  {
+    "id": 196,
+    "section": "III skirsnis – Visuomenė ir valstybė",
+    "term": "Ištikimas",
+    "definition": "преданный",
+    "translation_ru": ""
+  },
+  {
+    "id": 197,
+    "section": "III skirsnis – Visuomenė ir valstybė",
+    "term": "Kūryba",
+    "definition": "творчество",
+    "translation_ru": ""
+  },
+  {
+    "id": 198,
+    "section": "III skirsnis – Visuomenė ir valstybė",
+    "term": "Labdarybė",
+    "definition": "благотворительность",
+    "translation_ru": ""
+  },
+  {
+    "id": 199,
+    "section": "III skirsnis – Visuomenė ir valstybė",
+    "term": "Lengvata",
+    "definition": "льгота",
+    "translation_ru": ""
+  },
+  {
+    "id": 200,
+    "section": "III skirsnis – Visuomenė ir valstybė",
+    "term": "Maldos namai",
+    "definition": "дом для молебнов",
+    "translation_ru": ""
+  },
+  {
+    "id": 201,
+    "section": "III skirsnis – Visuomenė ir valstybė",
+    "term": "Menas",
+    "definition": "искусство",
+    "translation_ru": ""
+  },
+  {
+    "id": 202,
+    "section": "III skirsnis – Visuomenė ir valstybė",
+    "term": "Mirtis",
+    "definition": "смерть",
+    "translation_ru": ""
+  },
+  {
+    "id": 203,
+    "section": "III skirsnis – Visuomenė ir valstybė",
+    "term": "Mokamos atostogos",
+    "definition": "оплачиваемый отпуск",
+    "translation_ru": ""
+  },
+  {
+    "id": 204,
+    "section": "III skirsnis – Visuomenė ir valstybė",
+    "term": "Mokslas",
+    "definition": "наука, образование",
+    "translation_ru": ""
+  },
+  {
+    "id": 205,
+    "section": "III skirsnis – Visuomenė ir valstybė",
+    "term": "Motinystė",
+    "definition": "материнство",
+    "translation_ru": ""
+  },
+  {
+    "id": 206,
+    "section": "III skirsnis – Visuomenė ir valstybė",
+    "term": "Palankus",
+    "definition": "благоприятный",
+    "translation_ru": ""
+  },
+  {
+    "id": 207,
+    "section": "III skirsnis – Visuomenė ir valstybė",
+    "term": "Palikimas",
+    "definition": "наследство, наследие",
+    "translation_ru": ""
+  },
+  {
+    "id": 208,
+    "section": "III skirsnis – Visuomenė ir valstybė",
+    "term": "Paminklas",
+    "definition": "памятник",
+    "translation_ru": ""
+  },
+  {
+    "id": 209,
+    "section": "III skirsnis – Visuomenė ir valstybė",
+    "term": "Parama",
+    "definition": "поддержка",
+    "translation_ru": ""
+  },
+  {
+    "id": 210,
+    "section": "III skirsnis – Visuomenė ir valstybė",
+    "term": "Pareiga",
+    "definition": "обязанность",
+    "translation_ru": ""
+  },
+  {
+    "id": 211,
+    "section": "III skirsnis – Visuomenė ir valstybė",
+    "term": "Pasaulietinis",
+    "definition": "светский",
+    "translation_ru": ""
+  },
+  {
+    "id": 212,
+    "section": "III skirsnis – Visuomenė ir valstybė",
+    "term": "Pilnametystė",
+    "definition": "совершеннолетие",
+    "translation_ru": ""
+  },
+  {
+    "id": 213,
+    "section": "III skirsnis – Visuomenė ir valstybė",
+    "term": "Prieinamas",
+    "definition": "доступный",
+    "translation_ru": ""
+  },
+  {
+    "id": 214,
+    "section": "III skirsnis – Visuomenė ir valstybė",
+    "term": "Priežiūra",
+    "definition": "надзор",
+    "translation_ru": ""
+  },
+  {
+    "id": 215,
+    "section": "III skirsnis – Visuomenė ir valstybė",
+    "term": "Privalomas",
+    "definition": "обязательный",
+    "translation_ru": ""
+  },
+  {
+    "id": 216,
+    "section": "III skirsnis – Visuomenė ir valstybė",
+    "term": "Remti – remia – rėmė",
+    "definition": "поддерживать",
+    "translation_ru": ""
+  },
+  {
+    "id": 217,
+    "section": "III skirsnis – Visuomenė ir valstybė",
+    "term": "Rengti – rengia – rengė",
+    "definition": "подготавливать, готовить",
+    "translation_ru": ""
+  },
+  {
+    "id": 218,
+    "section": "III skirsnis – Visuomenė ir valstybė",
+    "term": "Santuoka",
+    "definition": "брак",
+    "translation_ru": ""
+  },
+  {
+    "id": 219,
+    "section": "III skirsnis – Visuomenė ir valstybė",
+    "term": "Skelbti – skelbia – skelbė",
+    "definition": "проповедовать",
+    "translation_ru": ""
+  },
+  {
+    "id": 220,
+    "section": "III skirsnis – Visuomenė ir valstybė",
+    "term": "Steigti – steigia – steigė",
+    "definition": "учреждать, основывать",
+    "translation_ru": ""
+  },
+  {
+    "id": 221,
+    "section": "III skirsnis – Visuomenė ir valstybė",
+    "term": "Sudaryti – sudaro – sudarė",
+    "definition": "заключить",
+    "translation_ru": ""
+  },
+  {
+    "id": 222,
+    "section": "III skirsnis – Visuomenė ir valstybė",
+    "term": "Sugebėjimas",
+    "definition": "способность",
+    "translation_ru": ""
+  },
+  {
+    "id": 223,
+    "section": "III skirsnis – Visuomenė ir valstybė",
+    "term": "Susijęs",
+    "definition": "сопряженный, связанный",
+    "translation_ru": ""
+  },
+  {
+    "id": 224,
+    "section": "III skirsnis – Visuomenė ir valstybė",
+    "term": "Susitarimas",
+    "definition": "соглашение",
+    "translation_ru": ""
+  },
+  {
+    "id": 225,
+    "section": "III skirsnis – Visuomenė ir valstybė",
+    "term": "Suteikti – suteikia – suteikė",
+    "definition": "предоставить",
+    "translation_ru": ""
+  },
+  {
+    "id": 226,
+    "section": "III skirsnis – Visuomenė ir valstybė",
+    "term": "Sutuoktinis",
+    "definition": "супруг",
+    "translation_ru": ""
+  },
+  {
+    "id": 227,
+    "section": "III skirsnis – Visuomenė ir valstybė",
+    "term": "Tausoti – tausoja – tausojo",
+    "definition": "содержать, сохранять",
+    "translation_ru": ""
+  },
+  {
+    "id": 228,
+    "section": "III skirsnis – Visuomenė ir valstybė",
+    "term": "Tėvystė",
+    "definition": "отцовство",
+    "translation_ru": ""
+  },
+  {
+    "id": 229,
+    "section": "III skirsnis – Visuomenė ir valstybė",
+    "term": "Tikyba",
+    "definition": "вероисповедание, религия",
+    "translation_ru": ""
+  },
+  {
+    "id": 230,
+    "section": "III skirsnis – Visuomenė ir valstybė",
+    "term": "Tyrinėjimas",
+    "definition": "исследование",
+    "translation_ru": ""
+  },
+  {
+    "id": 231,
+    "section": "III skirsnis – Visuomenė ir valstybė",
+    "term": "Tvarkytis – tvarkosi – tvarkėsi",
+    "definition": "распоряжаться, наводить у себя порядок",
+    "translation_ru": ""
+  },
+  {
+    "id": 232,
+    "section": "III skirsnis – Visuomenė ir valstybė",
+    "term": "Vaikystė",
+    "definition": "детство",
+    "translation_ru": ""
+  },
+  {
+    "id": 233,
+    "section": "III skirsnis – Visuomenė ir valstybė",
+    "term": "Vertybė",
+    "definition": "ценность",
+    "translation_ru": ""
+  },
+  {
+    "id": 234,
+    "section": "IV skirsnis – Tautos ūkis ir darbas",
+    "term": "Apibrėžti – apibrėžia – apibrėžė",
+    "definition": "определить",
+    "translation_ru": ""
+  },
+  {
+    "id": 235,
+    "section": "IV skirsnis – Tautos ūkis ir darbas",
+    "term": "Aplinka",
+    "definition": "среда окружающая",
+    "translation_ru": ""
+  },
+  {
+    "id": 236,
+    "section": "IV skirsnis – Tautos ūkis ir darbas",
+    "term": "Apribojimas",
+    "definition": "ограничение",
+    "translation_ru": ""
+  },
+  {
+    "id": 237,
+    "section": "IV skirsnis – Tautos ūkis ir darbas",
+    "term": "Atkurti – atkuria – atkūrė",
+    "definition": "восстановить",
+    "translation_ru": ""
+  },
+  {
+    "id": 238,
+    "section": "IV skirsnis – Tautos ūkis ir darbas",
+    "term": "Augalas",
+    "definition": "растение",
+    "translation_ru": ""
+  },
+  {
+    "id": 239,
+    "section": "IV skirsnis – Tautos ūkis ir darbas",
+    "term": "Darbuotojas",
+    "definition": "работник",
+    "translation_ru": ""
+  },
+  {
+    "id": 240,
+    "section": "IV skirsnis – Tautos ūkis ir darbas",
+    "term": "Erdvė",
+    "definition": "пространство",
+    "translation_ru": ""
+  },
+  {
+    "id": 241,
+    "section": "IV skirsnis – Tautos ūkis ir darbas",
+    "term": "Gamta",
+    "definition": "природа",
+    "translation_ru": ""
+  },
+  {
+    "id": 242,
+    "section": "IV skirsnis – Tautos ūkis ir darbas",
+    "term": "Gamyba",
+    "definition": "производство",
+    "translation_ru": ""
+  },
+  {
+    "id": 243,
+    "section": "IV skirsnis – Tautos ūkis ir darbas",
+    "term": "Gausinimas",
+    "definition": "умножение, увеличение, наращивание",
+    "translation_ru": ""
+  },
+  {
+    "id": 244,
+    "section": "IV skirsnis – Tautos ūkis ir darbas",
+    "term": "Gelmės",
+    "definition": "недра",
+    "translation_ru": ""
+  },
+  {
+    "id": 245,
+    "section": "IV skirsnis – Tautos ūkis ir darbas",
+    "term": "Gerovė",
+    "definition": "благо",
+    "translation_ru": ""
+  },
+  {
+    "id": 246,
+    "section": "IV skirsnis – Tautos ūkis ir darbas",
+    "term": "Gyvūnas",
+    "definition": "животное",
+    "translation_ru": ""
+  },
+  {
+    "id": 247,
+    "section": "IV skirsnis – Tautos ūkis ir darbas",
+    "term": "Įsigyti – įsigyja – įsigijo",
+    "definition": "приобрести, получить",
+    "translation_ru": ""
+  },
+  {
+    "id": 248,
+    "section": "IV skirsnis – Tautos ūkis ir darbas",
+    "term": "Išimtinis",
+    "definition": "исключительный",
+    "translation_ru": ""
+  },
+  {
+    "id": 249,
+    "section": "IV skirsnis – Tautos ūkis ir darbas",
+    "term": "Ištekliai",
+    "definition": "ресурсы",
+    "translation_ru": ""
+  },
+  {
+    "id": 250,
+    "section": "IV skirsnis – Tautos ūkis ir darbas",
+    "term": "Kariuomenė",
+    "definition": "армия",
+    "translation_ru": ""
+  },
+  {
+    "id": 251,
+    "section": "IV skirsnis – Tautos ūkis ir darbas",
+    "term": "Kasmetinis",
+    "definition": "ежегодный",
+    "translation_ru": ""
+  },
+  {
+    "id": 252,
+    "section": "IV skirsnis – Tautos ūkis ir darbas",
+    "term": "Kenksmingas",
+    "definition": "вредный",
+    "translation_ru": ""
+  },
+  {
+    "id": 253,
+    "section": "IV skirsnis – Tautos ūkis ir darbas",
+    "term": "Laisvalaikis",
+    "definition": "досуг, свободное время",
+    "translation_ru": ""
+  },
+  {
+    "id": 254,
+    "section": "IV skirsnis – Tautos ūkis ir darbas",
+    "term": "Liga",
+    "definition": "болезнь",
+    "translation_ru": ""
+  },
+  {
+    "id": 255,
+    "section": "IV skirsnis – Tautos ūkis ir darbas",
+    "term": "Maitintojas",
+    "definition": "кормилец",
+    "translation_ru": ""
+  },
+  {
+    "id": 256,
+    "section": "IV skirsnis – Tautos ūkis ir darbas",
+    "term": "Našlystė",
+    "definition": "вдовство",
+    "translation_ru": ""
+  },
+  {
+    "id": 257,
+    "section": "IV skirsnis – Tautos ūkis ir darbas",
+    "term": "Nedarbas",
+    "definition": "безработица",
+    "translation_ru": ""
+  },
+  {
+    "id": 258,
+    "section": "IV skirsnis – Tautos ūkis ir darbas",
+    "term": "Netekti – netenka – neteko",
+    "definition": "потерять",
+    "translation_ru": ""
+  },
+  {
+    "id": 259,
+    "section": "IV skirsnis – Tautos ūkis ir darbas",
+    "term": "Niokoti – niokoja – niokiojo",
+    "definition": "опустошать",
+    "translation_ru": ""
+  },
+  {
+    "id": 260,
+    "section": "IV skirsnis – Tautos ūkis ir darbas",
+    "term": "Nuteistasis",
+    "definition": "осужденный",
+    "translation_ru": ""
+  },
+  {
+    "id": 261,
+    "section": "IV skirsnis – Tautos ūkis ir darbas",
+    "term": "Pagalba",
+    "definition": "помощь",
+    "translation_ru": ""
+  },
+  {
+    "id": 262,
+    "section": "IV skirsnis – Tautos ūkis ir darbas",
+    "term": "Pakeisti – pakeičia – pakeitė",
+    "definition": "заменить",
+    "translation_ru": ""
+  },
+  {
+    "id": 263,
+    "section": "IV skirsnis – Tautos ūkis ir darbas",
+    "term": "Paslauga",
+    "definition": "услуга",
+    "translation_ru": ""
+  },
+  {
+    "id": 264,
+    "section": "IV skirsnis – Tautos ūkis ir darbas",
+    "term": "Pastanga",
+    "definition": "усилие",
+    "translation_ru": ""
+  },
+  {
+    "id": 265,
+    "section": "IV skirsnis – Tautos ūkis ir darbas",
+    "term": "Poilsis",
+    "definition": "отдых",
+    "translation_ru": ""
+  },
+  {
+    "id": 266,
+    "section": "IV skirsnis – Tautos ūkis ir darbas",
+    "term": "Poveikis",
+    "definition": "воздействие",
+    "translation_ru": ""
+  },
+  {
+    "id": 267,
+    "section": "IV skirsnis – Tautos ūkis ir darbas",
+    "term": "Priverčiamas",
+    "definition": "принудительный",
+    "translation_ru": ""
+  },
+  {
+    "id": 268,
+    "section": "IV skirsnis – Tautos ūkis ir darbas",
+    "term": "Profesinė sąjunga",
+    "definition": "профессиональный союз",
+    "translation_ru": ""
+  },
+  {
+    "id": 269,
+    "section": "IV skirsnis – Tautos ūkis ir darbas",
+    "term": "Reikšmė",
+    "definition": "значение",
+    "translation_ru": ""
+  },
+  {
+    "id": 270,
+    "section": "IV skirsnis – Tautos ūkis ir darbas",
+    "term": "Rinka",
+    "definition": "рынок",
+    "translation_ru": ""
+  },
+  {
+    "id": 271,
+    "section": "IV skirsnis – Tautos ūkis ir darbas",
+    "term": "Sąžiningas",
+    "definition": "честный",
+    "translation_ru": ""
+  },
+  {
+    "id": 272,
+    "section": "IV skirsnis – Tautos ūkis ir darbas",
+    "term": "Senatvė",
+    "definition": "старость",
+    "translation_ru": ""
+  },
+  {
+    "id": 273,
+    "section": "IV skirsnis – Tautos ūkis ir darbas",
+    "term": "Skatinti – skatina – skatino",
+    "definition": "поощрять",
+    "translation_ru": ""
+  },
+  {
+    "id": 274,
+    "section": "IV skirsnis – Tautos ūkis ir darbas",
+    "term": "Sklypas",
+    "definition": "участок",
+    "translation_ru": ""
+  },
+  {
+    "id": 275,
+    "section": "IV skirsnis – Tautos ūkis ir darbas",
+    "term": "Skurdinti – skurdina – skurdino",
+    "definition": "обеднять",
+    "translation_ru": ""
+  },
+  {
+    "id": 276,
+    "section": "IV skirsnis – Tautos ūkis ir darbas",
+    "term": "Streikuoti – streikuoja – streikavo",
+    "definition": "бастовать",
+    "translation_ru": ""
+  },
+  {
+    "id": 277,
+    "section": "IV skirsnis – Tautos ūkis ir darbas",
+    "term": "Su saiku",
+    "definition": "в меру",
+    "translation_ru": ""
+  },
+  {
+    "id": 278,
+    "section": "IV skirsnis – Tautos ūkis ir darbas",
+    "term": "Susirgti – suserga – susirgo",
+    "definition": "заболеть",
+    "translation_ru": ""
+  },
+  {
+    "id": 279,
+    "section": "IV skirsnis – Tautos ūkis ir darbas",
+    "term": "Suteikti – suteikia – suteikė",
+    "definition": "оказать",
+    "translation_ru": ""
+  },
+  {
+    "id": 280,
+    "section": "IV skirsnis – Tautos ūkis ir darbas",
+    "term": "Tarnauti – tarnauja – tarnavo",
+    "definition": "служить",
+    "translation_ru": ""
+  },
+  {
+    "id": 281,
+    "section": "IV skirsnis – Tautos ūkis ir darbas",
+    "term": "Teršti – teršia – teršė",
+    "definition": "загрязнять",
+    "translation_ru": ""
+  },
+  {
+    "id": 282,
+    "section": "IV skirsnis – Tautos ūkis ir darbas",
+    "term": "Tinkamas",
+    "definition": "соответствующий",
+    "translation_ru": ""
+  },
+  {
+    "id": 283,
+    "section": "IV skirsnis – Tautos ūkis ir darbas",
+    "term": "Trukmė",
+    "definition": "продолжительность",
+    "translation_ru": ""
+  },
+  {
+    "id": 284,
+    "section": "IV skirsnis – Tautos ūkis ir darbas",
+    "term": "Ūkis",
+    "definition": "хозяйство",
+    "translation_ru": ""
+  },
+  {
+    "id": 285,
+    "section": "IV skirsnis – Tautos ūkis ir darbas",
+    "term": "Užsienietis",
+    "definition": "иностранец",
+    "translation_ru": ""
+  },
+  {
+    "id": 286,
+    "section": "IV skirsnis – Tautos ūkis ir darbas",
+    "term": "Vartotojas",
+    "definition": "потребитель",
+    "translation_ru": ""
+  },
+  {
+    "id": 287,
+    "section": "IV skirsnis – Tautos ūkis ir darbas",
+    "term": "Verslas",
+    "definition": "бизнес, ремесло",
+    "translation_ru": ""
+  },
+  {
+    "id": 288,
+    "section": "IV skirsnis – Tautos ūkis ir darbas",
+    "term": "Vidaus",
+    "definition": "внутренний",
+    "translation_ru": ""
+  },
+  {
+    "id": 289,
+    "section": "IV skirsnis – Tautos ūkis ir darbas",
+    "term": "Ypatingas",
+    "definition": "чрезвычайный",
+    "translation_ru": ""
+  },
+  {
+    "id": 290,
+    "section": "V skirsnis – Seimas",
+    "term": "Apdovanojimas",
+    "definition": "награда",
+    "translation_ru": ""
+  },
+  {
+    "id": 291,
+    "section": "V skirsnis – Seimas",
+    "term": "Apkalta",
+    "definition": "обвинение, импичмент",
+    "translation_ru": ""
+  },
+  {
+    "id": 292,
+    "section": "V skirsnis – Seimas",
+    "term": "Apsvarstyti – apsvarsto – apsvarstė",
+    "definition": "обсудить, рассмотреть",
+    "translation_ru": ""
+  },
+  {
+    "id": 293,
+    "section": "V skirsnis – Seimas",
+    "term": "Atlyginimas",
+    "definition": "вознаграждение",
+    "translation_ru": ""
+  },
+  {
+    "id": 294,
+    "section": "V skirsnis – Seimas",
+    "term": "Atsistatydinti – atsistatydina – atsistatydino",
+    "definition": "подать в отставку",
+    "translation_ru": ""
+  },
+  {
+    "id": 295,
+    "section": "V skirsnis – Seimas",
+    "term": "Baigti – baigia – baigė",
+    "definition": "закончить",
+    "translation_ru": ""
+  },
+  {
+    "id": 296,
+    "section": "V skirsnis – Seimas",
+    "term": "Balsas",
+    "definition": "голос",
+    "translation_ru": ""
+  },
+  {
+    "id": 297,
+    "section": "V skirsnis – Seimas",
+    "term": "Balsavimas",
+    "definition": "голосование",
+    "translation_ru": ""
+  },
+  {
+    "id": 298,
+    "section": "V skirsnis – Seimas",
+    "term": "Baudžiamasis",
+    "definition": "уголовный",
+    "translation_ru": ""
+  },
+  {
+    "id": 299,
+    "section": "V skirsnis – Seimas",
+    "term": "Dauguma",
+    "definition": "большинство",
+    "translation_ru": ""
+  },
+  {
+    "id": 300,
+    "section": "V skirsnis – Seimas",
+    "term": "Eilinis",
+    "definition": "очередной",
+    "translation_ru": ""
+  },
+  {
+    "id": 301,
+    "section": "V skirsnis – Seimas",
+    "term": "Eiti pareigas",
+    "definition": "исполнять обязанности",
+    "translation_ru": ""
+  },
+  {
+    "id": 302,
+    "section": "V skirsnis – Seimas",
+    "term": "Ginkluotosios pajėgos",
+    "definition": "вооруженные силы",
+    "translation_ru": ""
+  },
+  {
+    "id": 303,
+    "section": "V skirsnis – Seimas",
+    "term": "Grąžinti – grąžina – grąžino",
+    "definition": "вернуть",
+    "translation_ru": ""
+  },
+  {
+    "id": 304,
+    "section": "V skirsnis – Seimas",
+    "term": "Įgaliojimas",
+    "definition": "полномочие, доверенность",
+    "translation_ru": ""
+  },
+  {
+    "id": 305,
+    "section": "V skirsnis – Seimas",
+    "term": "Įmonė",
+    "definition": "предприятие",
+    "translation_ru": ""
+  },
+  {
+    "id": 306,
+    "section": "V skirsnis – Seimas",
+    "term": "Iš eilės",
+    "definition": "подряд",
+    "translation_ru": ""
+  },
+  {
+    "id": 307,
+    "section": "V skirsnis – Seimas",
+    "term": "Iš naujo",
+    "definition": "заново",
+    "translation_ru": ""
+  },
+  {
+    "id": 308,
+    "section": "V skirsnis – Seimas",
+    "term": "Įsigaliojimas",
+    "definition": "вступление в силу",
+    "translation_ru": ""
+  },
+  {
+    "id": 309,
+    "section": "V skirsnis – Seimas",
+    "term": "Išlaidos",
+    "definition": "расход",
+    "translation_ru": ""
+  },
+  {
+    "id": 310,
+    "section": "V skirsnis – Seimas",
+    "term": "Įvykti – įvyksta – įvyko",
+    "definition": "произойти",
+    "translation_ru": ""
+  },
+  {
+    "id": 311,
+    "section": "V skirsnis – Seimas",
+    "term": "Įžeidimas",
+    "definition": "оскорбление",
+    "translation_ru": ""
+  },
+  {
+    "id": 312,
+    "section": "V skirsnis – Seimas",
+    "term": "Kadencija",
+    "definition": "срок полномочий",
+    "translation_ru": ""
+  },
+  {
+    "id": 313,
+    "section": "V skirsnis – Seimas",
+    "term": "Keisti – keičia – keitė",
+    "definition": "менять",
+    "translation_ru": ""
+  },
+  {
+    "id": 314,
+    "section": "V skirsnis – Seimas",
+    "term": "Krašto apsaugos tarnyba",
+    "definition": "служба по охране края",
+    "translation_ru": ""
+  },
+  {
+    "id": 315,
+    "section": "V skirsnis – Seimas",
+    "term": "Kūrybinis",
+    "definition": "творческий",
+    "translation_ru": ""
+  },
+  {
+    "id": 316,
+    "section": "V skirsnis – Seimas",
+    "term": "Laikas",
+    "definition": "срок",
+    "translation_ru": ""
+  },
+  {
+    "id": 317,
+    "section": "V skirsnis – Seimas",
+    "term": "Laikytis – laikosi – laikėsi",
+    "definition": "соблюдать",
+    "translation_ru": ""
+  },
+  {
+    "id": 318,
+    "section": "V skirsnis – Seimas",
+    "term": "Likti – lieka – liko",
+    "definition": "оставаться",
+    "translation_ru": ""
+  },
+  {
+    "id": 319,
+    "section": "V skirsnis – Seimas",
+    "term": "Lygtinis",
+    "definition": "условный",
+    "translation_ru": ""
+  },
+  {
+    "id": 320,
+    "section": "V skirsnis – Seimas",
+    "term": "Lygus",
+    "definition": "равный",
+    "translation_ru": ""
+  },
+  {
+    "id": 321,
+    "section": "V skirsnis – Seimas",
+    "term": "Mokestis",
+    "definition": "налог",
+    "translation_ru": ""
+  },
+  {
+    "id": 322,
+    "section": "V skirsnis – Seimas",
+    "term": "Narys",
+    "definition": "член",
+    "translation_ru": ""
+  },
+  {
+    "id": 323,
+    "section": "V skirsnis – Seimas",
+    "term": "Nedelsiant",
+    "definition": "незамедлительно",
+    "translation_ru": ""
+  },
+  {
+    "id": 324,
+    "section": "V skirsnis – Seimas",
+    "term": "Nepasitikėjimas",
+    "definition": "недоверие",
+    "translation_ru": ""
+  },
+  {
+    "id": 325,
+    "section": "V skirsnis – Seimas",
+    "term": "Nepatenkinamas",
+    "definition": "неудовлетворительный",
+    "translation_ru": ""
+  },
+  {
+    "id": 326,
+    "section": "V skirsnis – Seimas",
+    "term": "Nesuderinamas",
+    "definition": "несовместимый",
+    "translation_ru": ""
+  },
+  {
+    "id": 327,
+    "section": "V skirsnis – Seimas",
+    "term": "Netekti – netenka – neteko",
+    "definition": "утратить",
+    "translation_ru": ""
+  },
+  {
+    "id": 328,
+    "section": "V skirsnis – Seimas",
+    "term": "Nuolat",
+    "definition": "постоянно",
+    "translation_ru": ""
+  },
+  {
+    "id": 329,
+    "section": "V skirsnis – Seimas",
+    "term": "Nutrūkti – nutrūksta – nutrūko",
+    "definition": "прекратиться",
+    "translation_ru": ""
+  },
+  {
+    "id": 330,
+    "section": "V skirsnis – Seimas",
+    "term": "Paaiškėti – paaiškėja – paaiškėjo",
+    "definition": "выявить, обнаружиться, выясниться",
+    "translation_ru": ""
+  },
+  {
+    "id": 331,
+    "section": "V skirsnis – Seimas",
+    "term": "Pageidavimas",
+    "definition": "пожелание",
+    "translation_ru": ""
+  },
+  {
+    "id": 332,
+    "section": "V skirsnis – Seimas",
+    "term": "Paklausimas",
+    "definition": "запрос",
+    "translation_ru": ""
+  },
+  {
+    "id": 333,
+    "section": "V skirsnis – Seimas",
+    "term": "Panaikinti – panaikina – panaikino",
+    "definition": "упразднить, аннулировать, уничтожить",
+    "translation_ru": ""
+  },
+  {
+    "id": 334,
+    "section": "V skirsnis – Seimas",
+    "term": "Papildymas",
+    "definition": "дополнение",
+    "translation_ru": ""
+  },
+  {
+    "id": 335,
+    "section": "V skirsnis – Seimas",
+    "term": "Pataisa",
+    "definition": "поправка",
+    "translation_ru": ""
+  },
+  {
+    "id": 336,
+    "section": "V skirsnis – Seimas",
+    "term": "Pateikimas",
+    "definition": "представление",
+    "translation_ru": ""
+  },
+  {
+    "id": 337,
+    "section": "V skirsnis – Seimas",
+    "term": "Pateikti – pateikia – pateikė",
+    "definition": "представить, внести",
+    "translation_ru": ""
+  },
+  {
+    "id": 338,
+    "section": "V skirsnis – Seimas",
+    "term": "Pats",
+    "definition": "сам",
+    "translation_ru": ""
+  },
+  {
+    "id": 339,
+    "section": "V skirsnis – Seimas",
+    "term": "Persekioti – persekioja – persekiojo",
+    "definition": "преследовать",
+    "translation_ru": ""
+  },
+  {
+    "id": 340,
+    "section": "V skirsnis – Seimas",
+    "term": "Piktnaudžiavimas",
+    "definition": "злоупотребление",
+    "translation_ru": ""
+  },
+  {
+    "id": 341,
+    "section": "V skirsnis – Seimas",
+    "term": "Pirmalaikis",
+    "definition": "досрочный",
+    "translation_ru": ""
+  },
+  {
+    "id": 342,
+    "section": "V skirsnis – Seimas",
+    "term": "Posėdis",
+    "definition": "заседание",
+    "translation_ru": ""
+  },
+  {
+    "id": 343,
+    "section": "V skirsnis – Seimas",
+    "term": "Pradėti – pradeda – pradėjo",
+    "definition": "начинать",
+    "translation_ru": ""
+  },
+  {
+    "id": 344,
+    "section": "V skirsnis – Seimas",
+    "term": "Pratęsti – pratęsia – pratęsė",
+    "definition": "продлить",
+    "translation_ru": ""
+  },
+  {
+    "id": 345,
+    "section": "V skirsnis – Seimas",
+    "term": "Priesaika",
+    "definition": "присяга",
+    "translation_ru": ""
+  },
+  {
+    "id": 346,
+    "section": "V skirsnis – Seimas",
+    "term": "Prireikus",
+    "definition": "в случае необходимости",
+    "translation_ru": ""
+  },
+  {
+    "id": 347,
+    "section": "V skirsnis – Seimas",
+    "term": "Pritarti – pritaria – pritarė",
+    "definition": "одобрить",
+    "translation_ru": ""
+  },
+  {
+    "id": 348,
+    "section": "V skirsnis – Seimas",
+    "term": "Pareikšti – pareiškia – pareiškė",
+    "definition": "выразить",
+    "translation_ru": ""
+  },
+  {
+    "id": 349,
+    "section": "V skirsnis – Seimas",
+    "term": "Pašalinti – pašalina – pašalino",
+    "definition": "отстранить, изгнать, отчислить",
+    "translation_ru": ""
+  },
+  {
+    "id": 350,
+    "section": "V skirsnis – Seimas",
+    "term": "Pasižadėjimas",
+    "definition": "обязательство, обет, обещание",
+    "translation_ru": ""
+  },
+  {
+    "id": 351,
+    "section": "V skirsnis – Seimas",
+    "term": "Renkamas",
+    "definition": "выборный",
+    "translation_ru": ""
+  },
+  {
+    "id": 352,
+    "section": "V skirsnis – Seimas",
+    "term": "Sąrašas",
+    "definition": "перечень",
+    "translation_ru": ""
+  },
+  {
+    "id": 353,
+    "section": "V skirsnis – Seimas",
+    "term": "Siūlymas",
+    "definition": "предложение",
+    "translation_ru": ""
+  },
+  {
+    "id": 354,
+    "section": "V skirsnis – Seimas",
+    "term": "Skirstymas",
+    "definition": "деление",
+    "translation_ru": ""
+  },
+  {
+    "id": 355,
+    "section": "V skirsnis – Seimas",
+    "term": "Skundas",
+    "definition": "жалоба",
+    "translation_ru": ""
+  },
+  {
+    "id": 356,
+    "section": "V skirsnis – Seimas",
+    "term": "Slaptas",
+    "definition": "тайный",
+    "translation_ru": ""
+  },
+  {
+    "id": 357,
+    "section": "V skirsnis – Seimas",
+    "term": "Įstatymų leidybos iniciatyva",
+    "definition": "законодательная инициатива",
+    "translation_ru": ""
+  },
+  {
+    "id": 358,
+    "section": "V skirsnis – Seimas",
+    "term": "Sudaryti – sudaro – sudarė",
+    "definition": "составлять",
+    "translation_ru": ""
+  },
+  {
+    "id": 359,
+    "section": "V skirsnis – Seimas",
+    "term": "Suderinti – suderina – suderino",
+    "definition": "совместить",
+    "translation_ru": ""
+  },
+  {
+    "id": 360,
+    "section": "V skirsnis – Seimas",
+    "term": "Sudėtis",
+    "definition": "состав",
+    "translation_ru": ""
+  },
+  {
+    "id": 361,
+    "section": "V skirsnis – Seimas",
+    "term": "Sulaužyti – sulaužo – sulaužė",
+    "definition": "нарушить, изменить",
+    "translation_ru": ""
+  },
+  {
+    "id": 362,
+    "section": "V skirsnis – Seimas",
+    "term": "Svarstyti – svarsto – svarstė",
+    "definition": "обсуждать",
+    "translation_ru": ""
+  },
+  {
+    "id": 363,
+    "section": "V skirsnis – Seimas",
+    "term": "Susirinkti – susirenka – susirinko",
+    "definition": "собираться",
+    "translation_ru": ""
+  },
+  {
+    "id": 364,
+    "section": "V skirsnis – Seimas",
+    "term": "Sušaukti – sušaukia – sušaukė",
+    "definition": "созвать",
+    "translation_ru": ""
+  },
+  {
+    "id": 365,
+    "section": "V skirsnis – Seimas",
+    "term": "Šiurkštus",
+    "definition": "грубый",
+    "translation_ru": ""
+  },
+  {
+    "id": 366,
+    "section": "V skirsnis – Seimas",
+    "term": "Šmeižtas",
+    "definition": "клевета",
+    "translation_ru": ""
+  },
+  {
+    "id": 367,
+    "section": "V skirsnis – Seimas",
+    "term": "Tačiau",
+    "definition": "однако",
+    "translation_ru": ""
+  },
+  {
+    "id": 368,
+    "section": "V skirsnis – Seimas",
+    "term": "Taryba",
+    "definition": "совет",
+    "translation_ru": ""
+  },
+  {
+    "id": 369,
+    "section": "V skirsnis – Seimas",
+    "term": "Teisingas",
+    "definition": "справедливый",
+    "translation_ru": ""
+  },
+  {
+    "id": 370,
+    "section": "V skirsnis – Seimas",
+    "term": "Terminas",
+    "definition": "срок",
+    "translation_ru": ""
+  },
+  {
+    "id": 371,
+    "section": "V skirsnis – Seimas",
+    "term": "Tiesioginis",
+    "definition": "прямой",
+    "translation_ru": ""
+  },
+  {
+    "id": 372,
+    "section": "V skirsnis – Seimas",
+    "term": "Tirti – tiria – tyrė",
+    "definition": "расследовать, изучать",
+    "translation_ru": ""
+  },
+  {
+    "id": 373,
+    "section": "V skirsnis – Seimas",
+    "term": "Traukti atsakomybėn",
+    "definition": "привлечь к ответственности",
+    "translation_ru": ""
+  },
+  {
+    "id": 374,
+    "section": "V skirsnis – Seimas",
+    "term": "Tvirtinti – tvirtina – tvirtino",
+    "definition": "утверждать",
+    "translation_ru": ""
+  },
+  {
+    "id": 375,
+    "section": "V skirsnis – Seimas",
+    "term": "Vėlai",
+    "definition": "поздно",
+    "translation_ru": ""
+  },
+  {
+    "id": 376,
+    "section": "V skirsnis – Seimas",
+    "term": "Vyriausias",
+    "definition": "старший, старейший, главный",
+    "translation_ru": ""
+  },
+  {
+    "id": 377,
+    "section": "V skirsnis – Seimas",
+    "term": "Visuotinis",
+    "definition": "всеобщий",
+    "translation_ru": ""
+  },
+  {
+    "id": 378,
+    "section": "V skirsnis – Seimas",
+    "term": "Žodžiu",
+    "definition": "устно",
+    "translation_ru": ""
+  },
+  {
+    "id": 379,
+    "section": "V skirsnis – Seimas",
+    "term": "Pavaduoti – pavaduoja – pavaduojo",
+    "definition": "замещать",
+    "translation_ru": ""
+  },
+  {
+    "id": 380,
+    "section": "VI skirsnis – Respublikos Prezidentas",
+    "term": "Apygardos teismas",
+    "definition": "окружной суд",
+    "translation_ru": ""
+  },
+  {
+    "id": 381,
+    "section": "VI skirsnis – Respublikos Prezidentas",
+    "term": "Apylinkės teismas",
+    "definition": "участковый суд",
+    "translation_ru": ""
+  },
+  {
+    "id": 382,
+    "section": "VI skirsnis – Respublikos Prezidentas",
+    "term": "Artimiauzias",
+    "definition": "ближайший",
+    "translation_ru": ""
+  },
+  {
+    "id": 383,
+    "section": "VI skirsnis – Respublikos Prezidentas",
+    "term": "Atitikti – atitinka – atitiko",
+    "definition": "подойти",
+    "translation_ru": ""
+  },
+  {
+    "id": 384,
+    "section": "VI skirsnis – Respublikos Prezidentas",
+    "term": "Atsižvelgti – atsižvelgia – atsižvelgė",
+    "definition": "учесть, принять во внимание",
+    "translation_ru": ""
+  },
+  {
+    "id": 385,
+    "section": "VI skirsnis – Respublikos Prezidentas",
+    "term": "Atstovas",
+    "definition": "представитель",
+    "translation_ru": ""
+  },
+  {
+    "id": 386,
+    "section": "VI skirsnis – Respublikos Prezidentas",
+    "term": "Atstovauti – atstovauja – atstovavo",
+    "definition": "представлять, репрезентировать",
+    "translation_ru": ""
+  },
+  {
+    "id": 387,
+    "section": "VI skirsnis – Respublikos Prezidentas",
+    "term": "Atšaukti – atšaukia – atšaukė",
+    "definition": "отозвать",
+    "translation_ru": ""
+  },
+  {
+    "id": 388,
+    "section": "VI skirsnis – Respublikos Prezidentas",
+    "term": "Atvejis",
+    "definition": "случай",
+    "translation_ru": ""
+  },
+  {
+    "id": 389,
+    "section": "VI skirsnis – Respublikos Prezidentas",
+    "term": "Baudžiamasis",
+    "definition": "уголовный",
+    "translation_ru": ""
+  },
+  {
+    "id": 390,
+    "section": "VI skirsnis – Respublikos Prezidentas",
+    "term": "Būklė",
+    "definition": "состояние",
+    "translation_ru": ""
+  },
+  {
+    "id": 391,
+    "section": "VI skirsnis – Respublikos Prezidentas",
+    "term": "Gauti – gauna – gavo",
+    "definition": "получить",
+    "translation_ru": ""
+  },
+  {
+    "id": 392,
+    "section": "VI skirsnis – Respublikos Prezidentas",
+    "term": "Ginkluotas užpuolimas",
+    "definition": "вооруженное нападение",
+    "translation_ru": ""
+  },
+  {
+    "id": 393,
+    "section": "VI skirsnis – Respublikos Prezidentas",
+    "term": "Grasinti – grasina – grasino",
+    "definition": "угрожать",
+    "translation_ru": ""
+  },
+  {
+    "id": 394,
+    "section": "VI skirsnis – Respublikos Prezidentas",
+    "term": "Grąžinimas",
+    "definition": "возвращение",
+    "translation_ru": ""
+  },
+  {
+    "id": 395,
+    "section": "VI skirsnis – Respublikos Prezidentas",
+    "term": "Įgaliojamieji raštai",
+    "definition": "верительные грамоты",
+    "translation_ru": ""
+  },
+  {
+    "id": 396,
+    "section": "VI skirsnis – Respublikos Prezidentas",
+    "term": "Iš karto",
+    "definition": "сразу",
+    "translation_ru": ""
+  },
+  {
+    "id": 397,
+    "section": "VI skirsnis – Respublikos Prezidentas",
+    "term": "Išvada",
+    "definition": "заключение",
+    "translation_ru": ""
+  },
+  {
+    "id": 398,
+    "section": "VI skirsnis – Respublikos Prezidentas",
+    "term": "Išvykti – išvyksta – išvyko",
+    "definition": "уехать",
+    "translation_ru": ""
+  },
+  {
+    "id": 399,
+    "section": "VI skirsnis – Respublikos Prezidentas",
+    "term": "Kariuomenės vadas",
+    "definition": "командующий войсками",
+    "translation_ru": ""
+  },
+  {
+    "id": 400,
+    "section": "VI skirsnis – Respublikos Prezidentas",
+    "term": "Kilmė",
+    "definition": "происхождение, род",
+    "translation_ru": ""
+  },
+  {
+    "id": 401,
+    "section": "VI skirsnis – Respublikos Prezidentas",
+    "term": "Laikinai",
+    "definition": "временно",
+    "translation_ru": ""
+  },
+  {
+    "id": 402,
+    "section": "VI skirsnis – Respublikos Prezidentas",
+    "term": "Laikotarpis",
+    "definition": "период",
+    "translation_ru": ""
+  },
+  {
+    "id": 403,
+    "section": "VI skirsnis – Respublikos Prezidentas",
+    "term": "Laipsnis",
+    "definition": "чин, звание",
+    "translation_ru": ""
+  },
+  {
+    "id": 404,
+    "section": "VI skirsnis – Respublikos Prezidentas",
+    "term": "Likęs – likusiam",
+    "definition": "оставшийся, на оставшийся",
+    "translation_ru": ""
+  },
+  {
+    "id": 405,
+    "section": "VI skirsnis – Respublikos Prezidentas",
+    "term": "Metinis",
+    "definition": "годовой",
+    "translation_ru": ""
+  },
+  {
+    "id": 406,
+    "section": "VI skirsnis – Respublikos Prezidentas",
+    "term": "Nesant",
+    "definition": "в отсутствие",
+    "translation_ru": ""
+  },
+  {
+    "id": 407,
+    "section": "VI skirsnis – Respublikos Prezidentas",
+    "term": "Nuteistasis",
+    "definition": "осужденный",
+    "translation_ru": ""
+  },
+  {
+    "id": 408,
+    "section": "VI skirsnis – Respublikos Prezidentas",
+    "term": "Pageidavimas",
+    "definition": "пожелание",
+    "translation_ru": ""
+  },
+  {
+    "id": 409,
+    "section": "VI skirsnis – Respublikos Prezidentas",
+    "term": "Patraukti – patraukia – patraukė",
+    "definition": "привлечь",
+    "translation_ru": ""
+  },
+  {
+    "id": 410,
+    "section": "VI skirsnis – Respublikos Prezidentas",
+    "term": "Pavaduotojas",
+    "definition": "заместитель",
+    "translation_ru": ""
+  },
+  {
+    "id": 411,
+    "section": "VI skirsnis – Respublikos Prezidentas",
+    "term": "Malonė",
+    "definition": "помилование",
+    "translation_ru": ""
+  },
+  {
+    "id": 412,
+    "section": "VI skirsnis – Respublikos Prezidentas",
+    "term": "Pastarasis – paskutinis",
+    "definition": "последний",
+    "translation_ru": ""
+  },
+  {
+    "id": 413,
+    "section": "VI skirsnis – Respublikos Prezidentas",
+    "term": "Pavesti – paveda – pavedė",
+    "definition": "поручить, возложить, доверить",
+    "translation_ru": ""
+  },
+  {
+    "id": 414,
+    "section": "VI skirsnis – Respublikos Prezidentas",
+    "term": "Pažeisti – pažeidžia – pažeidė",
+    "definition": "нарушать",
+    "translation_ru": ""
+  },
+  {
+    "id": 415,
+    "section": "VI skirsnis – Respublikos Prezidentas",
+    "term": "Pranešimas",
+    "definition": "доклад, сообщение",
+    "translation_ru": ""
+  },
+  {
+    "id": 416,
+    "section": "VI skirsnis – Respublikos Prezidentas",
+    "term": "Pritarti – pritaria – pritarė",
+    "definition": "одобрить",
+    "translation_ru": ""
+  },
+  {
+    "id": 417,
+    "section": "VI skirsnis – Respublikos Prezidentas",
+    "term": "Ratas",
+    "definition": "тур, круг, колесо",
+    "translation_ru": ""
+  },
+  {
+    "id": 418,
+    "section": "VI skirsnis – Respublikos Prezidentas",
+    "term": "Šiurkštus",
+    "definition": "грубый",
+    "translation_ru": ""
+  },
+  {
+    "id": 419,
+    "section": "VI skirsnis – Respublikos Prezidentas",
+    "term": "Sudėtis",
+    "definition": "состав",
+    "translation_ru": ""
+  },
+  {
+    "id": 420,
+    "section": "VI skirsnis – Respublikos Prezidentas",
+    "term": "Sulaužyti – sulaužo – sulaužė",
+    "definition": "нарушить, изменить",
+    "translation_ru": ""
+  },
+  {
+    "id": 421,
+    "section": "VI skirsnis – Respublikos Prezidentas",
+    "term": "Surinkti – surenka – surinko",
+    "definition": "набрать",
+    "translation_ru": ""
+  },
+  {
+    "id": 422,
+    "section": "VI skirsnis – Respublikos Prezidentas",
+    "term": "Sustabdyti – sustabdo – sustabdė",
+    "definition": "приостановить",
+    "translation_ru": ""
+  },
+  {
+    "id": 423,
+    "section": "VI skirsnis – Respublikos Prezidentas",
+    "term": "Svarstyti – svarsto – svarstė",
+    "definition": "обсуждать",
+    "translation_ru": ""
+  },
+  {
+    "id": 424,
+    "section": "VI skirsnis – Respublikos Prezidentas",
+    "term": "Teikti – teikia – teikė",
+    "definition": "дать, предоставить",
+    "translation_ru": ""
+  },
+  {
+    "id": 425,
+    "section": "VI skirsnis – Respublikos Prezidentas",
+    "term": "Tuo laiku",
+    "definition": "в это время",
+    "translation_ru": ""
+  },
+  {
+    "id": 426,
+    "section": "VI skirsnis – Respublikos Prezidentas",
+    "term": "Tvirtinti – tvirtina – tvirtino",
+    "definition": "утверждать",
+    "translation_ru": ""
+  },
+  {
+    "id": 427,
+    "section": "VI skirsnis – Respublikos Prezidentas",
+    "term": "Vadovas",
+    "definition": "руководитель",
+    "translation_ru": ""
+  },
+  {
+    "id": 428,
+    "section": "VI skirsnis – Respublikos Prezidentas",
+    "term": "Vykti – vyksta – vyko",
+    "definition": "совершаться, происходить",
+    "translation_ru": ""
+  },
+  {
+    "id": 429,
+    "section": "VII skirsnis – Lietuvos Respublikos Vyriausybė",
+    "term": "Apyskaita",
+    "definition": "отчет",
+    "translation_ru": ""
+  },
+  {
+    "id": 430,
+    "section": "VII skirsnis – Lietuvos Respublikos Vyriausybė",
+    "term": "Atstovauti – atstovauja – atstovavo",
+    "definition": "представлять, репрезентировать",
+    "translation_ru": ""
+  },
+  {
+    "id": 431,
+    "section": "VII skirsnis – Lietuvos Respublikos Vyriausybė",
+    "term": "Atleisti – atleidžia – atleido",
+    "definition": "снимать с должности, увольнять",
+    "translation_ru": ""
+  },
+  {
+    "id": 432,
+    "section": "VII skirsnis – Lietuvos Respublikos Vyriausybė",
+    "term": "Atsiskaityti – atsiskaito – atsiskaitė",
+    "definition": "отчитаться",
+    "translation_ru": ""
+  },
+  {
+    "id": 433,
+    "section": "VII skirsnis – Lietuvos Respublikos Vyriausybė",
+    "term": "Atsistatydinimas",
+    "definition": "отставка",
+    "translation_ru": ""
+  },
+  {
+    "id": 434,
+    "section": "VII skirsnis – Lietuvos Respublikos Vyriausybė",
+    "term": "Atsistatydinti – atsistatydina – atsistatydino",
+    "definition": "подать в отставку",
+    "translation_ru": ""
+  },
+  {
+    "id": 435,
+    "section": "VII skirsnis – Lietuvos Respublikos Vyriausybė",
+    "term": "Atskiras",
+    "definition": "отдельный",
+    "translation_ru": ""
+  },
+  {
+    "id": 436,
+    "section": "VII skirsnis – Lietuvos Respublikos Vyriausybė",
+    "term": "Diplomatiniai santykiai",
+    "definition": "дипломатические отношения",
+    "translation_ru": ""
+  },
+  {
+    "id": 437,
+    "section": "VII skirsnis – Lietuvos Respublikos Vyriausybė",
+    "term": "Gauti",
+    "definition": "получить",
+    "translation_ru": ""
+  },
+  {
+    "id": 438,
+    "section": "VII skirsnis – Lietuvos Respublikos Vyriausybė",
+    "term": "Išankstinis",
+    "definition": "предварительный",
+    "translation_ru": ""
+  },
+  {
+    "id": 439,
+    "section": "VII skirsnis – Lietuvos Respublikos Vyriausybė",
+    "term": "Keisti – keičia – keitė",
+    "definition": "менять",
+    "translation_ru": ""
+  },
+  {
+    "id": 440,
+    "section": "VII skirsnis – Lietuvos Respublikos Vyriausybė",
+    "term": "Keitimas",
+    "definition": "изменение",
+    "translation_ru": ""
+  },
+  {
+    "id": 441,
+    "section": "VII skirsnis – Lietuvos Respublikos Vyriausybė",
+    "term": "Kraštas",
+    "definition": "край",
+    "translation_ru": ""
+  },
+  {
+    "id": 442,
+    "section": "VII skirsnis – Lietuvos Respublikos Vyriausybė",
+    "term": "Nepasitikėjimas",
+    "definition": "недоверие",
+    "translation_ru": ""
+  },
+  {
+    "id": 443,
+    "section": "VII skirsnis – Lietuvos Respublikos Vyriausybė",
+    "term": "Palaikyti ryšius",
+    "definition": "поддерживать связь",
+    "translation_ru": ""
+  },
+  {
+    "id": 444,
+    "section": "VII skirsnis – Lietuvos Respublikos Vyriausybė",
+    "term": "Pavaldus",
+    "definition": "подчиненный, подвластный",
+    "translation_ru": ""
+  },
+  {
+    "id": 445,
+    "section": "VII skirsnis – Lietuvos Respublikos Vyriausybė",
+    "term": "Priešingas",
+    "definition": "противоположный, обратный",
+    "translation_ru": ""
+  },
+  {
+    "id": 446,
+    "section": "VII skirsnis – Lietuvos Respublikos Vyriausybė",
+    "term": "Pritarti – pritaria – pritarė",
+    "definition": "одобрять",
+    "translation_ru": ""
+  },
+  {
+    "id": 447,
+    "section": "VII skirsnis – Lietuvos Respublikos Vyriausybė",
+    "term": "Reikalauti – reikalauja – reikalavo",
+    "definition": "требовать",
+    "translation_ru": ""
+  },
+  {
+    "id": 448,
+    "section": "VII skirsnis – Lietuvos Respublikos Vyriausybė",
+    "term": "Skirti – skiria – skyrė",
+    "definition": "назначать",
+    "translation_ru": ""
+  },
+  {
+    "id": 449,
+    "section": "VII skirsnis – Lietuvos Respublikos Vyriausybė",
+    "term": "Sritis",
+    "definition": "отрасль, область",
+    "translation_ru": ""
+  },
+  {
+    "id": 450,
+    "section": "VII skirsnis – Lietuvos Respublikos Vyriausybė",
+    "term": "Sudaryti – sudaro – sudarė",
+    "definition": "составлять",
+    "translation_ru": ""
+  },
+  {
+    "id": 451,
+    "section": "VII skirsnis – Lietuvos Respublikos Vyriausybė",
+    "term": "Tvarkyti – tvarko – tvarkė",
+    "definition": "вести, ведать, вершить",
+    "translation_ru": ""
+  },
+  {
+    "id": 452,
+    "section": "VII skirsnis – Lietuvos Respublikos Vyriausybė",
+    "term": "Užmegzti – užmezga – užmezgė",
+    "definition": "установить, завязать, завести",
+    "translation_ru": ""
+  },
+  {
+    "id": 453,
+    "section": "VII skirsnis – Lietuvos Respublikos Vyriausybė",
+    "term": "Viešoji tvarka",
+    "definition": "общественный порядок",
+    "translation_ru": ""
+  },
+  {
+    "id": 454,
+    "section": "VIII skirsnis – Konstitucinis Teismas",
+    "term": "Apribojimas",
+    "definition": "ограничение",
+    "translation_ru": ""
+  },
+  {
+    "id": 455,
+    "section": "VIII skirsnis – Konstitucinis Teismas",
+    "term": "Atnaujinti",
+    "definition": "обновлять",
+    "translation_ru": ""
+  },
+  {
+    "id": 456,
+    "section": "VIII skirsnis – Konstitucinis Teismas",
+    "term": "Galutinis",
+    "definition": "окончательный",
+    "translation_ru": ""
+  },
+  {
+    "id": 457,
+    "section": "VIII skirsnis – Konstitucinis Teismas",
+    "term": "Išsilavinimas",
+    "definition": "образование, образованность",
+    "translation_ru": ""
+  },
+  {
+    "id": 458,
+    "section": "VIII skirsnis – Konstitucinis Teismas",
+    "term": "Išvada",
+    "definition": "заключение",
+    "translation_ru": ""
+  },
+  {
+    "id": 459,
+    "section": "VIII skirsnis – Konstitucinis Teismas",
+    "term": "Kadencija",
+    "definition": "срок полномочий",
+    "translation_ru": ""
+  },
+  {
+    "id": 460,
+    "section": "VIII skirsnis – Konstitucinis Teismas",
+    "term": "Kreipimasis",
+    "definition": "обращение",
+    "translation_ru": ""
+  },
+  {
+    "id": 461,
+    "section": "VIII skirsnis – Konstitucinis Teismas",
+    "term": "Kreiptis",
+    "definition": "обратиться, адресоваться",
+    "translation_ru": ""
+  },
+  {
+    "id": 462,
+    "section": "VIII skirsnis – Konstitucinis Teismas",
+    "term": "Nepriekaištingas",
+    "definition": "безукоризненный, безупречный",
+    "translation_ru": ""
+  },
+  {
+    "id": 463,
+    "section": "VIII skirsnis – Konstitucinis Teismas",
+    "term": "Neprieštarauti",
+    "definition": "не иметь возражений, не противоречит",
+    "translation_ru": ""
+  },
+  {
+    "id": 464,
+    "section": "VIII skirsnis – Konstitucinis Teismas",
+    "term": "Neskundžiamas",
+    "definition": "не подлежащий обжалованию",
+    "translation_ru": ""
+  },
+  {
+    "id": 465,
+    "section": "VIII skirsnis – Konstitucinis Teismas",
+    "term": "Pateikimas",
+    "definition": "представление",
+    "translation_ru": ""
+  },
+  {
+    "id": 466,
+    "section": "VIII skirsnis – Konstitucinis Teismas",
+    "term": "Sustabdyti – sustabdo – sustabdė",
+    "definition": "приостановить",
+    "translation_ru": ""
+  },
+  {
+    "id": 467,
+    "section": "VIII skirsnis – Konstitucinis Teismas",
+    "term": "Nagrinėti",
+    "definition": "расследовать, рассматривать",
+    "translation_ru": ""
+  },
+  {
+    "id": 468,
+    "section": "VIII skirsnis – Konstitucinis Teismas",
+    "term": "Taikomas",
+    "definition": "применимый",
+    "translation_ru": ""
+  },
+  {
+    "id": 469,
+    "section": "VIII skirsnis – Konstitucinis Teismas",
+    "term": "Teikti",
+    "definition": "предоставить",
+    "translation_ru": ""
+  },
+  {
+    "id": 470,
+    "section": "IX skirsnis – Teismas",
+    "term": "Apkaltinamasis nuosprendis",
+    "definition": "обвинительный приговор",
+    "translation_ru": ""
+  },
+  {
+    "id": 471,
+    "section": "IX skirsnis – Teismas",
+    "term": "Atitikti – atitinka – atitiko",
+    "definition": "подойти, соответствовать",
+    "translation_ru": ""
+  },
+  {
+    "id": 472,
+    "section": "IX skirsnis – Teismas",
+    "term": "Atskleisti – atskleidžia – atskleidė",
+    "definition": "раскрыть, вскрыть",
+    "translation_ru": ""
+  },
+  {
+    "id": 473,
+    "section": "IX skirsnis – Teismas",
+    "term": "Ikiteisminis",
+    "definition": "досудебный",
+    "translation_ru": ""
+  },
+  {
+    "id": 474,
+    "section": "IX skirsnis – Teismas",
+    "term": "Ypatingas",
+    "definition": "чрезвычайный",
+    "translation_ru": ""
+  },
+  {
+    "id": 475,
+    "section": "IX skirsnis – Teismas",
+    "term": "Įsiteisėjimas",
+    "definition": "вступление в законную силу",
+    "translation_ru": ""
+  },
+  {
+    "id": 476,
+    "section": "IX skirsnis – Teismas",
+    "term": "Ištikimas",
+    "definition": "верный",
+    "translation_ru": ""
+  },
+  {
+    "id": 477,
+    "section": "IX skirsnis – Teismas",
+    "term": "Kišimasis",
+    "definition": "вмешательство",
+    "translation_ru": ""
+  },
+  {
+    "id": 478,
+    "section": "IX skirsnis – Teismas",
+    "term": "Manyti – mano – manė",
+    "definition": "полагать, думать",
+    "translation_ru": ""
+  },
+  {
+    "id": 479,
+    "section": "IX skirsnis – Teismas",
+    "term": "Paskelbti paslaptį",
+    "definition": "разгласить тайну",
+    "translation_ru": ""
+  },
+  {
+    "id": 480,
+    "section": "IX skirsnis – Teismas",
+    "term": "Patarti – pataria – patarė",
+    "definition": "посоветовать, надоумить",
+    "translation_ru": ""
+  },
+  {
+    "id": 481,
+    "section": "IX skirsnis – Teismas",
+    "term": "Perkėlimas",
+    "definition": "перевод на другую должность",
+    "translation_ru": ""
+  },
+  {
+    "id": 482,
+    "section": "IX skirsnis – Teismas",
+    "term": "Poelgis",
+    "definition": "поступок",
+    "translation_ru": ""
+  },
+  {
+    "id": 483,
+    "section": "IX skirsnis – Teismas",
+    "term": "Pažeidimas",
+    "definition": "нарушение",
+    "translation_ru": ""
+  },
+  {
+    "id": 484,
+    "section": "IX skirsnis – Teismas",
+    "term": "Savo noru",
+    "definition": "по своему желанию",
+    "translation_ru": ""
+  },
+  {
+    "id": 485,
+    "section": "IX skirsnis – Teismas",
+    "term": "Spręsti – sprendžia – sprendė",
+    "definition": "решить",
+    "translation_ru": ""
+  },
+  {
+    "id": 486,
+    "section": "IX skirsnis – Teismas",
+    "term": "Steigti – steigia – steigė",
+    "definition": "учреждать, основывать",
+    "translation_ru": ""
+  },
+  {
+    "id": 487,
+    "section": "IX skirsnis – Teismas",
+    "term": "Sulaukti – sulaukia – sulaukė",
+    "definition": "дождаться",
+    "translation_ru": ""
+  },
+  {
+    "id": 488,
+    "section": "IX skirsnis – Teismas",
+    "term": "Taikos metu",
+    "definition": "в мирное время",
+    "translation_ru": ""
+  },
+  {
+    "id": 489,
+    "section": "IX skirsnis – Teismas",
+    "term": "Tardomasis",
+    "definition": "следственный",
+    "translation_ru": ""
+  },
+  {
+    "id": 490,
+    "section": "IX skirsnis – Teismas",
+    "term": "Teisingumas",
+    "definition": "правосудие",
+    "translation_ru": ""
+  },
+  {
+    "id": 491,
+    "section": "IX skirsnis – Teismas",
+    "term": "Tyrimas",
+    "definition": "расследование",
+    "translation_ru": ""
+  },
+  {
+    "id": 492,
+    "section": "IX skirsnis – Teismas",
+    "term": "Užtraukti – užtraukia – užtraukė",
+    "definition": "навлечь",
+    "translation_ru": ""
+  },
+  {
+    "id": 493,
+    "section": "IX skirsnis – Teismas",
+    "term": "Valstybinis kaltinimas",
+    "definition": "государственное обвинение",
+    "translation_ru": ""
+  },
+  {
+    "id": 494,
+    "section": "IX skirsnis – Teismas",
+    "term": "Vertėjas",
+    "definition": "переводчик",
+    "translation_ru": ""
+  },
+  {
+    "id": 495,
+    "section": "IX skirsnis – Teismas",
+    "term": "Viešai",
+    "definition": "открыто, публично",
+    "translation_ru": ""
+  },
+  {
+    "id": 496,
+    "section": "IX skirsnis – Teismas",
+    "term": "Žeminti – žemina – žemino",
+    "definition": "унижать, принижать",
+    "translation_ru": ""
+  },
+  {
+    "id": 497,
+    "section": "X skirsnis – Vietos savivalda",
+    "term": "Apibrėžti – apibrėžia – apibrėžė",
+    "definition": "определить",
+    "translation_ru": ""
+  },
+  {
+    "id": 498,
+    "section": "X skirsnis – Vietos savivalda",
+    "term": "Atskaitingas",
+    "definition": "подотчетный",
+    "translation_ru": ""
+  },
+  {
+    "id": 499,
+    "section": "X skirsnis – Vietos savivalda",
+    "term": "Laikytis – laikosi – laikėsi",
+    "definition": "соблюдать",
+    "translation_ru": ""
+  },
+  {
+    "id": 500,
+    "section": "X skirsnis – Vietos savivalda",
+    "term": "Lengvata",
+    "definition": "льгота",
+    "translation_ru": ""
+  },
+  {
+    "id": 501,
+    "section": "X skirsnis – Vietos savivalda",
+    "term": "Meras",
+    "definition": "мэр",
+    "translation_ru": ""
+  },
+  {
+    "id": 502,
+    "section": "X skirsnis – Vietos savivalda",
+    "term": "Nuolatinis",
+    "definition": "постоянный",
+    "translation_ru": ""
+  },
+  {
+    "id": 503,
+    "section": "X skirsnis – Vietos savivalda",
+    "term": "Remti – remia – rėmė",
+    "definition": "поддерживать",
+    "translation_ru": ""
+  },
+  {
+    "id": 504,
+    "section": "X skirsnis – Vietos savivalda",
+    "term": "Rinkliava",
+    "definition": "сбор, пошлина",
+    "translation_ru": ""
+  },
+  {
+    "id": 505,
+    "section": "X skirsnis – Vietos savivalda",
+    "term": "Savivaldybė",
+    "definition": "самоуправление",
+    "translation_ru": ""
+  },
+  {
+    "id": 506,
+    "section": "X skirsnis – Vietos savivalda",
+    "term": "Taryba",
+    "definition": "совет",
+    "translation_ru": ""
+  },
+  {
+    "id": 507,
+    "section": "X skirsnis – Vietos savivalda",
+    "term": "Vietos savivalda",
+    "definition": "местное самоуправление",
+    "translation_ru": ""
+  },
+  {
+    "id": 508,
+    "section": "X skirsnis – Vietos savivalda",
+    "term": "Vykdomasis",
+    "definition": "исполнительный",
+    "translation_ru": ""
+  },
+  {
+    "id": 509,
+    "section": "XI skirsnis – Finansai ir valstybės biudžetas",
+    "term": "Didinti – didina – didino",
+    "definition": "увеличить",
+    "translation_ru": ""
+  },
+  {
+    "id": 510,
+    "section": "XI skirsnis – Finansai ir valstybės biudžetas",
+    "term": "Disponavimas",
+    "definition": "распоряжение",
+    "translation_ru": ""
+  },
+  {
+    "id": 511,
+    "section": "XI skirsnis – Finansai ir valstybės biudžetas",
+    "term": "Esminis",
+    "definition": "существенный",
+    "translation_ru": ""
+  },
+  {
+    "id": 512,
+    "section": "XI skirsnis – Finansai ir valstybės biudžetas",
+    "term": "Įmoka į biudžetą",
+    "definition": "взнос в бюджет",
+    "translation_ru": ""
+  },
+  {
+    "id": 513,
+    "section": "XI skirsnis – Finansai ir valstybės biudžetas",
+    "term": "Įplauka",
+    "definition": "поступление",
+    "translation_ru": ""
+  },
+  {
+    "id": 514,
+    "section": "XI skirsnis – Finansai ir valstybės biudžetas",
+    "term": "Išlaidos",
+    "definition": "расходы",
+    "translation_ru": ""
+  },
+  {
+    "id": 515,
+    "section": "XI skirsnis – Finansai ir valstybės biudžetas",
+    "term": "Laiku",
+    "definition": "вовремя",
+    "translation_ru": ""
+  },
+  {
+    "id": 516,
+    "section": "XI skirsnis – Finansai ir valstybės biudžetas",
+    "term": "Mokestis",
+    "definition": "налог",
+    "translation_ru": ""
+  },
+  {
+    "id": 517,
+    "section": "XI skirsnis – Finansai ir valstybės biudžetas",
+    "term": "Naudojimas",
+    "definition": "пользование",
+    "translation_ru": ""
+  },
+  {
+    "id": 518,
+    "section": "XI skirsnis – Finansai ir valstybės biudžetas",
+    "term": "Nuosavybė",
+    "definition": "собственность",
+    "translation_ru": ""
+  },
+  {
+    "id": 519,
+    "section": "XI skirsnis – Finansai ir valstybės biudžetas",
+    "term": "Nurodyti – nurodo – nurodė",
+    "definition": "указать",
+    "translation_ru": ""
+  },
+  {
+    "id": 520,
+    "section": "XI skirsnis – Finansai ir valstybės biudžetas",
+    "term": "Pajamos",
+    "definition": "доход",
+    "translation_ru": ""
+  },
+  {
+    "id": 521,
+    "section": "XI skirsnis – Finansai ir valstybės biudžetas",
+    "term": "Papildomas biudžetas",
+    "definition": "дополнительный бюджет",
+    "translation_ru": ""
+  },
+  {
+    "id": 522,
+    "section": "XI skirsnis – Finansai ir valstybės biudžetas",
+    "term": "Patvirtinti – patvirtina – patvirtino",
+    "definition": "утверждать",
+    "translation_ru": ""
+  },
+  {
+    "id": 523,
+    "section": "XI skirsnis – Finansai ir valstybės biudžetas",
+    "term": "Pavaduotojas",
+    "definition": "заместитель",
+    "translation_ru": ""
+  },
+  {
+    "id": 524,
+    "section": "XI skirsnis – Finansai ir valstybės biudžetas",
+    "term": "Praėjusiais metais",
+    "definition": "в истекшем году",
+    "translation_ru": ""
+  },
+  {
+    "id": 525,
+    "section": "XI skirsnis – Finansai ir valstybės biudžetas",
+    "term": "Priklausyti – priklauso – priklausė",
+    "definition": "зависеть, принадлежать",
+    "translation_ru": ""
+  },
+  {
+    "id": 526,
+    "section": "XI skirsnis – Finansai ir valstybės biudžetas",
+    "term": "Privalomas mokėjimas",
+    "definition": "обязательный платеж",
+    "translation_ru": ""
+  },
+  {
+    "id": 527,
+    "section": "XI skirsnis – Finansai ir valstybės biudžetas",
+    "term": "Rinkliava",
+    "definition": "сбор, пошлина",
+    "translation_ru": ""
+  },
+  {
+    "id": 528,
+    "section": "XI skirsnis – Finansai ir valstybės biudžetas",
+    "term": "Savarankiškas",
+    "definition": "самостоятельный",
+    "translation_ru": ""
+  },
+  {
+    "id": 529,
+    "section": "XI skirsnis – Finansai ir valstybės biudžetas",
+    "term": "Siūlymas",
+    "definition": "предложение",
+    "translation_ru": ""
+  },
+  {
+    "id": 530,
+    "section": "XI skirsnis – Finansai ir valstybės biudžetas",
+    "term": "Svarstyti – svarsto – svarstė",
+    "definition": "обсуждать, рассматривать",
+    "translation_ru": ""
+  },
+  {
+    "id": 531,
+    "section": "XI skirsnis – Finansai ir valstybės biudžetas",
+    "term": "Šaltinis",
+    "definition": "источник",
+    "translation_ru": ""
+  },
+  {
+    "id": 532,
+    "section": "XI skirsnis – Finansai ir valstybės biudžetas",
+    "term": "Turtas",
+    "definition": "имущество, состояние",
+    "translation_ru": ""
+  },
+  {
+    "id": 533,
+    "section": "XI skirsnis – Finansai ir valstybės biudžetas",
+    "term": "Turtinis įsipareigojimas",
+    "definition": "имущественное обязательство",
+    "translation_ru": ""
+  },
+  {
+    "id": 534,
+    "section": "XI skirsnis – Finansai ir valstybės biudžetas",
+    "term": "Vadovauti – vadovauja – vadovavo",
+    "definition": "руководить",
+    "translation_ru": ""
+  },
+  {
+    "id": 535,
+    "section": "XI skirsnis – Finansai ir valstybės biudžetas",
+    "term": "Valdyba",
+    "definition": "правление",
+    "translation_ru": ""
+  },
+  {
+    "id": 536,
+    "section": "XI skirsnis – Finansai ir valstybės biudžetas",
+    "term": "Valdymas",
+    "definition": "управление",
+    "translation_ru": ""
+  },
+  {
+    "id": 537,
+    "section": "XI skirsnis – Finansai ir valstybės biudžetas",
+    "term": "Valstybinė paskola",
+    "definition": "государственный займ",
+    "translation_ru": ""
+  },
+  {
+    "id": 538,
+    "section": "XI skirsnis – Finansai ir valstybės biudžetas",
+    "term": "Viršyti – viršyja – viršyjo",
+    "definition": "превышать",
+    "translation_ru": ""
+  },
+  {
+    "id": 539,
+    "section": "XII skirsnis – Valstybės kontrolė",
+    "term": "Biudžeto įvykdymas",
+    "definition": "исполнение бюджета",
+    "translation_ru": ""
+  },
+  {
+    "id": 540,
+    "section": "XII skirsnis – Valstybės kontrolė",
+    "term": "Eiti pareigas",
+    "definition": "исполнять обязанности",
+    "translation_ru": ""
+  },
+  {
+    "id": 541,
+    "section": "XII skirsnis – Valstybės kontrolė",
+    "term": "Kontrolė",
+    "definition": "контроль",
+    "translation_ru": ""
+  },
+  {
+    "id": 542,
+    "section": "XII skirsnis – Valstybės kontrolė",
+    "term": "Kontrolierius",
+    "definition": "контролер",
+    "translation_ru": ""
+  },
+  {
+    "id": 543,
+    "section": "XII skirsnis – Valstybės kontrolė",
+    "term": "Metinė apyskaita",
+    "definition": "годовой отчет",
+    "translation_ru": ""
+  },
+  {
+    "id": 544,
+    "section": "XII skirsnis – Valstybės kontrolė",
+    "term": "Pateikti – pateikia – pateikė",
+    "definition": "представить, внести",
+    "translation_ru": ""
+  },
+  {
+    "id": 545,
+    "section": "XIII skirsnis – Užsienio politika ir valstybės gynimas",
+    "term": "Aprūpinti – aprūpina – aprūpino",
+    "definition": "обеспечить",
+    "translation_ru": ""
+  },
+  {
+    "id": 546,
+    "section": "XIII skirsnis – Užsienio politika ir valstybės gynimas",
+    "term": "Artimiauzias",
+    "definition": "ближайший",
+    "translation_ru": ""
+  },
+  {
+    "id": 547,
+    "section": "XIII skirsnis – Užsienio politika ir valstybės gynimas",
+    "term": "Atlikti – atlieka – atliko",
+    "definition": "проходить",
+    "translation_ru": ""
+  },
+  {
+    "id": 548,
+    "section": "XIII skirsnis – Užsienio politika ir valstybės gynimas",
+    "term": "Bendradarbiavimas",
+    "definition": "сотрудничество",
+    "translation_ru": ""
+  },
+  {
+    "id": 549,
+    "section": "XIII skirsnis – Užsienio politika ir valstybės gynimas",
+    "term": "Būdas",
+    "definition": "способ",
+    "translation_ru": ""
+  },
+  {
+    "id": 550,
+    "section": "XIII skirsnis – Užsienio politika ir valstybės gynimas",
+    "term": "Daugiašalė sutartis",
+    "definition": "многосторонний договор",
+    "translation_ru": ""
+  },
+  {
+    "id": 551,
+    "section": "XIII skirsnis – Užsienio politika ir valstybės gynimas",
+    "term": "Gerovė",
+    "definition": "благосостояние",
+    "translation_ru": ""
+  },
+  {
+    "id": 552,
+    "section": "XIII skirsnis – Užsienio politika ir valstybės gynimas",
+    "term": "Ginkluotas užpuolimas",
+    "definition": "вооруженное нападение",
+    "translation_ru": ""
+  },
+  {
+    "id": 553,
+    "section": "XIII skirsnis – Užsienio politika ir valstybės gynimas",
+    "term": "Ginkluotosios pajėgos",
+    "definition": "вооруженные силы",
+    "translation_ru": ""
+  },
+  {
+    "id": 554,
+    "section": "XIII skirsnis – Užsienio politika ir valstybės gynimas",
+    "term": "Grasinimas",
+    "definition": "угроза",
+    "translation_ru": ""
+  },
+  {
+    "id": 555,
+    "section": "XIII skirsnis – Užsienio politika ir valstybės gynimas",
+    "term": "Gynybinis",
+    "definition": "оборонный",
+    "translation_ru": ""
+  },
+  {
+    "id": 556,
+    "section": "XIII skirsnis – Užsienio politika ir valstybės gynimas",
+    "term": "Ilgalaikis",
+    "definition": "долгосрочный",
+    "translation_ru": ""
+  },
+  {
+    "id": 557,
+    "section": "XIII skirsnis – Užsienio politika ir valstybės gynimas",
+    "term": "Išeiti į atsargą",
+    "definition": "выйти в запас",
+    "translation_ru": ""
+  },
+  {
+    "id": 558,
+    "section": "XIII skirsnis – Užsienio politika ir valstybės gynimas",
+    "term": "Įsipareigojimas",
+    "definition": "обязательство",
+    "translation_ru": ""
+  },
+  {
+    "id": 559,
+    "section": "XIII skirsnis – Užsienio politika ir valstybės gynimas",
+    "term": "Jėga",
+    "definition": "сила",
+    "translation_ru": ""
+  },
+  {
+    "id": 560,
+    "section": "XIII skirsnis – Užsienio politika ir valstybės gynimas",
+    "term": "Karininkas",
+    "definition": "офицер",
+    "translation_ru": ""
+  },
+  {
+    "id": 561,
+    "section": "XIII skirsnis – Užsienio politika ir valstybės gynimas",
+    "term": "Kariuomenės vadas",
+    "definition": "командующий войсками",
+    "translation_ru": ""
+  },
+  {
+    "id": 562,
+    "section": "XIII skirsnis – Užsienio politika ir valstybės gynimas",
+    "term": "Karo propaganda",
+    "definition": "пропаганда войны",
+    "translation_ru": ""
+  },
+  {
+    "id": 563,
+    "section": "XIII skirsnis – Užsienio politika ir valstybės gynimas",
+    "term": "Kilti – kyla – kilo",
+    "definition": "возникать",
+    "translation_ru": ""
+  },
+  {
+    "id": 564,
+    "section": "XIII skirsnis – Užsienio politika ir valstybės gynimas",
+    "term": "Liktinis",
+    "definition": "сверхсрочник",
+    "translation_ru": ""
+  },
+  {
+    "id": 565,
+    "section": "XIII skirsnis – Užsienio politika ir valstybės gynimas",
+    "term": "Masinio naikinimo ginklas",
+    "definition": "оружие массового поражения",
+    "translation_ru": ""
+  },
+  {
+    "id": 566,
+    "section": "XIII skirsnis – Užsienio politika ir valstybės gynimas",
+    "term": "Neatidėliotinas",
+    "definition": "безотлагательный",
+    "translation_ru": ""
+  },
+  {
+    "id": 567,
+    "section": "XIII skirsnis – Užsienio politika ir valstybės gynimas",
+    "term": "Nedelsiant",
+    "definition": "незамедлительно",
+    "translation_ru": ""
+  },
+  {
+    "id": 568,
+    "section": "XIII skirsnis – Užsienio politika ir valstybės gynimas",
+    "term": "Nustoti – nustoja – nustojo",
+    "definition": "утратить, лишиться",
+    "translation_ru": ""
+  },
+  {
+    "id": 569,
+    "section": "XIII skirsnis – Užsienio politika ir valstybės gynimas",
+    "term": "Pagrįstas",
+    "definition": "основанный, основательный",
+    "translation_ru": ""
+  },
+  {
+    "id": 570,
+    "section": "XIII skirsnis – Užsienio politika ir valstybės gynimas",
+    "term": "Panaikinti – panaikina – panaikino",
+    "definition": "отменить",
+    "translation_ru": ""
+  },
+  {
+    "id": 571,
+    "section": "XIII skirsnis – Užsienio politika ir valstybės gynimas",
+    "term": "Pareiga",
+    "definition": "долг",
+    "translation_ru": ""
+  },
+  {
+    "id": 572,
+    "section": "XIII skirsnis – Užsienio politika ir valstybės gynimas",
+    "term": "Pratęsti – pratęsia – pratęsė",
+    "definition": "продлить",
+    "translation_ru": ""
+  },
+  {
+    "id": 573,
+    "section": "XIII skirsnis – Užsienio politika ir valstybės gynimas",
+    "term": "Puskarininkas",
+    "definition": "унтер-офицер",
+    "translation_ru": ""
+  },
+  {
+    "id": 574,
+    "section": "XIII skirsnis – Užsienio politika ir valstybės gynimas",
+    "term": "Rimtis",
+    "definition": "спокойствие",
+    "translation_ru": ""
+  },
+  {
+    "id": 575,
+    "section": "XIII skirsnis – Užsienio politika ir valstybės gynimas",
+    "term": "Savitarpio pagalba",
+    "definition": "взаимная помощь",
+    "translation_ru": ""
+  },
+  {
+    "id": 576,
+    "section": "XIII skirsnis – Užsienio politika ir valstybės gynimas",
+    "term": "Prisidėti – prisideda – prisidėjo",
+    "definition": "содействовать, соучаствовать",
+    "translation_ru": ""
+  },
+  {
+    "id": 577,
+    "section": "XIII skirsnis – Užsienio politika ir valstybės gynimas",
+    "term": "Siekti – siekia – siekė",
+    "definition": "стремиться",
+    "translation_ru": ""
+  },
+  {
+    "id": 578,
+    "section": "XIII skirsnis – Užsienio politika ir valstybės gynimas",
+    "term": "Sukarintas",
+    "definition": "военизированный",
+    "translation_ru": ""
+  },
+  {
+    "id": 579,
+    "section": "XIII skirsnis – Užsienio politika ir valstybės gynimas",
+    "term": "Sudedamoji dalis",
+    "definition": "составная часть",
+    "translation_ru": ""
+  },
+  {
+    "id": 580,
+    "section": "XIII skirsnis – Užsienio politika ir valstybės gynimas",
+    "term": "Tarptautinė teisė",
+    "definition": "международное право",
+    "translation_ru": ""
+  },
+  {
+    "id": 581,
+    "section": "XIII skirsnis – Užsienio politika ir valstybės gynimas",
+    "term": "Tėvynė",
+    "definition": "родина",
+    "translation_ru": ""
+  },
+  {
+    "id": 582,
+    "section": "XIII skirsnis – Užsienio politika ir valstybės gynimas",
+    "term": "Tikras",
+    "definition": "действительный",
+    "translation_ru": ""
+  },
+  {
+    "id": 583,
+    "section": "XIII skirsnis – Užsienio politika ir valstybės gynimas",
+    "term": "Užsienio politika",
+    "definition": "внешняя политика",
+    "translation_ru": ""
+  },
+  {
+    "id": 584,
+    "section": "XIII skirsnis – Užsienio politika ir valstybės gynimas",
+    "term": "Užtikrinti saugumą",
+    "definition": "обеспечить безопасность",
+    "translation_ru": ""
+  },
+  {
+    "id": 585,
+    "section": "XIII skirsnis – Užsienio politika ir valstybės gynimas",
+    "term": "Vyriausiasis vadas",
+    "definition": "верховный главнокомандующий",
+    "translation_ru": ""
+  },
+  {
+    "id": 586,
+    "section": "XIII skirsnis – Užsienio politika ir valstybės gynimas",
+    "term": "Visuotinai pripažintas",
+    "definition": "общепризнанный",
+    "translation_ru": ""
+  },
+  {
+    "id": 587,
+    "section": "XIII skirsnis – Užsienio politika ir valstybės gynimas",
+    "term": "Žūti – žūva – žuvo",
+    "definition": "погибать",
+    "translation_ru": ""
+  },
+  {
+    "id": 588,
+    "section": "XIII skirsnis – Užsienio politika ir valstybės gynimas",
+    "term": "Žuvęs",
+    "definition": "погибший",
+    "translation_ru": ""
+  },
+  {
+    "id": 589,
+    "section": "XIII skirsnis – Užsienio politika ir valstybės gynimas",
+    "term": "Pobūdis",
+    "definition": "характер",
+    "translation_ru": ""
+  },
+  {
+    "id": 590,
+    "section": "XIV skirsnis – Konstitucijos keitimas",
+    "term": "Daryti – daro – darė",
+    "definition": "делать",
+    "translation_ru": ""
+  },
+  {
+    "id": 591,
+    "section": "XIV skirsnis – Konstitucijos keitimas",
+    "term": "Ne anksčiau kaip",
+    "definition": "не ранее чем",
+    "translation_ru": ""
+  },
+  {
+    "id": 592,
+    "section": "XIV skirsnis – Konstitucijos keitimas",
+    "term": "Nepaprastoji padėtis",
+    "definition": "чрезвычайное положение",
+    "translation_ru": ""
+  },
+  {
+    "id": 593,
+    "section": "XIV skirsnis – Konstitucijos keitimas",
+    "term": "Pasirašyti – pasirašo – pasirašė",
+    "definition": "подписывать",
+    "translation_ru": ""
+  },
+  {
+    "id": 594,
+    "section": "XIV skirsnis – Konstitucijos keitimas",
+    "term": "Pataisa",
+    "definition": "поправка",
+    "translation_ru": ""
+  },
+  {
+    "id": 595,
+    "section": "XIV skirsnis – Konstitucijos keitimas",
+    "term": "Pertrauka",
+    "definition": "перерыв",
+    "translation_ru": ""
+  },
+  {
+    "id": 596,
+    "section": "XIV skirsnis – Konstitucijos keitimas",
+    "term": "Sumanymas",
+    "definition": "замысел, идея",
+    "translation_ru": ""
+  },
+  {
+    "id": 597,
+    "section": "XIV skirsnis – Konstitucijos keitimas",
+    "term": "Taisyti – taiso – taisė",
+    "definition": "поправлять",
+    "translation_ru": ""
+  },
+  {
+    "id": 598,
+    "section": "Baigiamieji nuostatai",
+    "term": "Atskiras",
+    "definition": "отдельный",
+    "translation_ru": ""
+  },
+  {
+    "id": 599,
+    "section": "Baigiamieji nuostatai",
+    "term": "Aukščiausioji taryba",
+    "definition": "Верховный Совет",
+    "translation_ru": ""
+  },
+  {
+    "id": 600,
+    "section": "Baigiamieji nuostatai",
+    "term": "Įsigaliojimas",
+    "definition": "вступление в силу",
+    "translation_ru": ""
+  },
+  {
+    "id": 601,
+    "section": "Baigiamieji nuostatai",
+    "term": "Narystė",
+    "definition": "членство",
+    "translation_ru": ""
+  },
+  {
+    "id": 602,
+    "section": "Baigiamieji nuostatai",
+    "term": "Neprisijungimas",
+    "definition": "неприсоединение",
+    "translation_ru": ""
+  },
+  {
+    "id": 603,
+    "section": "Baigiamieji nuostatai",
+    "term": "Pritarti – pritaria – pritarė",
+    "definition": "одобрить",
+    "translation_ru": ""
+  },
+  {
+    "id": 604,
+    "section": "Baigiamieji nuostatai",
+    "term": "Rytų",
+    "definition": "восточный",
+    "translation_ru": ""
+  },
+  {
+    "id": 605,
+    "section": "Baigiamieji nuostatai",
+    "term": "Sąjunga",
+    "definition": "союз",
+    "translation_ru": ""
+  },
+  {
+    "id": 606,
+    "section": "Baigiamieji nuostatai",
+    "term": "Sąlyga",
+    "definition": "условие",
+    "translation_ru": ""
+  },
+  {
+    "id": 607,
+    "section": "Baigiamieji nuostatai",
+    "term": "Sudedamoji dalis",
+    "definition": "составная часть",
+    "translation_ru": ""
+  }
+]

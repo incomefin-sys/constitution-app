@@ -1,0 +1,3068 @@
+[
+  {
+    "id": 1,
+    "section": "Preambulė",
+    "question": "Dabartinę Lietuvos Respublikos Konstituciją paskelbė:",
+    "options": [
+      "Lietuvos Vyriausybė",
+      "Lietuvos ir užsienio piliečiai",
+      "Lietuvos tauta",
+      "Lietuvos Seimas"
+    ],
+    "correct": 2,
+    "explanation": ""
+  },
+  {
+    "id": 2,
+    "section": "Preambulė",
+    "question": "Konstitucijos preambulėje apie lietuvių tautą parašyta:",
+    "options": [
+      "Išsaugojusi savo vienybę, teisingumą, idėjas",
+      "Išsaugojusi savo dvasią ir gimtąją kabą",
+      "Išsaugojusi savo vienybę ir papročius",
+      "Išsaugojusi savo dvasią, gimtąją kalbą, raštą ir papročius"
+    ],
+    "correct": 3,
+    "explanation": ""
+  },
+  {
+    "id": 3,
+    "section": "Preambulė",
+    "question": "Pratęskite sakinį: \"įkūnydama prigimtinę žmogaus ir Tautos teisę laisvai gyventi ir kurti savo tėvų ir protėvių žemėje –...\"",
+    "options": [
+      "Lietuvos žemėje",
+      "Nepriklausomoje Lietuvos valstybėje",
+      "Lietuvos valstybėje",
+      "Nepriklausomoje šalyje"
+    ],
+    "correct": 1,
+    "explanation": ""
+  },
+  {
+    "id": 4,
+    "section": "I skirsnis – Lietuvos valstybė",
+    "question": "Lietuvos valstybė vėliavos spalvos iš viršaus į apačią yra:",
+    "options": [
+      "Geltona, žalia, raudona",
+      "Žalia, geltona, raudona",
+      "Žalia, raudona, geltona",
+      "Raudona, žalia, geltona"
+    ],
+    "correct": 0,
+    "explanation": ""
+  },
+  {
+    "id": 5,
+    "section": "I skirsnis – Lietuvos valstybė",
+    "question": "Lietuvos valstybės herbas yra:",
+    "options": [
+      "Baltas Vytis raudoname lauke",
+      "Balti Gediminaičių stulpai raudoname lauke",
+      "Raudonas Vytis baltame lauke",
+      "Raudoni Gediminaičių stulpai baltame lauke"
+    ],
+    "correct": 0,
+    "explanation": ""
+  },
+  {
+    "id": 6,
+    "section": "I skirsnis – Lietuvos valstybė",
+    "question": "Lietuvos valstybės himnas yra:",
+    "options": [
+      "Jono Mačiulio-Maironio Lietuva brangi",
+      "Jurgio Zaurveino Lietuviais esame mes gimę",
+      "Marijono Mikutavičiaus Trys milijonai",
+      "Vinco Kudirkos Tautiška giesmė"
+    ],
+    "correct": 3,
+    "explanation": ""
+  },
+  {
+    "id": 7,
+    "section": "I skirsnis – Lietuvos valstybė",
+    "question": "Konstitucija priimta:",
+    "options": [
+      "1992-10-25",
+      "1992-10-27",
+      "1990-10-25",
+      "1992-10-29"
+    ],
+    "correct": 0,
+    "explanation": ""
+  },
+  {
+    "id": 8,
+    "section": "I skirsnis – Lietuvos valstybė",
+    "question": "Pagal LR Konstitucijos 10 str., valstybės sienos keičiamos tarptautine sutartimi, kai ją ratifikuoja:",
+    "options": [
+      "2/3 Seimo narių",
+      "3/4 Seimo narių",
+      "4/5 Seimo narių",
+      "90 proc. Seimo narių"
+    ],
+    "correct": 2,
+    "explanation": ""
+  },
+  {
+    "id": 9,
+    "section": "I skirsnis – Lietuvos valstybė",
+    "question": "Pažymėkite, kuris teiginys yra teisingas:",
+    "options": [
+      "Lietuvos valstybę kuria Tauta, Suverenitetas priklauso Valdžiai",
+      "Lietuvos valstybę kuria Seimas, Suverenitetas priklauso Tautai",
+      "Lietuvos valstybę kuria piliečiai, Suverenitetas priklauso Žmogui",
+      "Lietuvos valstybę kuria Tauta, Suverenitetas priklauso Tautai"
+    ],
+    "correct": 3,
+    "explanation": ""
+  },
+  {
+    "id": 10,
+    "section": "I skirsnis – Lietuvos valstybė",
+    "question": "Valstybės valdžią Lietuvoje vykdo:",
+    "options": [
+      "Seimas, Parlamentas, LR Prezidentas, Vyriausybė",
+      "Seimas, Respublikos Prezidentas ir Vyriausybė, Teismas",
+      "Tauta, LR Prezidentas, Ministrai",
+      "Seimas, Vyriausybė, Teismas"
+    ],
+    "correct": 1,
+    "explanation": ""
+  },
+  {
+    "id": 11,
+    "section": "I skirsnis – Lietuvos valstybė",
+    "question": "Lietuvos Respublikos pilietybė įgyjama:",
+    "options": [
+      "Gimstant ir kitais įstatymo nustatytais pagrindais",
+      "Gimstant",
+      "Kai sueina 10 metų po gimimo",
+      "Tėvų pageidavimu"
+    ],
+    "correct": 0,
+    "explanation": ""
+  },
+  {
+    "id": 12,
+    "section": "I skirsnis – Lietuvos valstybė",
+    "question": "Lietuvos valstybė globoja savo piliečius:",
+    "options": [
+      "Užsienyje",
+      "Europoje",
+      "Pasaulyje",
+      "Tik Lietuvoje"
+    ],
+    "correct": 0,
+    "explanation": ""
+  },
+  {
+    "id": 13,
+    "section": "II skirsnis – Žmogus ir valstybė",
+    "question": "Įstatymas saugo ir gina:",
+    "options": [
+      "Žmogaus orumą, teisę į gyvybę",
+      "Tik teisę į gyvybę",
+      "Tik žmogaus orumą",
+      "Nei viena, nei kita"
+    ],
+    "correct": 0,
+    "explanation": ""
+  },
+  {
+    "id": 14,
+    "section": "II skirsnis – Žmogus ir valstybė",
+    "question": "Nusikaltimo vietoje sulaikytas asmuo:",
+    "options": [
+      "Per 24 valandas turi būti pristatytas į teismą",
+      "Per 48 valandas turi būti pristatytas į teismą",
+      "Per 24 valandas turi būti pristatytas į kalėjimą",
+      "Per 48 valandas turi būti pristatytas namo"
+    ],
+    "correct": 1,
+    "explanation": ""
+  },
+  {
+    "id": 15,
+    "section": "II skirsnis – Žmogus ir valstybė",
+    "question": "Pagal LR Konstituciją:",
+    "options": [
+      "Minties, religijos ir proto laisvė yra nevaržoma",
+      "Minties, tikėjimo ir sąžinės laisvė yra nevaržoma",
+      "Sąžinės, tikėjimo ir draugystės laisvė yra nevaržoma",
+      "Religijos, minties ir proto laisvė yra varžoma"
+    ],
+    "correct": 1,
+    "explanation": ""
+  },
+  {
+    "id": 16,
+    "section": "II skirsnis – Žmogus ir valstybė",
+    "question": "Įgyvendindamas savo teises ir naudodamasis savo laisvėmis, žmogus privalo:",
+    "options": [
+      "Laikytis LR Konstitucijos ir įstatymų, nevaržyti kitų žmonių teisų ir laisvių",
+      "Laikytis LR įstatymų, išskyrus Konstituciją",
+      "Laikytis tik LR Konstitucijos savo nuožiūra",
+      "Laikytis LR Konstitucijos ir įstatymų, bet kitiems žmonėms leisti jų nesilaikyti"
+    ],
+    "correct": 0,
+    "explanation": ""
+  },
+  {
+    "id": 17,
+    "section": "II skirsnis – Žmogus ir valstybė",
+    "question": "Įstatymui, teismui ir kitoms valstybės institucijoms ar pareigūnams visi asmenys:",
+    "options": [
+      "Skirtingi",
+      "Draugiški",
+      "Lygūs",
+      "Įdomūs"
+    ],
+    "correct": 2,
+    "explanation": ""
+  },
+  {
+    "id": 18,
+    "section": "II skirsnis – Žmogus ir valstybė",
+    "question": "Lietuvoje gali apsigyventi:",
+    "options": [
+      "Kiekvienas lietuvis",
+      "Kiekvienas lietuvis, kuris niekada nebuvo užsienyje",
+      "Kiekvienas LR pilietis, išskyrus vaikus",
+      "Kiekvienas lietuvis, kuris jau turi būstą Lietuvoje"
+    ],
+    "correct": 0,
+    "explanation": ""
+  },
+  {
+    "id": 19,
+    "section": "II skirsnis – Žmogus ir valstybė",
+    "question": "Rinkimų teisę turi tie piliečiai, kuriems rinkimų dieną yra sukakę:",
+    "options": [
+      "21 metai",
+      "16 metų",
+      "19 metų",
+      "18 metų"
+    ],
+    "correct": 3,
+    "explanation": ""
+  },
+  {
+    "id": 20,
+    "section": "II skirsnis – Žmogus ir valstybė",
+    "question": "Piliečiai, priklausantys tautinėms bendrijoms, turi teisę puoselėti:",
+    "options": [
+      "Savo kalbą, savo profesiją ir papročius",
+      "Savo kalbą, savo namus ir tradicijas",
+      "Savo tikėjimą, savo religiją ir papročius",
+      "Savo kalbą, savo kultūrą ir papročius"
+    ],
+    "correct": 3,
+    "explanation": ""
+  },
+  {
+    "id": 21,
+    "section": "II skirsnis – Žmogus ir valstybė",
+    "question": "Kurios teisės piliečiams negarantuoja LR Konstitucija?",
+    "options": [
+      "Teisės į asmens neliečiamybę",
+      "Teisės į gyvybę",
+      "Teisės į nemokamą būstą",
+      "Teisės į valstybės valdymą"
+    ],
+    "correct": 2,
+    "explanation": ""
+  },
+  {
+    "id": 22,
+    "section": "II skirsnis – Žmogus ir valstybė",
+    "question": "Kuris vienas teiginys apie Konstitucijoje garantuojamas teises yra teisingas:",
+    "options": [
+      "Galima nevykdyti įstatymų, pasiteisinant praktikuojama religija ar išpažįstamu tikėjimu",
+      "Kiekvienas žmogus turi teisę laisvai pasirinkti bet kurią religiją arba tikėjimą",
+      "Žmogų kankinti galima tik laisvės atėmimo įstaigose",
+      "Žmogus turi teisę turėti savo įsitikinimus, bet jų laisvai reikšti negalima"
+    ],
+    "correct": 1,
+    "explanation": ""
+  },
+  {
+    "id": 23,
+    "section": "II skirsnis – Žmogus ir valstybė",
+    "question": "LR Respublikos piliečiui išvykus į užsienį:",
+    "options": [
+      "Lietuvos valstybė apriboja jo, kaip piliečio, teises",
+      "Lietuvos valstybė globoja savo piliečius užsienyje",
+      "Lietuvos valstybė perduoda globą tai užsienio valstybei",
+      "Lietuvos valstybė sustabdo jo pilietybės galiojimą, kol negrįš į Tėvynę"
+    ],
+    "correct": 1,
+    "explanation": ""
+  },
+  {
+    "id": 24,
+    "section": "II skirsnis – Žmogus ir valstybė",
+    "question": "Pagal Konstituciją rinkimuose nedalyvauja piliečiai, kurie:",
+    "options": [
+      "Neturi šeimos",
+      "Teismo sprendimu pripažinti neveiksniais",
+      "Dalyvauja pirmą kartą",
+      "Išvykę į užsienį"
+    ],
+    "correct": 1,
+    "explanation": ""
+  },
+  {
+    "id": 25,
+    "section": "III skirsnis – Visuomenė ir valstybė",
+    "question": "LR Konstitucijos 38 straipsnyje sakoma:",
+    "options": [
+      "Valstybė saugo ir globoja šeimą, motinystę, tėvystę ir vaikystę",
+      "Valstybė saugo ir globoja šeimą, motinystę, tėvystę ir paauglystę",
+      "Valstybė saugo ir globoja šeimą, motinystę, tėvystę ir senatvę",
+      "Valstybė saugo ir globoja šeimą, motinystę, vaikystę, paauglystę ir senatvę"
+    ],
+    "correct": 0,
+    "explanation": ""
+  },
+  {
+    "id": 26,
+    "section": "III skirsnis – Visuomenė ir valstybė",
+    "question": "Kas yra visuomenės ir valstybės pagrindas:",
+    "options": [
+      "Šeima",
+      "Mokykla",
+      "Bendruomenė",
+      "Partija"
+    ],
+    "correct": 0,
+    "explanation": ""
+  },
+  {
+    "id": 27,
+    "section": "III skirsnis – Visuomenė ir valstybė",
+    "question": "Santuoka sudaroma:",
+    "options": [
+      "Laisvu vyro ir moters tėvų sutarimu",
+      "Laisvu vyro ir moters sutarimu",
+      "Pagal vyro ir moters vaikų pageidavimus",
+      "Laisvu vyro arba moters sprendimu"
+    ],
+    "correct": 1,
+    "explanation": ""
+  },
+  {
+    "id": 28,
+    "section": "III skirsnis – Visuomenė ir valstybė",
+    "question": "Valstybė registruoja:",
+    "options": [
+      "Santuoką ir gimimą",
+      "Santuoką, gimimą ir mirtį",
+      "Tik gimimą",
+      "Tik santuoką"
+    ],
+    "correct": 1,
+    "explanation": ""
+  },
+  {
+    "id": 29,
+    "section": "III skirsnis – Visuomenė ir valstybė",
+    "question": "Pagal Konstituciją tėvai privalo išlaikyti savo vaikus:",
+    "options": [
+      "Iki pilnametystės",
+      "Iki 20 metų",
+      "Iki vidutinio amžiaus",
+      "Kol studijuoja universitete"
+    ],
+    "correct": 0,
+    "explanation": ""
+  },
+  {
+    "id": 30,
+    "section": "III skirsnis – Visuomenė ir valstybė",
+    "question": "Konstitucija apibrėžia vaikų pareigą taip:",
+    "options": [
+      "Gerbti tėvus, globoti juos visą gyvenimą",
+      "Gerbti tėvus, globoti juos senatvėje ir tausoti jų palikimą",
+      "Globoti tėvus senatvėje ir efektyviai investuoti jų palikimą",
+      "Gerbti tėvus, globoti juos senatvėje ir, jeigu reikia, gydyti"
+    ],
+    "correct": 1,
+    "explanation": ""
+  },
+  {
+    "id": 31,
+    "section": "III skirsnis – Visuomenė ir valstybė",
+    "question": "Nepilnamečius vaikus:",
+    "options": [
+      "Gina įstatymas",
+      "Gina valstybė",
+      "Gina tėvai",
+      "Gina šeima"
+    ],
+    "correct": 0,
+    "explanation": ""
+  },
+  {
+    "id": 32,
+    "section": "III skirsnis – Visuomenė ir valstybė",
+    "question": "Mokslas privalomas asmenims:",
+    "options": [
+      "Iki 18 metų",
+      "Iki 16 metų",
+      "Iki 21 metų",
+      "Visą gyvenimą"
+    ],
+    "correct": 1,
+    "explanation": ""
+  },
+  {
+    "id": 33,
+    "section": "III skirsnis – Visuomenė ir valstybė",
+    "question": "Lietuvoje pagal LR Konstituciją mokslas yra nemokamas:",
+    "options": [
+      "Valstybinėse ir savivaldybių bendrojo lavinimo, aukštosiose ir aukštesniosiose mokyklose",
+      "Kolegijose, universitetuose, profesinėse mokyklose",
+      "Valstybinėse ir savivaldybių bendrojo lavinimo, profesinėse bei aukštesniosiose mokyklose",
+      "Valstybinėse ir savivaldybių profesinio lavinimo, aukštosiose mokyklose bei kolegijose"
+    ],
+    "correct": 2,
+    "explanation": ""
+  },
+  {
+    "id": 34,
+    "section": "III skirsnis – Visuomenė ir valstybė",
+    "question": "Pagal LR Konstituciją aukštasis mokslas prieinamas visiems pagal:",
+    "options": [
+      "Kiekvieno žmogaus tautybę",
+      "Kiekvieno žmogaus kišenę",
+      "Kiekvieno žmogaus sugebėjimus",
+      "Kiekvieno žmogaus įsitikinimus"
+    ],
+    "correct": 2,
+    "explanation": ""
+  },
+  {
+    "id": 35,
+    "section": "III skirsnis – Visuomenė ir valstybė",
+    "question": "Lietuvos valstybinė religija yra:",
+    "options": [
+      "Krikščionybė",
+      "Islamas",
+      "Pagonybė",
+      "Lietuvoje nėra valstybinės religijos"
+    ],
+    "correct": 3,
+    "explanation": ""
+  },
+  {
+    "id": 36,
+    "section": "III skirsnis – Visuomenė ir valstybė",
+    "question": "Lietuvoje masinės informacijos cenzūra:",
+    "options": [
+      "Draudžiama",
+      "Galima",
+      "Tik kartais draudžiama",
+      "Visada leidžiama"
+    ],
+    "correct": 0,
+    "explanation": ""
+  },
+  {
+    "id": 37,
+    "section": "IV skirsnis – Tautos ūkis ir darbas",
+    "question": "Valstybė gina:",
+    "options": [
+      "Gamintojo interesus",
+      "Konkurentų interesus",
+      "Vartotojo interesus",
+      "Ūkininko interesus"
+    ],
+    "correct": 2,
+    "explanation": ""
+  },
+  {
+    "id": 38,
+    "section": "IV skirsnis – Tautos ūkis ir darbas",
+    "question": "Lietuvos Respublikai išimtine nuosavybės teise priklauso:",
+    "options": [
+      "Žemės gelmės, taip pat miškai, parkai, keliai, istorijos, archeologijos ir kultūros objektai, literatūros paveldas",
+      "Žemės gelmės, taip pat valstybinės reikšmės vidaus vandenys, miškai, parkai, keliai, istorijos, archeologijos ir kultūros objektai",
+      "Vandenys, oras, miškai, parkai, keliai, kultūros paminklai, gražios sodybos",
+      "Žemės gelmės, taip pat miškai, parkai, keliai, istorijos, archeologijos ir kultūros objektai, sodybos"
+    ],
+    "correct": 1,
+    "explanation": ""
+  },
+  {
+    "id": 39,
+    "section": "IV skirsnis – Tautos ūkis ir darbas",
+    "question": "Pagal LR Konstitucijos 48 straipsnį:",
+    "options": [
+      "Priverčiamasis darbas draudžiamas",
+      "Priverčiamasis darbas kartais galimas",
+      "Priverčiamasis darbas galimas tik piliečio sutikimu",
+      "Priverčiamasis darbas turi atitikti kvalifikaciją"
+    ],
+    "correct": 0,
+    "explanation": ""
+  },
+  {
+    "id": 40,
+    "section": "IV skirsnis – Tautos ūkis ir darbas",
+    "question": "Piliečių darbas karo, stichinės nelaimės metu:",
+    "options": [
+      "Laikomas priverčiamuoju darbu",
+      "Nelaikomas priverčiamuoju darbu",
+      "Yra gerai apmokamas",
+      "Yra draudžiamas"
+    ],
+    "correct": 1,
+    "explanation": ""
+  },
+  {
+    "id": 41,
+    "section": "IV skirsnis – Tautos ūkis ir darbas",
+    "question": "Kiekvienas žmogus turi teisę turėti:",
+    "options": [
+      "Kasmetines nemokamas atostogas, nemokamą poilsį",
+      "Poilsį, įdomų užsiėmimą ir kasmetines mokamas atostogas",
+      "Poilsį ir laisvalaikį, taip pat kasmetines mokamas atostogas",
+      "Poilsį ir laisvalaikį, nemokamas atostogas"
+    ],
+    "correct": 2,
+    "explanation": ""
+  },
+  {
+    "id": 42,
+    "section": "IV skirsnis – Tautos ūkis ir darbas",
+    "question": "Profesinės sąjungos gina:",
+    "options": [
+      "Darbuotojų profesines, ekonomines ir socialines teises bei interesus",
+      "Piliečių moralines, profesines ir ekonomines teises",
+      "Žmogaus teises, materialinį turtą",
+      "Darbuotojų nuosavybę, socialines garantijas"
+    ],
+    "correct": 0,
+    "explanation": ""
+  },
+  {
+    "id": 43,
+    "section": "IV skirsnis – Tautos ūkis ir darbas",
+    "question": "Visos profesinės sąjungos turi:",
+    "options": [
+      "Skirtingas teises",
+      "Neribotas teises",
+      "Ribotas teises",
+      "Lygias teises"
+    ],
+    "correct": 3,
+    "explanation": ""
+  },
+  {
+    "id": 44,
+    "section": "IV skirsnis – Tautos ūkis ir darbas",
+    "question": "Aplinką nuo kenksmingų poveikių privalo saugoti (Konstitucijos 53 str.):",
+    "options": [
+      "Tik valstybė",
+      "Patys piliečiai",
+      "Valstybės įstaigos",
+      "Valstybė ir kiekvienas asmuo"
+    ],
+    "correct": 3,
+    "explanation": ""
+  },
+  {
+    "id": 45,
+    "section": "IV skirsnis – Tautos ūkis ir darbas",
+    "question": "Pagal Konstitucijos 48 str. priverčiamuoju darbu nelaikomi šie atvejai, išskyrus:",
+    "options": [
+      "Įstatymu reguliuojamas nuteistųjų darbas",
+      "Valstybės tarnyba",
+      "Kariuomenės tarnyba",
+      "Piliečių darbas stichinės nelaimės metu"
+    ],
+    "correct": 3,
+    "explanation": ""
+  },
+  {
+    "id": 46,
+    "section": "IV skirsnis – Tautos ūkis ir darbas",
+    "question": "LR Konstitucija: Lietuvos Respublikai išimtine nuosavybės teise priklauso šie objektai, išskyrus:",
+    "options": [
+      "Žemės gelmes",
+      "Valstybinės reikšmės vidaus vandenis, miškus, parkus, kelius",
+      "Istorijos, archeologijos ir kultūros objektus",
+      "Oro erdvę"
+    ],
+    "correct": 3,
+    "explanation": ""
+  },
+  {
+    "id": 47,
+    "section": "V skirsnis – Seimas",
+    "question": "Lietuvos Respublikos Seimą sudaro:",
+    "options": [
+      "141 narys",
+      "140 narių",
+      "401 narys",
+      "244 nariai"
+    ],
+    "correct": 0,
+    "explanation": ""
+  },
+  {
+    "id": 48,
+    "section": "V skirsnis – Seimas",
+    "question": "Seimą sudaro:",
+    "options": [
+      "Pareigūnų atstovai",
+      "Valdžios atstovai",
+      "Politinių bendrijų atstovai",
+      "Tautos atstovai"
+    ],
+    "correct": 3,
+    "explanation": ""
+  },
+  {
+    "id": 49,
+    "section": "V skirsnis – Seimas",
+    "question": "Seimo nariai renkami:",
+    "options": [
+      "Ketveriems metams, remiantis visuotine, lygia, tiesiogine rinkimų teise ir slaptu balsavimu",
+      "Šešeriems metams, remiantis visuotine, lygia, tiesiogine rinkimų teise ir slaptu balsavimu",
+      "Ketveriems metams, remiantis demokratiniais principais ir taisyklėmis",
+      "Šešeriems metams, remiantis demokratiniais principais"
+    ],
+    "correct": 0,
+    "explanation": ""
+  },
+  {
+    "id": 50,
+    "section": "V skirsnis – Seimas",
+    "question": "Seimas laikomas išrinktu, kai yra išrinkta ne mažiau kaip:",
+    "options": [
+      "4/5 Seimo narių",
+      "60 proc. Seimo narių",
+      "3/5 Seimo narių",
+      "80 proc. Seimo narių"
+    ],
+    "correct": 2,
+    "explanation": ""
+  },
+  {
+    "id": 51,
+    "section": "V skirsnis – Seimas",
+    "question": "Seimo nariu gali būti renkamas:",
+    "options": [
+      "LR pilietis, ne jaunesnis kaip 25 metų, įgijęs aukštąjį išsilavinimą ir nuolat gyvenantis Lietuvoje",
+      "LR pilietis ne jaunesnis kaip 21 metų, nuolat gyvenantis Lietuvoje ir niekada nebaustas laisvės atėmimo bausme",
+      "LR pilietis, ne jaunesnis kaip 40 metų, pastaruosius trejus metus gyvenęs Lietuvoje",
+      "LR pilietis, ne jaunesnis kaip 25 metų, nuolat gyvenantis Lietuvoje ir nesusijęs priesaika su kita valstybe"
+    ],
+    "correct": 3,
+    "explanation": ""
+  },
+  {
+    "id": 52,
+    "section": "V skirsnis – Seimas",
+    "question": "Eiliniai Seimo rinkimai rengiami:",
+    "options": [
+      "Spalio mėnesio antrą sekmadienį",
+      "Spalio mėnesio pirmą sekmadienį",
+      "Sausio mėnesio antrą sekmadienį",
+      "Sausio mėnesio pirmą sekmadienį"
+    ],
+    "correct": 0,
+    "explanation": ""
+  },
+  {
+    "id": 53,
+    "section": "V skirsnis – Seimas",
+    "question": "Seimo narių įgaliojimų laikas pradedamas skaičiuoti nuo tos dienos, kai naujai išrinktas Seimas:",
+    "options": [
+      "susirenka į pirmąjį posėdį",
+      "kai paskelbiami rinkimų rezultatai",
+      "kai rinkimų rezultatai paskelbiami laikraštyje",
+      "kai Respublikos Prezidentas paskelbia naująjį Seimą"
+    ],
+    "correct": 0,
+    "explanation": ""
+  },
+  {
+    "id": 54,
+    "section": "V skirsnis – Seimas",
+    "question": "Seimo narys negali gauti jokio kito atlyginimo, išskyrus:",
+    "options": [
+      "Atlyginimą už kūrybinę veiklą",
+      "Atlyginimą už darbą verslo įmonėje",
+      "Atlyginimą už darbą nuosavoje įmonėje",
+      "Atlyginimą už dėstymą universitete"
+    ],
+    "correct": 0,
+    "explanation": ""
+  },
+  {
+    "id": 55,
+    "section": "V skirsnis – Seimas",
+    "question": "Pagal LR Konstituciją eilinių Seimo sesijų per vienerius metus įvyksta:",
+    "options": [
+      "3",
+      "2",
+      "1",
+      "4"
+    ],
+    "correct": 1,
+    "explanation": ""
+  },
+  {
+    "id": 56,
+    "section": "V skirsnis – Seimas",
+    "question": "Kokiu būdu galima tapti LR Seimo nariu?",
+    "options": [
+      "Išrinkus rinkimuose",
+      "Paskyrus prezidentui",
+      "Paveldėjimo keliu",
+      "Sumokėjus didelį užstatą"
+    ],
+    "correct": 0,
+    "explanation": ""
+  },
+  {
+    "id": 57,
+    "section": "V skirsnis – Seimas",
+    "question": "Seimo posėdžiams vadovauja:",
+    "options": [
+      "Seimo pirmininkas arba jo pavaduotojas",
+      "Bet kuris Seimo narys",
+      "Respublikos Prezidentas",
+      "Ministras pirmininkas"
+    ],
+    "correct": 0,
+    "explanation": ""
+  },
+  {
+    "id": 58,
+    "section": "V skirsnis – Seimas",
+    "question": "Kam Seime priklauso įstatymų leidybos iniciatyvos teisė:",
+    "options": [
+      "Seimo nariams, Respublikos Prezidentui, Ministrui Pirmininkui",
+      "Seimo nariams, Respublikos Prezidentui ir Vyriausybei",
+      "Respublikos Prezidentui, Seimo Pirmininkui, Ministrui Pirmininkui",
+      "Seimo nariams, Seimo Pirmininkui, Ministrui Pirmininkui"
+    ],
+    "correct": 1,
+    "explanation": ""
+  },
+  {
+    "id": 59,
+    "section": "V skirsnis – Seimas",
+    "question": "Įstatymai laikomi priimtais, jeigu:",
+    "options": [
+      "Už juos balsavo dauguma visų Seimo narių",
+      "Už juos balsavo dauguma Seimo narių, dalyvaujančių posėdyje",
+      "Už juos balsavo 50 Seimo narių",
+      "Už juos balsavo Seimo Pirmininkas"
+    ],
+    "correct": 1,
+    "explanation": ""
+  },
+  {
+    "id": 60,
+    "section": "V skirsnis – Seimas",
+    "question": "Konstituciniai įstatymai priimami, jeigu:",
+    "options": [
+      "Už juos balsuoja daugiau kaip 3/5 visų Seimo narių",
+      "Už juos balsuoja daugiau kaip 1/2 visų Seimo narių",
+      "Už juos balsuoja daugiau kaip 4/5 visų Seimo narių",
+      "Už juos balsuoja mažiau kaip pusė visų Seimo narių"
+    ],
+    "correct": 1,
+    "explanation": ""
+  },
+  {
+    "id": 61,
+    "section": "V skirsnis – Seimas",
+    "question": "Konstituciniai įstatymai keičiami, jeigu:",
+    "options": [
+      "Už juos balsuoja ne mažiau kaip 3/5 Seimo narių",
+      "Už juos balsuoja ne mažiau kaip pusė Seimo narių",
+      "Už juos balsuoja ne mažiau kaip 3/6 Seimo narių",
+      "Už juos balsuoja ne mažiau kaip 1/3 Seimo narių"
+    ],
+    "correct": 0,
+    "explanation": ""
+  },
+  {
+    "id": 62,
+    "section": "V skirsnis – Seimas",
+    "question": "LR Prezidentas Seimo priimtą įstatymą turi pasirašyti arba motyvuotai grąžinti Seimui:",
+    "options": [
+      "Per 10 dienų po įteikimo",
+      "Per 10 savaičių po įteikimo",
+      "Per 2 savaites po svarstymo",
+      "Per 1 mėnesį po įteikimo"
+    ],
+    "correct": 0,
+    "explanation": ""
+  },
+  {
+    "id": 63,
+    "section": "V skirsnis – Seimas",
+    "question": "Kas turi teisę siūlyti teismui atleisti iš einamų pareigų kaltus dėl piktnaudžiavimo savivaldybių pareigūnus:",
+    "options": [
+      "Seimo Pirmininkas",
+      "Ministras Pirmininkas",
+      "LR Prezidentas",
+      "Seimo kontrolieriai"
+    ],
+    "correct": 3,
+    "explanation": ""
+  },
+  {
+    "id": 64,
+    "section": "V skirsnis – Seimas",
+    "question": "Įstatymų leidybos iniciatyvos teisė priklauso:",
+    "options": [
+      "Respublikos Prezidentui, Seimui ir Vyriausybei",
+      "Seimui, Vyriausybei ir 30 000 LR piliečių, turinčių rinkimų teisę",
+      "Respublikos Prezidentui, Seimo nariams, Vyriausybei ir 50 000 LR piliečių, turinčių rinkimų teisę",
+      "Respublikos Prezidentui, Seimo nariams, Vyriausybei ir 300 000 LR piliečių, turinčių rinkimų teisę"
+    ],
+    "correct": 2,
+    "explanation": ""
+  },
+  {
+    "id": 65,
+    "section": "VI skirsnis – Respublikos Prezidentas",
+    "question": "Einantis pareigas Respublikos Prezidentas yra:",
+    "options": [
+      "Partijos vadovas",
+      "Seimo vadovas",
+      "Valstybės vadovas",
+      "Tautos vadovas"
+    ],
+    "correct": 2,
+    "explanation": ""
+  },
+  {
+    "id": 66,
+    "section": "VI skirsnis – Respublikos Prezidentas",
+    "question": "Respublikos Prezidentu gali būti renkamas:",
+    "options": [
+      "LR pilietis pagal kilmę, ne mažiau kaip 2 m. gyvenęs Lietuvoje, ne jaunesnis kaip 40 metų, galintis būti renkamas Seimo nariu",
+      "LR pilietis, ne mažiau kaip 5 m. gyvenęs Lietuvoje, ne jaunesnis kaip 45 metai, galintis būti renkamas Seimo nariu",
+      "LR pilietis pagal kilmę, ne mažiau kaip 2 m. gyvenęs Lietuvoje, ne jaunesnis kaip 35 metai, galintis būti renkamas Seimo nariu",
+      "LR pilietis pagal kilmę, ne mažiau kaip 3 m. gyvenęs Lietuvoje, ne jaunesnis kaip 40 metų, galintis būti renkamas Seimo nariu"
+    ],
+    "correct": 3,
+    "explanation": ""
+  },
+  {
+    "id": 67,
+    "section": "VI skirsnis – Respublikos Prezidentas",
+    "question": "LR piliečiai renka Respublikos Prezidentą:",
+    "options": [
+      "Ketveriems metams",
+      "Penkeriems metams",
+      "Šešeriems metams",
+      "Dešimčiai metų"
+    ],
+    "correct": 1,
+    "explanation": ""
+  },
+  {
+    "id": 68,
+    "section": "VI skirsnis – Respublikos Prezidentas",
+    "question": "Tas pats asmuo gali būti renkamas LR Prezidentu:",
+    "options": [
+      "Ne daugiau kaip 1 kartą",
+      "Ne daugiau kaip 3 kartus",
+      "Ne daugiau kaip 2 kartus iš eilės",
+      "Neribotai"
+    ],
+    "correct": 2,
+    "explanation": ""
+  },
+  {
+    "id": 69,
+    "section": "VI skirsnis – Respublikos Prezidentas",
+    "question": "Kiek parašų turi surinkti kandidatas į Respublikos Prezidentus, kad jis būtų įregistruotas:",
+    "options": [
+      "ne mažiau kaip 30 000 rinkėjų parašų",
+      "ne mažiau kaip 50 000 rinkėjų parašų",
+      "ne mažiau kaip 100 000 rinkėjų parašų",
+      "ne mažiau kaip 20 000 rinkėjų parašų"
+    ],
+    "correct": 3,
+    "explanation": ""
+  },
+  {
+    "id": 70,
+    "section": "VI skirsnis – Respublikos Prezidentas",
+    "question": "Respublikos Prezidento eiliniai rinkimai vykdomi:",
+    "options": [
+      "Pirmąjį sekmadienį likus 1 mėnesiui iki kadencijos pabaigos",
+      "Paskutinį sekmadienį likus 1 mėnesiui iki kadencijos pabaigos",
+      "Pirmąjį sekmadienį likus 2 mėnesiams iki kadencijos pabaigos",
+      "Paskutinį sekmadienį likus 2 mėnesiams iki kadencijos pabaigos"
+    ],
+    "correct": 3,
+    "explanation": ""
+  },
+  {
+    "id": 71,
+    "section": "VI skirsnis – Respublikos Prezidentas",
+    "question": "Išrinktas Respublikos Prezidentas savo pareigas pradeda eiti:",
+    "options": [
+      "Rytojaus dieną pasibaigus kadencijai, po priesaikos Seimo nariams Vilniuje",
+      "Tą pačią rinkimų dieną, po priesaikos Seimo nariams Vilniuje",
+      "Paskutinę kadencijos dieną, po priesaikos Seimo nariams Vilniuje",
+      "Rytojaus dieną pasibaigus kadencijai, be papildomų sąlygų"
+    ],
+    "correct": 0,
+    "explanation": ""
+  },
+  {
+    "id": 72,
+    "section": "VI skirsnis – Respublikos Prezidentas",
+    "question": "Kas pasirašo Respublikos Prezidento priesaikos aktą:",
+    "options": [
+      "Respublikos Prezidentas ir Konstitucinio Teismo pirmininkas",
+      "Tik Konstitucinio Teismo pirmininkas",
+      "Konstitucinio Teismo teisėjas",
+      "Tik Respublikos Prezidentas"
+    ],
+    "correct": 0,
+    "explanation": ""
+  },
+  {
+    "id": 73,
+    "section": "VI skirsnis – Respublikos Prezidentas",
+    "question": "Respublikos Prezidentas negali gauti kitokio atlyginimo, išskyrus:",
+    "options": [
+      "Atlyginimą už darbą verslo įmonėje",
+      "Atlyginimą už darbą valstybinėje įstaigoje",
+      "Atlyginimą už darbą nuosavoje įmonėje",
+      "Atlyginimą už kūrybinę veiklą"
+    ],
+    "correct": 3,
+    "explanation": ""
+  },
+  {
+    "id": 74,
+    "section": "VI skirsnis – Respublikos Prezidentas",
+    "question": "LR Konstitucija nustato, jog LR užsienio politiką vykdo:",
+    "options": [
+      "Prezidentas, Seimo Pirmininkas ir Ministras Pirmininkas",
+      "Prezidentas, Seimo Pirmininkas ir Ministras Pirmininkas bei užsienio reikalų ministras",
+      "Prezidentas ir Vyriausybė",
+      "Prezidentas ir Seimas"
+    ],
+    "correct": 2,
+    "explanation": ""
+  },
+  {
+    "id": 75,
+    "section": "VI skirsnis – Respublikos Prezidentas",
+    "question": "Remiantis LR Konstitucija, Ministras Pirmininkas skiriamas:",
+    "options": [
+      "Seimo ir Respublikos Prezidento teikimu",
+      "Respublikos Prezidento ir Seimo pritarimu",
+      "Respublikos Prezidento ir Vyriausybės teikimu",
+      "Pritarus Vyriausybės narių daugumai"
+    ],
+    "correct": 1,
+    "explanation": ""
+  },
+  {
+    "id": 76,
+    "section": "VI skirsnis – Respublikos Prezidentas",
+    "question": "LR Konstitucija nustato, jog ministrus skiria:",
+    "options": [
+      "Respublikos Prezidentas Ministro Pirmininko teikimu",
+      "Seimas Respublikos Prezidento teikimu",
+      "Ministras Pirmininkas Seimo pritarimu",
+      "Respublikos Prezidentas Seimo teikimu"
+    ],
+    "correct": 0,
+    "explanation": ""
+  },
+  {
+    "id": 77,
+    "section": "VII skirsnis – Lietuvos Respublikos Vyriausybė",
+    "question": "Kas sudaro Lietuvos Respublikos Vyriausybę:",
+    "options": [
+      "Ministras Pirmininkas ir Seimo nariai",
+      "Ministras Pirmininkas ir Respublikos Prezidentas",
+      "Seimo Pirmininkas ir ministrai",
+      "Ministras Pirmininkas ir ministrai"
+    ],
+    "correct": 3,
+    "explanation": ""
+  },
+  {
+    "id": 78,
+    "section": "VII skirsnis – Lietuvos Respublikos Vyriausybė",
+    "question": "Per kiek dienų po paskyrimo Ministras Pirmininkas pristato Seimui Vyriausybę ir pateikia svarstyti jos programą:",
+    "options": [
+      "Per 10 dienų",
+      "Per 2 savaites",
+      "Per 15 dienų",
+      "Per 1 mėnesį"
+    ],
+    "correct": 2,
+    "explanation": ""
+  },
+  {
+    "id": 79,
+    "section": "VII skirsnis – Lietuvos Respublikos Vyriausybė",
+    "question": "Vyriausybė grąžina savo įgaliojimus Respublikos Prezidentui:",
+    "options": [
+      "Po Ministro Pirmininko rinkimų",
+      "Prieš Seimo rinkimus",
+      "Po Seimo rinkimų arba išrinkus Respublikos Prezidentą",
+      "Po Konstitucinio teismo kadencijos pabaigos"
+    ],
+    "correct": 2,
+    "explanation": ""
+  },
+  {
+    "id": 80,
+    "section": "VII skirsnis – Lietuvos Respublikos Vyriausybė",
+    "question": "Nauja Vyriausybė pradeda veikti kai:",
+    "options": [
+      "susirenka į pirmąjį Seimo posėdį",
+      "Seimo posėdyje dalyvaujančių Seimo narių balsų dauguma pritaria jos programai",
+      "Seimo posėdyje dalyvaujantis Respublikos Prezidentas pritaria jos programai",
+      "Referendume Tauta pritaria jos programai"
+    ],
+    "correct": 1,
+    "explanation": ""
+  },
+  {
+    "id": 81,
+    "section": "VII skirsnis – Lietuvos Respublikos Vyriausybė",
+    "question": "Lietuvos Respublikos Vyriausybė valstybės valdymo reikalus sprendžia:",
+    "options": [
+      "Seimo posėdžiuose visų Vyriausybės narių balsų dauguma priimdama nutarimus",
+      "Seimo posėdžiuose visų Seimo narių dauguma priimdama sprendimus",
+      "Vyriausybės posėdžiuose visų Vyriausybės narių balsų dauguma priimdama nutarimus",
+      "Vyriausybės posėdžiuose visų Seimo narių dauguma priimdama nutarimus"
+    ],
+    "correct": 2,
+    "explanation": ""
+  },
+  {
+    "id": 82,
+    "section": "VII skirsnis – Lietuvos Respublikos Vyriausybė",
+    "question": "Vyriausybės nutarimus pasirašo:",
+    "options": [
+      "Seimo Pirmininkas ir tos srities ministras",
+      "Respublikos Prezidentas",
+      "Ministras Pirmininkas",
+      "Ministras Pirmininkas ir tos srities ministras"
+    ],
+    "correct": 3,
+    "explanation": ""
+  },
+  {
+    "id": 83,
+    "section": "VII skirsnis – Lietuvos Respublikos Vyriausybė",
+    "question": "Ministras Pirmininkas negali gauti jokio kito atlyginimo išskyrus:",
+    "options": [
+      "Pelną verslo įmonėje",
+      "Pajamas už komercinę veiklą",
+      "Atlyginimą už darbą kitoje valstybinėje įstaigoje",
+      "Užmokestį už kūrybinę veiklą"
+    ],
+    "correct": 3,
+    "explanation": ""
+  },
+  {
+    "id": 84,
+    "section": "VII skirsnis – Lietuvos Respublikos Vyriausybė",
+    "question": "Lietuvos Respublikos Vyriausybė solidariai už bendrą Vyriausybės veiklą atsako:",
+    "options": [
+      "Ministrui Pirmininkui",
+      "Respublikos Prezidentui",
+      "Seimui",
+      "Konstituciniam Teismui"
+    ],
+    "correct": 2,
+    "explanation": ""
+  },
+  {
+    "id": 85,
+    "section": "VII skirsnis – Lietuvos Respublikos Vyriausybė",
+    "question": "Ministrai, vadovaudami jiems pavestoms valdymo sritims, atsakingi:",
+    "options": [
+      "Seimui, Respublikos Prezidentui ir tiesiogiai pavaldūs Seimo Pirmininkui",
+      "Seimui, Ministrui Pirmininkui ir tiesiogiai pavaldūs Respublikos Prezidentui",
+      "Respublikos Prezidentui, Konstituciniam Teismui ir tiesiogiai pavaldūs Seimo Pirmininkui",
+      "Seimui, Respublikos Prezidentui ir tiesiogiai pavaldūs Ministrui Pirmininkui"
+    ],
+    "correct": 3,
+    "explanation": ""
+  },
+  {
+    "id": 86,
+    "section": "VII skirsnis – Lietuvos Respublikos Vyriausybė",
+    "question": "Kas atstovauja LR Vyriausybei ir vadovauja jos veiklai (Konstitucijos 97 str.):",
+    "options": [
+      "Respublikos Prezidentas",
+      "Seimo Pirmininkas",
+      "Visi ministrai",
+      "Ministras Pirmininkas"
+    ],
+    "correct": 3,
+    "explanation": ""
+  },
+  {
+    "id": 87,
+    "section": "VII skirsnis – Lietuvos Respublikos Vyriausybė",
+    "question": "Kai Ministras Pirmininkas negali eiti savo pareigų, Respublikos Prezidentas paveda jį pavaduoti:",
+    "options": [
+      "Seimo Pirmininkui Ministro Pirmininko teikimu",
+      "Vienam iš ministrų Ministro Pirmininko teikimu",
+      "Ministro Pirmininko niekas nepavaduoja",
+      "Vienam iš ministrų Seimo Pirmininko teikimu"
+    ],
+    "correct": 1,
+    "explanation": ""
+  },
+  {
+    "id": 88,
+    "section": "VII skirsnis – Lietuvos Respublikos Vyriausybė",
+    "question": "Pagal Konstituciją valstybės biudžetą sudaro ir Seimui pateikia:",
+    "options": [
+      "Seimo Pirmininkas",
+      "Finansų ministerija",
+      "Vyriausybė",
+      "Ministras Pirmininkas"
+    ],
+    "correct": 2,
+    "explanation": ""
+  },
+  {
+    "id": 89,
+    "section": "VIII skirsnis – Konstitucinis Teismas",
+    "question": "Konstitucinį Teismą sudaro:",
+    "options": [
+      "8 teisėjai",
+      "4 teisėjai",
+      "9 teisėjai",
+      "6 teisėjai"
+    ],
+    "correct": 2,
+    "explanation": ""
+  },
+  {
+    "id": 90,
+    "section": "VIII skirsnis – Konstitucinis Teismas",
+    "question": "Konstitucinio Teismo teisėjai skiriami:",
+    "options": [
+      "Ketveriems metams ir tik vienai kadencijai",
+      "Penkeriems metams ir ne daugiau kaip dviem kadencijoms",
+      "Devyneriems metams ir tik dviems kadencijoms",
+      "Devyneriems metams ir tik vienai kadencijai"
+    ],
+    "correct": 3,
+    "explanation": ""
+  },
+  {
+    "id": 91,
+    "section": "VIII skirsnis – Konstitucinis Teismas",
+    "question": "Konstitucinis Teismas yra atnaujinamas:",
+    "options": [
+      "Kas dveji metai vienu trečdaliu",
+      "Kas treji metai vienu trečdaliu",
+      "Kas vieneri metai dviem trečdaliais",
+      "Kas ketveri metai vienu ketvirtadaliu"
+    ],
+    "correct": 1,
+    "explanation": ""
+  },
+  {
+    "id": 92,
+    "section": "VIII skirsnis – Konstitucinis Teismas",
+    "question": "Kas skiria kandidatus į Konstitucinį Teismą teisėjais:",
+    "options": [
+      "Seimas",
+      "Respublikos Prezidentas",
+      "Aukščiausiojo Teismo pirmininkas",
+      "Ministras Pirmininkas"
+    ],
+    "correct": 0,
+    "explanation": ""
+  },
+  {
+    "id": 93,
+    "section": "VIII skirsnis – Konstitucinis Teismas",
+    "question": "Kas skiria Konstitucinio Teismo pirmininką:",
+    "options": [
+      "Respublikos Prezidentas Seimo teikimu",
+      "Vyriausybė Seimo teikimu",
+      "Ministras Pirmininkas Seimo teikimu",
+      "Seimas Respublikos Prezidento teikimu"
+    ],
+    "correct": 3,
+    "explanation": ""
+  },
+  {
+    "id": 94,
+    "section": "VIII skirsnis – Konstitucinis Teismas",
+    "question": "Konstitucinio Teismo teisėjais gali būti skiriami:",
+    "options": [
+      "Nepriekaištingos reputacijos LR piliečiai su aukštuoju išsilavinimu ir ne mažiau kaip 5 metų teisiniu ar moksliniu pedagoginiu darbo stažu",
+      "Nepriekaištingos reputacijos LR piliečiai su aukštuoju išsilavinimu ir ne mažiau kaip 10 metų teisiniu ar moksliniu pedagoginiu darbo stažu",
+      "Nepriekaištingos reputacijos LR piliečiai su aukštesniuoju išsilavinimu ir ne mažiau kaip 15 metų teisiniu darbo stažu",
+      "Nepriekaištingos reputacijos LR piliečiai su aukštesniuoju išsilavinimu ir ne mažiau kaip 10 metų teisiniu darbo stažu"
+    ],
+    "correct": 1,
+    "explanation": ""
+  },
+  {
+    "id": 95,
+    "section": "VIII skirsnis – Konstitucinis Teismas",
+    "question": "Prieš pradėdami eiti savo pareigas, Konstitucinio Teismo teisėjai:",
+    "options": [
+      "Ministrui Pirmininkui prisiekia būti ištikimi Tautai",
+      "Seime prisiekia būti ištikimi LR ir Konstitucijai",
+      "Respublikos Prezidentui prisiekia būti ištikimi Konstitucijai",
+      "Prieš visą Tautą prisiekia būti ištikimi Konstitucijai"
+    ],
+    "correct": 1,
+    "explanation": ""
+  },
+  {
+    "id": 96,
+    "section": "VIII skirsnis – Konstitucinis Teismas",
+    "question": "Konstitucinio Teismo sprendimai klausimais, kuriuos Konstitucija priskiria jo kompetencijai:",
+    "options": [
+      "Yra apskundžiami kitiems teismams",
+      "Gali būti svarstomi Seime",
+      "Gali būti apskundžiami Respublikos Prezidentui",
+      "Yra galutiniai ir neskundžiami"
+    ],
+    "correct": 3,
+    "explanation": ""
+  },
+  {
+    "id": 97,
+    "section": "VIII skirsnis – Konstitucinis Teismas",
+    "question": "Konstitucinio Teismo teisėjo įgaliojimai nutrūksta visais šiais atvejais, išskyrus, kai:",
+    "options": [
+      "Pasibaigia jo įgaliojimų laikas",
+      "Jis atsistatydina",
+      "Jis negali eiti pareigų dėl sveikatos būklės",
+      "Jis trumpam išvyksta į užsienį"
+    ],
+    "correct": 3,
+    "explanation": ""
+  },
+  {
+    "id": 98,
+    "section": "VIII skirsnis – Konstitucinis Teismas",
+    "question": "Jeigu KT pateikia išvadą, kad LR įstatymas ar kitas teisės aktas prieštarauja Konstitucijai, galutinai minėtus klausimus sprendžia:",
+    "options": [
+      "Respublikos Prezidentas",
+      "Seimas",
+      "Vyriausybė",
+      "Pats Konstitucinis Teismas"
+    ],
+    "correct": 1,
+    "explanation": ""
+  },
+  {
+    "id": 99,
+    "section": "IX skirsnis – Teismas",
+    "question": "Teisingumą Lietuvos Respublikoje vykdo:",
+    "options": [
+      "Tik Seimas",
+      "Konstitucinis teismas ir Prezidentas",
+      "Tik teismai",
+      "Tauta"
+    ],
+    "correct": 2,
+    "explanation": ""
+  },
+  {
+    "id": 100,
+    "section": "IX skirsnis – Teismas",
+    "question": "Teismai su ypatingais įgaliojimais taikos metu Lietuvos Respublikoje:",
+    "options": [
+      "Gali būti steigiami tik Prezidento sutikimu",
+      "Gali būti steigiami tik Seimo sutikimu",
+      "Negali būti steigiami",
+      "Gali būti steigiami referendumu"
+    ],
+    "correct": 2,
+    "explanation": ""
+  },
+  {
+    "id": 101,
+    "section": "IX skirsnis – Teismas",
+    "question": "Teisėjais Lietuvoje gali būti:",
+    "options": [
+      "LR ir kitų valstybių piliečiai",
+      "Tik LR piliečiai",
+      "Dažniausiai LR piliečiai",
+      "Turintys patirtį kitų valstybių teismuose LR piliečiai"
+    ],
+    "correct": 1,
+    "explanation": ""
+  },
+  {
+    "id": 102,
+    "section": "IX skirsnis – Teismas",
+    "question": "Teisėjas neturi teisės gauti jokio kito atlyginimo išskyrus:",
+    "options": [
+      "Užmokestį už kūrybinę veiklą ir politinę veiklą",
+      "Verslo įmonėje gaunamą atlyginimą",
+      "Verslo įmonėje gaunamą atlyginimą ir kūrybinę veiklą",
+      "Užmokestį už pedagoginę ir kūrybinę veiklą"
+    ],
+    "correct": 3,
+    "explanation": ""
+  },
+  {
+    "id": 103,
+    "section": "IX skirsnis – Teismas",
+    "question": "Teismo procesas Lietuvos Respublikoje vyksta:",
+    "options": [
+      "Užsieniečiui suprantama kalba",
+      "Valstybine kalba",
+      "Valstybine kalba ir kita asmeniui suprantama kalba",
+      "Anglų kalba"
+    ],
+    "correct": 1,
+    "explanation": ""
+  },
+  {
+    "id": 104,
+    "section": "IX skirsnis – Teismas",
+    "question": "Lietuvos Respublikos Prokuratūra yra:",
+    "options": [
+      "Generalinė prokuratūra",
+      "Viena iš teritorinių prokuratūrų",
+      "Generalinė prokuratūra ir teritorinės prokuratūros",
+      "Nei Generalinė prokuratūra, nei teritorinės prokuratūros"
+    ],
+    "correct": 2,
+    "explanation": ""
+  },
+  {
+    "id": 105,
+    "section": "X skirsnis – Vietos savivalda",
+    "question": "Savivaldos teisė įgyvendinama per:",
+    "options": [
+      "Policijos pareigūnus",
+      "Valstybės kontrolę",
+      "Valstybės auditą",
+      "Savivaldybių tarybas"
+    ],
+    "correct": 3,
+    "explanation": ""
+  },
+  {
+    "id": 106,
+    "section": "X skirsnis – Vietos savivalda",
+    "question": "Savivaldybių tarybų nariai renkami:",
+    "options": [
+      "Dvejiems metams",
+      "Trejiems metams",
+      "Ketveriems metams",
+      "Penkeriems metams"
+    ],
+    "correct": 2,
+    "explanation": ""
+  },
+  {
+    "id": 107,
+    "section": "X skirsnis – Vietos savivalda",
+    "question": "Ką Valstybė daro savivaldybių atžvilgiu:",
+    "options": [
+      "Kontroliuoja savivaldybes",
+      "Nesidomi savivaldybių veikla",
+      "Remia savivaldybes",
+      "Nieko nedaro"
+    ],
+    "correct": 2,
+    "explanation": ""
+  },
+  {
+    "id": 108,
+    "section": "X skirsnis – Vietos savivalda",
+    "question": "Savivaldybės pagal Konstitucijos ir įstatymų apibrėžtą kompetenciją:",
+    "options": [
+      "Veikia priklausomai nuo Respublikos Prezidento",
+      "Veikia laisvai ir savarankiškai",
+      "Veikia priklausomai nuo Vyriausybės",
+      "Veikia priklausomai nuo teismų"
+    ],
+    "correct": 1,
+    "explanation": ""
+  },
+  {
+    "id": 109,
+    "section": "X skirsnis – Vietos savivalda",
+    "question": "Kas sudaro ir tvirtina savivaldybių biudžetą:",
+    "options": [
+      "Seimas",
+      "Pačios savivaldybės",
+      "Prezidentas",
+      "Vyriausybė"
+    ],
+    "correct": 1,
+    "explanation": ""
+  },
+  {
+    "id": 110,
+    "section": "X skirsnis – Vietos savivalda",
+    "question": "Savivaldybių tarybos savo biudžeto sąskaita gali numatyti:",
+    "options": [
+      "Papildomą finansavimą",
+      "Valstybės biudžeto papildymą",
+      "Valstybės mokesčius",
+      "Vietinių rinkliavų lengvatas"
+    ],
+    "correct": 3,
+    "explanation": ""
+  },
+  {
+    "id": 111,
+    "section": "X skirsnis – Vietos savivalda",
+    "question": "Kas organizuoja valdymą aukštesniuosiuose administraciniuose vienetuose:",
+    "options": [
+      "Seimas",
+      "Vyriausybė",
+      "Prezidentas",
+      "Teismas"
+    ],
+    "correct": 1,
+    "explanation": ""
+  },
+  {
+    "id": 112,
+    "section": "XI skirsnis – Finansai ir valstybės biudžetas",
+    "question": "Lietuvos Respublikos centrinis bankas yra:",
+    "options": [
+      "Lietuvos bankas",
+      "SEB bankas",
+      "Lietuvoje nėra centrinio banko",
+      "Bankas Snoras"
+    ],
+    "correct": 0,
+    "explanation": ""
+  },
+  {
+    "id": 113,
+    "section": "XI skirsnis – Finansai ir valstybės biudžetas",
+    "question": "Lietuvos bankui vadovauja:",
+    "options": [
+      "Seimas",
+      "Ministras Pirmininkas",
+      "Banko valdyba",
+      "Savivaldybių tarybos"
+    ],
+    "correct": 2,
+    "explanation": ""
+  },
+  {
+    "id": 114,
+    "section": "XI skirsnis – Finansai ir valstybės biudžetas",
+    "question": "Kas sudaro banko valdybą:",
+    "options": [
+      "Pirmininkas ir nariai",
+      "Pirmininkas, jo pavaduotojai ir nariai",
+      "Pirmininkas ir jo pavaduotojai",
+      "Seimo Pirmininkas ir valdybos nariai"
+    ],
+    "correct": 1,
+    "explanation": ""
+  },
+  {
+    "id": 115,
+    "section": "XI skirsnis – Finansai ir valstybės biudžetas",
+    "question": "Kas sudaro Lietuvos biudžetinę sistemą:",
+    "options": [
+      "Tik valstybės biudžetas",
+      "Savarankiškas valstybės biudžetas ir nesavarankiški savivaldybių biudžetai",
+      "Savarankiškas valstybės biudžetas ir savarankiški savivaldybių biudžetai",
+      "Tik savivaldybių biudžetai"
+    ],
+    "correct": 2,
+    "explanation": ""
+  },
+  {
+    "id": 116,
+    "section": "XI skirsnis – Finansai ir valstybės biudžetas",
+    "question": "Kada Lietuvoje prasideda ir baigiasi biudžetiniai metai:",
+    "options": [
+      "Sausio 1 d. – lapkričio 30 d.",
+      "Sausio 1 d. – gruodžio 31 d.",
+      "Rugsėjo 1 d. – lapkričio 30 d.",
+      "Rugsėjo 1 d. – gruodžio 31 d."
+    ],
+    "correct": 1,
+    "explanation": ""
+  },
+  {
+    "id": 117,
+    "section": "XI skirsnis – Finansai ir valstybės biudžetas",
+    "question": "Kas sudaro valstybės biudžeto projektą:",
+    "options": [
+      "Prezidentas",
+      "Vyriausybė",
+      "Seimas",
+      "Ministras Pirmininkas"
+    ],
+    "correct": 1,
+    "explanation": ""
+  },
+  {
+    "id": 118,
+    "section": "XI skirsnis – Finansai ir valstybės biudžetas",
+    "question": "Kada Vyriausybė turi pateikti Seimui biudžeto projektą:",
+    "options": [
+      "Ne vėliau kaip prieš 75 dienas iki biudžetinių metų pabaigos",
+      "Ne vėliau kaip prieš 65 dienas iki biudžetinių metų pabaigos",
+      "Ne vėliau kaip prieš 75 dienas iki biudžetinių metų vidurio",
+      "Gruodžio 31 dieną"
+    ],
+    "correct": 0,
+    "explanation": ""
+  },
+  {
+    "id": 119,
+    "section": "XI skirsnis – Finansai ir valstybės biudžetas",
+    "question": "Kas svarsto ir tvirtina valstybės biudžeto projektą:",
+    "options": [
+      "Seimas",
+      "Vyriausybė",
+      "Lietuvos bankas",
+      "Prezidentas"
+    ],
+    "correct": 0,
+    "explanation": ""
+  },
+  {
+    "id": 120,
+    "section": "XI skirsnis – Finansai ir valstybės biudžetas",
+    "question": "Kada Seimas turi patvirtinti naują valstybės biudžeto projektą:",
+    "options": [
+      "Iki naujųjų biudžetinių metų pradžios",
+      "Prieš 75 dienas iki naujųjų biudžetinių metų pradžios",
+      "Du kartus per metus",
+      "Gruodžio 1 d."
+    ],
+    "correct": 0,
+    "explanation": ""
+  },
+  {
+    "id": 121,
+    "section": "XII skirsnis – Valstybės kontrolė",
+    "question": "Kas vadovauja valstybės kontrolei:",
+    "options": [
+      "Seimo Pirmininkas",
+      "Ministras Pirmininkas",
+      "Meras",
+      "Valstybės kontrolierius"
+    ],
+    "correct": 3,
+    "explanation": ""
+  },
+  {
+    "id": 122,
+    "section": "XII skirsnis – Valstybės kontrolė",
+    "question": "Keleriems metams yra skiriamas valstybės kontrolierius:",
+    "options": [
+      "4",
+      "5",
+      "3",
+      "9"
+    ],
+    "correct": 1,
+    "explanation": ""
+  },
+  {
+    "id": 123,
+    "section": "XII skirsnis – Valstybės kontrolė",
+    "question": "Kas skiria valstybės kontrolierių:",
+    "options": [
+      "Seimas Vyriausybės teikimu",
+      "Seimas Respublikos Prezidento teikimu",
+      "Vyriausybė",
+      "Respublikos Prezidentas Seimo pritarimu"
+    ],
+    "correct": 1,
+    "explanation": ""
+  },
+  {
+    "id": 124,
+    "section": "XII skirsnis – Valstybės kontrolė",
+    "question": "Ką turi atlikti valstybės kontrolierius prieš eidamas savo pareigas:",
+    "options": [
+      "Parašyti ataskaitą",
+      "Prisiekti",
+      "Susipažinti su Prezidentu",
+      "Peržiūrėti biudžetą"
+    ],
+    "correct": 1,
+    "explanation": ""
+  },
+  {
+    "id": 125,
+    "section": "XII skirsnis – Valstybės kontrolė",
+    "question": "Valstybės kontrolė prižiūri:",
+    "options": [
+      "Ar teisėtai valdomas ir naudojamas valstybės turtas ir kaip vykdomas valstybės biudžetas",
+      "Tik kaip vykdomas valstybės biudžetas",
+      "Tik kaip naudojamas valstybės turtas ir kaip vykdomas valstybės biudžetas",
+      "Ar teisingai sudarytas valstybinio biudžeto projektas"
+    ],
+    "correct": 0,
+    "explanation": ""
+  },
+  {
+    "id": 126,
+    "section": "XIII skirsnis – Užsienio politika ir valstybės gynimas",
+    "question": "Lietuvos Respublika dalyvauja tarptautinėse organizacijose:",
+    "options": [
+      "Jeigu tai leidžia Respublikos Prezidentas",
+      "Jeigu tai leidžia Seimas",
+      "Jeigu tai neprieštarauja valstybės interesams",
+      "Jeigu tai neprieštarauja valstybės interesams ir jos nepriklausomybei"
+    ],
+    "correct": 3,
+    "explanation": ""
+  },
+  {
+    "id": 127,
+    "section": "XIII skirsnis – Užsienio politika ir valstybės gynimas",
+    "question": "Lietuvos Respublikos teritorijoje:",
+    "options": [
+      "Negali būti masinio naikinimo ginklų ir užsienio valstybių karinių bazių",
+      "Negali būti tik masinio naikinimo ginklų",
+      "Gali būti užsienio valstybių karinės bazės",
+      "Gali būti karinės bazės Respublikos Prezidentui leidus"
+    ],
+    "correct": 0,
+    "explanation": ""
+  },
+  {
+    "id": 128,
+    "section": "XIII skirsnis – Užsienio politika ir valstybės gynimas",
+    "question": "Krašto apsaugos organizavimą nustato:",
+    "options": [
+      "Respublikos Prezidento dekretai",
+      "Įstatymai",
+      "Seimo nutarimai",
+      "Konstitucija"
+    ],
+    "correct": 1,
+    "explanation": ""
+  },
+  {
+    "id": 129,
+    "section": "XIII skirsnis – Užsienio politika ir valstybės gynimas",
+    "question": "Lietuvos valstybės gynimas nuo ginkluoto užpuolimo:",
+    "options": [
+      "LR kariuomenės atsakomybė",
+      "Respublikos Prezidento užduotis",
+      "Referendumo klausimas",
+      "Kiekvieno LR piliečio teisė ir pareiga"
+    ],
+    "correct": 3,
+    "explanation": ""
+  },
+  {
+    "id": 130,
+    "section": "XIII skirsnis – Užsienio politika ir valstybės gynimas",
+    "question": "Svarbiausius valstybės gynybos klausimus svarsto ir koordinuoja:",
+    "options": [
+      "Valstybės gynimo tarnyba",
+      "Seimas",
+      "Savivaldybių tarybos",
+      "Respublikos Prezidentas"
+    ],
+    "correct": 0,
+    "explanation": ""
+  },
+  {
+    "id": 131,
+    "section": "XIII skirsnis – Užsienio politika ir valstybės gynimas",
+    "question": "Valstybės gynimo tarnybą sudaro:",
+    "options": [
+      "Ministras Pirmininkas, Seimo Pirmininkas, krašto apsaugos ministras",
+      "Respublikos Prezidentas, Ministras Pirmininkas, Seimo Pirmininkas, krašto apsaugos ministras ir kariuomenės vadas",
+      "Specialiai išrinkti Tautos atstovai",
+      "Ministras Pirmininkas, krašto apsaugos ministras ir kariuomenės vadas"
+    ],
+    "correct": 1,
+    "explanation": ""
+  },
+  {
+    "id": 132,
+    "section": "XIII skirsnis – Užsienio politika ir valstybės gynimas",
+    "question": "Vyriausiasis valstybės ginkluotųjų pajėgų vadas yra:",
+    "options": [
+      "Respublikos Prezidentas",
+      "Seimo Pirmininkas",
+      "Ministras Pirmininkas",
+      "Krašto apsaugos ministras"
+    ],
+    "correct": 0,
+    "explanation": ""
+  },
+  {
+    "id": 133,
+    "section": "1 testas (egzamino pavyzdys)",
+    "question": "Lietuvos valstybę kuria:",
+    "options": [
+      "Asmenys, kurie dalyvauja rinkimuose",
+      "Seimo nariai",
+      "Tauta"
+    ],
+    "correct": 2,
+    "explanation": ""
+  },
+  {
+    "id": 134,
+    "section": "1 testas (egzamino pavyzdys)",
+    "question": "Valstybės herbas yra:",
+    "options": [
+      "Baltas Vytis raudoname lauke",
+      "Baltas Vytis mėlyname lauke",
+      "Baltas Vytis žaliame lauke"
+    ],
+    "correct": 0,
+    "explanation": ""
+  },
+  {
+    "id": 135,
+    "section": "1 testas (egzamino pavyzdys)",
+    "question": "Įstatymo nežinojimas:",
+    "options": [
+      "Atleidžia nuo atsakomybės",
+      "Neatleidžia nuo atsakomybės",
+      "Atleidžia nuo atsakomybės užsieniečius"
+    ],
+    "correct": 1,
+    "explanation": ""
+  },
+  {
+    "id": 136,
+    "section": "1 testas (egzamino pavyzdys)",
+    "question": "Įstatymas, prieštaraujantis Konstitucijai:",
+    "options": [
+      "Galioja",
+      "Galioja, jei jį patvirtina Seimas",
+      "Negalioja"
+    ],
+    "correct": 2,
+    "explanation": ""
+  },
+  {
+    "id": 137,
+    "section": "1 testas (egzamino pavyzdys)",
+    "question": "Rinkimuose pilietis gali dalyvauti:",
+    "options": [
+      "Nuo 16 metų",
+      "Nuo 18 metų",
+      "Nuo 20 metų"
+    ],
+    "correct": 1,
+    "explanation": ""
+  },
+  {
+    "id": 138,
+    "section": "1 testas (egzamino pavyzdys)",
+    "question": "Ar galima drausti Lietuvos piliečiui grįžti į Lietuvą:",
+    "options": [
+      "Galima",
+      "Galima tik Vyriausybės nustatyta tvarka",
+      "Negalima"
+    ],
+    "correct": 2,
+    "explanation": ""
+  },
+  {
+    "id": 139,
+    "section": "1 testas (egzamino pavyzdys)",
+    "question": "Lietuvos Respublikos Vyriausybė:",
+    "options": [
+      "Tvarko krašto reikalus",
+      "Sprendžia pagrindinius užsienio politikos klausimus",
+      "Leidžia įstatymus"
+    ],
+    "correct": 0,
+    "explanation": ""
+  },
+  {
+    "id": 140,
+    "section": "1 testas (egzamino pavyzdys)",
+    "question": "Sutuoktinių teisės šeimoje yra:",
+    "options": [
+      "Lygios",
+      "Vyras turi daugiau teisių už moterį",
+      "Moteris turi daugiau teisių už vyrą"
+    ],
+    "correct": 0,
+    "explanation": ""
+  },
+  {
+    "id": 141,
+    "section": "1 testas (egzamino pavyzdys)",
+    "question": "Lietuvoje mokslas asmeniui privalomas:",
+    "options": [
+      "Iki 16 metų",
+      "Kol baigs vidurinę mokyklą",
+      "Iki 20 metų"
+    ],
+    "correct": 0,
+    "explanation": ""
+  },
+  {
+    "id": 142,
+    "section": "1 testas (egzamino pavyzdys)",
+    "question": "Informacija apie privatų asmens gyvenimą:",
+    "options": [
+      "Negali būti renkama",
+      "Gali būti renkama tik teismo sprendimu",
+      "Gali būti renkama"
+    ],
+    "correct": 1,
+    "explanation": ""
+  },
+  {
+    "id": 143,
+    "section": "1 testas (egzamino pavyzdys)",
+    "question": "Valstybės ginkluotųjų pajėgų vadas yra:",
+    "options": [
+      "Ministras Pirmininkas",
+      "Seimo Pirmininkas",
+      "Respublikos Prezidentas"
+    ],
+    "correct": 2,
+    "explanation": ""
+  },
+  {
+    "id": 144,
+    "section": "1 testas (egzamino pavyzdys)",
+    "question": "Konstitucinio teismo teisėjai, eidami pareigas:",
+    "options": [
+      "Yra nepriklausomi ir vadovaujasi tik Konstitucija",
+      "Yra nepriklausomi ir vadovaujasi tik Konstitucija bei įstatymais",
+      "Vadovaujasi įstatymais ir Seimo nutarimais"
+    ],
+    "correct": 0,
+    "explanation": ""
+  },
+  {
+    "id": 145,
+    "section": "1 testas (egzamino pavyzdys)",
+    "question": "Savivaldybių tarybų nariai renkami:",
+    "options": [
+      "2 metų kadencijai",
+      "5 metų kadencijai",
+      "4 metų kadencijai"
+    ],
+    "correct": 2,
+    "explanation": ""
+  },
+  {
+    "id": 146,
+    "section": "1 testas (egzamino pavyzdys)",
+    "question": "Lietuvoje visuomenės informavimo priemonių cenzūra:",
+    "options": [
+      "Draudžiama",
+      "Leidžiama kultūros ministro nustatyta tvarka",
+      "Leidžiama Vyriausybės nustatyta tvarka"
+    ],
+    "correct": 0,
+    "explanation": ""
+  },
+  {
+    "id": 147,
+    "section": "1 testas (egzamino pavyzdys)",
+    "question": "Teismo procesas Lietuvos Respublikoje vyksta:",
+    "options": [
+      "Valstybine kalba",
+      "Ta kalba, kurią supranta bylos šalys",
+      "Ta kalba, kurios pageidauja bylos šalys"
+    ],
+    "correct": 0,
+    "explanation": ""
+  },
+  {
+    "id": 148,
+    "section": "1 testas (egzamino pavyzdys)",
+    "question": "Lietuvos biudžetinę sistemą sudaro:",
+    "options": [
+      "Valstybės biudžetas",
+      "Savivaldybių biudžetai",
+      "Valstybės biudžetas ir savarankiški savivaldybių biudžetai"
+    ],
+    "correct": 2,
+    "explanation": ""
+  },
+  {
+    "id": 149,
+    "section": "1 testas (egzamino pavyzdys)",
+    "question": "Tas pats asmuo Respublikos Prezidentu gali būti renkamas:",
+    "options": [
+      "Ne daugiau kaip trims kadencijoms iš eilės",
+      "Ne daugiau kaip dviem kadencijoms iš eilės",
+      "Neribotam kadencijų skaičiui"
+    ],
+    "correct": 1,
+    "explanation": ""
+  },
+  {
+    "id": 150,
+    "section": "1 testas (egzamino pavyzdys)",
+    "question": "Alternatyvi krašto apsaugos tarnyba Lietuvoje:",
+    "options": [
+      "Galima",
+      "Privaloma kiekvienam asmeniui",
+      "Nenumatyta"
+    ],
+    "correct": 0,
+    "explanation": ""
+  },
+  {
+    "id": 151,
+    "section": "1 testas (egzamino pavyzdys)",
+    "question": "Mokesčius ir kitas rinkliavas nustato:",
+    "options": [
+      "Vyriausybės nutarimai",
+      "Įstatymai",
+      "Respublikos Prezidento dekretai"
+    ],
+    "correct": 1,
+    "explanation": ""
+  },
+  {
+    "id": 152,
+    "section": "1 testas (egzamino pavyzdys)",
+    "question": "Lietuvos Respublikoje karo propaganda:",
+    "options": [
+      "Leidžiama",
+      "Draudžiama",
+      "Leidžiama, jei Seimas leidžia"
+    ],
+    "correct": 1,
+    "explanation": ""
+  },
+  {
+    "id": 153,
+    "section": "2 testas (egzamino pavyzdys)",
+    "question": "Lietuvos valstybę kuria:",
+    "options": [
+      "Asmenys, kurie dalyvauja rinkimuose",
+      "Seimo nariai",
+      "Tauta"
+    ],
+    "correct": 2,
+    "explanation": ""
+  },
+  {
+    "id": 154,
+    "section": "2 testas (egzamino pavyzdys)",
+    "question": "Valstybės valdžią Lietuvoje vykdo:",
+    "options": [
+      "Seimas, Respublikos Prezidentas ir vyriausybė, teismas",
+      "Respublikos Prezidentas ir vyriausybė, teismas",
+      "Seimas, Respublikos Prezidentas ir vyriausybė"
+    ],
+    "correct": 0,
+    "explanation": ""
+  },
+  {
+    "id": 155,
+    "section": "2 testas (egzamino pavyzdys)",
+    "question": "Valstybės herbas yra:",
+    "options": [
+      "Baltas Vytis raudoname lauke",
+      "Baltas Vytis mėlyname lauke",
+      "Baltas Vytis žaliame lauke"
+    ],
+    "correct": 0,
+    "explanation": ""
+  },
+  {
+    "id": 156,
+    "section": "2 testas (egzamino pavyzdys)",
+    "question": "Referendumu sprendžiami šie klausimai:",
+    "options": [
+      "15 Seimo narių pasiūlyti",
+      "Respublikos Prezidento pasiūlyti",
+      "Svarbiausi Valstybės bei Tautos gyvenimui"
+    ],
+    "correct": 2,
+    "explanation": ""
+  },
+  {
+    "id": 157,
+    "section": "2 testas (egzamino pavyzdys)",
+    "question": "Rinkimuose pilietis gali dalyvauti:",
+    "options": [
+      "Nuo 16 metų",
+      "Nuo 18 metų",
+      "Nuo 20 metų"
+    ],
+    "correct": 1,
+    "explanation": ""
+  },
+  {
+    "id": 158,
+    "section": "2 testas (egzamino pavyzdys)",
+    "question": "Ar galima drausti Lietuvos piliečiui grįžti į Lietuvą:",
+    "options": [
+      "Galima",
+      "Negalima",
+      "Galima tik Vyriausybės nustatyta tvarka"
+    ],
+    "correct": 1,
+    "explanation": ""
+  },
+  {
+    "id": 159,
+    "section": "2 testas (egzamino pavyzdys)",
+    "question": "Į užsienį išvykusį Respublikos Prezidentą laikinai vaduoja:",
+    "options": [
+      "Bet kuris Prezidento įgaliotas Seimo narys",
+      "Ministras Pirmininkas",
+      "Seimo Pirmininkas"
+    ],
+    "correct": 2,
+    "explanation": ""
+  },
+  {
+    "id": 160,
+    "section": "2 testas (egzamino pavyzdys)",
+    "question": "Žmogaus teisės ir laisvės yra:",
+    "options": [
+      "Valstybės suteikiamos",
+      "Prigimtinės",
+      "Gaunamos Vyriausybės nustatyta tvarka"
+    ],
+    "correct": 1,
+    "explanation": ""
+  },
+  {
+    "id": 161,
+    "section": "2 testas (egzamino pavyzdys)",
+    "question": "Valstybės ginkluotųjų pajėgų vadas yra:",
+    "options": [
+      "Respublikos Prezidentas",
+      "Ministras Pirmininkas",
+      "Seimo Pirmininkas"
+    ],
+    "correct": 0,
+    "explanation": ""
+  },
+  {
+    "id": 162,
+    "section": "2 testas (egzamino pavyzdys)",
+    "question": "Dabartinė Konstitucija priimta:",
+    "options": [
+      "1990 m.",
+      "1991 m.",
+      "1992 m."
+    ],
+    "correct": 2,
+    "explanation": ""
+  },
+  {
+    "id": 163,
+    "section": "2 testas (egzamino pavyzdys)",
+    "question": "Nuosavybės teises saugo:",
+    "options": [
+      "Seimas",
+      "Įstatymas",
+      "Teisingumo ministras"
+    ],
+    "correct": 1,
+    "explanation": ""
+  },
+  {
+    "id": 164,
+    "section": "2 testas (egzamino pavyzdys)",
+    "question": "Lietuvoje mokslas asmeniui privalomas:",
+    "options": [
+      "Iki 16 metų",
+      "Kol baigs vidurinę mokyklą",
+      "Iki 20 metų"
+    ],
+    "correct": 0,
+    "explanation": ""
+  },
+  {
+    "id": 165,
+    "section": "2 testas (egzamino pavyzdys)",
+    "question": "Lietuvoje visuomenės informavimo priemones:",
+    "options": [
+      "Leidžiama cenzūruoti kultūros ministro nustatyta tvarka",
+      "Leidžiama cenzūruoti Vyriausybės nustatyta tvarka",
+      "Draudžiama cenzūruoti"
+    ],
+    "correct": 2,
+    "explanation": ""
+  },
+  {
+    "id": 166,
+    "section": "2 testas (egzamino pavyzdys)",
+    "question": "Alternatyvi krašto apsaugos tarnyba Lietuvoje:",
+    "options": [
+      "Galima",
+      "Privaloma kiekvienam asmeniui",
+      "Nenumatyta"
+    ],
+    "correct": 0,
+    "explanation": ""
+  },
+  {
+    "id": 167,
+    "section": "2 testas (egzamino pavyzdys)",
+    "question": "Lietuvos biudžetinę sistemą sudaro:",
+    "options": [
+      "Valstybės biudžetas",
+      "Savivaldybių biudžetai",
+      "Valstybės biudžetas ir savarankiški savivaldybių biudžetai"
+    ],
+    "correct": 2,
+    "explanation": ""
+  },
+  {
+    "id": 168,
+    "section": "2 testas (egzamino pavyzdys)",
+    "question": "Konstitucinio Teismo teisėjai, eidami savo pareigas:",
+    "options": [
+      "Vadovaujasi įstatymais ir Seimo nutarimais",
+      "Yra nepriklausomi ir vadovaujasi tik Konstitucija",
+      "Yra nepriklausomi ir vadovaujasi tik Konstitucija bei įstatymais"
+    ],
+    "correct": 1,
+    "explanation": ""
+  },
+  {
+    "id": 169,
+    "section": "2 testas (egzamino pavyzdys)",
+    "question": "Teismo procesas Lietuvos Respublikoje vyksta:",
+    "options": [
+      "Valstybine kalba",
+      "Ta kalba, kurią supranta bylos šalys",
+      "Ta kalba, kurios pageidauja šalys"
+    ],
+    "correct": 0,
+    "explanation": ""
+  },
+  {
+    "id": 170,
+    "section": "2 testas (egzamino pavyzdys)",
+    "question": "Konstitucija negali būti keičiama:",
+    "options": [
+      "Tik karo padėties metu",
+      "Karo padėties arba nepaprastosios padėties metu",
+      "Tik nepaprastosios padėties metu"
+    ],
+    "correct": 1,
+    "explanation": ""
+  },
+  {
+    "id": 171,
+    "section": "2 testas (egzamino pavyzdys)",
+    "question": "Valstybės kontrolė prižiūri:",
+    "options": [
+      "Ar teisėtai valdomas valstybės turtas",
+      "Ar teisėtai valdomas valstybės ir savivaldybių turtas",
+      "Ar teisėtai valdomas ir naudojamas valstybės turtas ir kaip vykdomas valstybės biudžetas"
+    ],
+    "correct": 2,
+    "explanation": ""
+  },
+  {
+    "id": 172,
+    "section": "2 testas (egzamino pavyzdys)",
+    "question": "Lietuvos Respublika tarptautinėse organizacijose dalyvauja, jeigu:",
+    "options": [
+      "Tai neprieštarauja valstybės interesams ir jos nepriklausomybei",
+      "Tai neprieštarauja tų organizacijų interesams",
+      "Tai neprieštarauja tautos tradicijoms"
+    ],
+    "correct": 0,
+    "explanation": ""
+  },
+  {
+    "id": 173,
+    "section": "3 testas (egzamino pavyzdys)",
+    "question": "Referendumo skelbimo ir vykdymo tvarką nustato:",
+    "options": [
+      "Įstatymas",
+      "Respublikos Prezidentas",
+      "Seimas"
+    ],
+    "correct": 0,
+    "explanation": ""
+  },
+  {
+    "id": 174,
+    "section": "3 testas (egzamino pavyzdys)",
+    "question": "Lietuvos Respublikos pilietybės įgijimo ir netekimo tvarką nustato:",
+    "options": [
+      "Įstatymas",
+      "Respublikos Prezidentas",
+      "Lietuvos Respublikos Vyriausybė"
+    ],
+    "correct": 0,
+    "explanation": ""
+  },
+  {
+    "id": 175,
+    "section": "3 testas (egzamino pavyzdys)",
+    "question": "Lietuvos valstybę kuria:",
+    "options": [
+      "Asmenys, kurie dalyvauja rinkimuose",
+      "Seimo nariai",
+      "Tauta"
+    ],
+    "correct": 2,
+    "explanation": ""
+  },
+  {
+    "id": 176,
+    "section": "3 testas (egzamino pavyzdys)",
+    "question": "Valstybės herbas yra:",
+    "options": [
+      "Baltas Vytis raudoname lauke",
+      "Baltas Vytis mėlyname lauke",
+      "Baltas Vytis žaliame lauke"
+    ],
+    "correct": 0,
+    "explanation": ""
+  },
+  {
+    "id": 177,
+    "section": "3 testas (egzamino pavyzdys)",
+    "question": "Respublikos Prezidentas gali būti renkamas:",
+    "options": [
+      "4 metams ir ne daugiau kaip 2 kartus iš eilės",
+      "5 metams ir ne daugiau kaip 2 kartus iš eilės",
+      "5 metams ir tik vieną kartą"
+    ],
+    "correct": 1,
+    "explanation": ""
+  },
+  {
+    "id": 178,
+    "section": "3 testas (egzamino pavyzdys)",
+    "question": "Į užsienį išvykusį Respublikos Prezidentą laikinai vaduoja:",
+    "options": [
+      "Bet kuris Prezidento įgaliotas Seimo narys",
+      "Ministras Pirmininkas",
+      "Seimo Pirmininkas"
+    ],
+    "correct": 2,
+    "explanation": ""
+  },
+  {
+    "id": 179,
+    "section": "3 testas (egzamino pavyzdys)",
+    "question": "Vyriausybė už savo veiklą yra atsakinga:",
+    "options": [
+      "Ministrui Pirmininkui",
+      "Partijos, kuriai priklauso dauguma ministrų, vadovybei",
+      "Seimui"
+    ],
+    "correct": 2,
+    "explanation": ""
+  },
+  {
+    "id": 180,
+    "section": "3 testas (egzamino pavyzdys)",
+    "question": "Krašto apsaugos organizavimą nustato:",
+    "options": [
+      "Įstatymai",
+      "Valstybės gynimo taryba",
+      "Respublikos Prezidentas"
+    ],
+    "correct": 0,
+    "explanation": ""
+  },
+  {
+    "id": 181,
+    "section": "3 testas (egzamino pavyzdys)",
+    "question": "Nuosavybės teises saugo:",
+    "options": [
+      "Seimas",
+      "Teisingumo ministras",
+      "Įstatymas"
+    ],
+    "correct": 2,
+    "explanation": ""
+  },
+  {
+    "id": 182,
+    "section": "3 testas (egzamino pavyzdys)",
+    "question": "Asmuo, kurio konstitucinės teisės ar laisvės pažeidžiamos, turi teisę:",
+    "options": [
+      "Kreiptis į teismą",
+      "Pats ginti savo teises",
+      "Kreiptis į LR Ministrą Pirmininką"
+    ],
+    "correct": 0,
+    "explanation": ""
+  },
+  {
+    "id": 183,
+    "section": "3 testas (egzamino pavyzdys)",
+    "question": "Lietuvos ūkis grindžiamas:",
+    "options": [
+      "Valstybiniu planavimu",
+      "Privačios nuosavybės teise, asmens ūkinės veiklos laisve ir iniciatyva",
+      "Gamybos ir rinkos monopolizavimu"
+    ],
+    "correct": 1,
+    "explanation": ""
+  },
+  {
+    "id": 184,
+    "section": "3 testas (egzamino pavyzdys)",
+    "question": "Darbuotojai turi teisę streikuoti:",
+    "options": [
+      "Kai darbdavys verčia dirbti viršvalandžius",
+      "Kai nori apginti savo ekonominius ir socialinius interesus",
+      "Kai laiku negauna darbo užmokesčio"
+    ],
+    "correct": 1,
+    "explanation": ""
+  },
+  {
+    "id": 185,
+    "section": "3 testas (egzamino pavyzdys)",
+    "question": "Pagrindinius užsienio politikos klausimus sprendžia:",
+    "options": [
+      "Respublikos Prezidentas",
+      "Seimo Pirmininkas",
+      "Ministras Pirmininkas kartu su užsienio reikalų ministru"
+    ],
+    "correct": 0,
+    "explanation": ""
+  },
+  {
+    "id": 186,
+    "section": "3 testas (egzamino pavyzdys)",
+    "question": "Teismai sprendimus priima:",
+    "options": [
+      "Savo vardu",
+      "Lietuvos Respublikos vardu",
+      "Vyriausybės vardu"
+    ],
+    "correct": 1,
+    "explanation": ""
+  },
+  {
+    "id": 187,
+    "section": "3 testas (egzamino pavyzdys)",
+    "question": "Valstybės biudžetą tvirtina:",
+    "options": [
+      "Seimas",
+      "Ministras Pirmininkas",
+      "Ministras Pirmininkas su finansų ministru"
+    ],
+    "correct": 0,
+    "explanation": ""
+  },
+  {
+    "id": 188,
+    "section": "3 testas (egzamino pavyzdys)",
+    "question": "Valstybės kontrolė prižiūri:",
+    "options": [
+      "Ar teisėtai valdomas valstybės turtas",
+      "Ar teisėtai valdomas valstybės ir savivaldybių turtas",
+      "Ar teisėtai valdomas ir naudojamas valstybės turtas ir kaip vykdomas valstybės biudžetas"
+    ],
+    "correct": 2,
+    "explanation": ""
+  },
+  {
+    "id": 189,
+    "section": "3 testas (egzamino pavyzdys)",
+    "question": "Valstybės gynimo tarybos sudėtis:",
+    "options": [
+      "Respublikos Prezidentas, Ministras Pirmininkas, kariuomenės vadas",
+      "Respublikos Prezidentas, Ministras Pirmininkas, Seimo Pirmininkas, kariuomenės vadas ir krašto apsaugos ministras",
+      "Respublikos Prezidentas, Ministras Pirmininkas, kariuomenės vadas ir apsaugos ministras"
+    ],
+    "correct": 1,
+    "explanation": ""
+  },
+  {
+    "id": 190,
+    "section": "3 testas (egzamino pavyzdys)",
+    "question": "Konstitucinio Teismo teisėjai, eidami pareigas:",
+    "options": [
+      "Yra nepriklausomi ir vadovaujasi tik Konstitucija",
+      "Yra nepriklausomi ir vadovaujasi tik Konstitucija bei įstatymais",
+      "Vadovaujasi įstatymais ir Seimo nutarimais"
+    ],
+    "correct": 0,
+    "explanation": ""
+  },
+  {
+    "id": 191,
+    "section": "3 testas (egzamino pavyzdys)",
+    "question": "Dabartinė Lietuvos Respublikos Konstitucija priimta:",
+    "options": [
+      "1990 m.",
+      "1991 m.",
+      "1992 m."
+    ],
+    "correct": 2,
+    "explanation": ""
+  },
+  {
+    "id": 192,
+    "section": "3 testas (egzamino pavyzdys)",
+    "question": "Valstybinės ir savivaldybių mokyklos yra:",
+    "options": [
+      "Pasaulietinės",
+      "Religinės",
+      "Mišrios"
+    ],
+    "correct": 0,
+    "explanation": ""
+  },
+  {
+    "id": 193,
+    "section": "4 testas (egzamino pavyzdys)",
+    "question": "Konstitucijos 1 straipsnis teigia, kad:",
+    "options": [
+      "Lietuvos valstybė yra nepriklausoma demokratinė respublika",
+      "Lietuvos valstybė yra demokratinė valstybė",
+      "Lietuvos valstybė yra respublika"
+    ],
+    "correct": 0,
+    "explanation": ""
+  },
+  {
+    "id": 194,
+    "section": "4 testas (egzamino pavyzdys)",
+    "question": "Lietuvos pilietybės įgijimo ir netekimo tvarką nustato:",
+    "options": [
+      "Įstatymas",
+      "Respublikos Prezidentas",
+      "Lietuvos Respublikos Vyriausybė"
+    ],
+    "correct": 0,
+    "explanation": ""
+  },
+  {
+    "id": 195,
+    "section": "4 testas (egzamino pavyzdys)",
+    "question": "Lietuvos valstybės teritorija:",
+    "options": [
+      "Dalijama į savarankiškus valstybinius darinius",
+      "Yra vientisa ir nedalijama į jokius valstybinius darinius",
+      "Suskaidyta į pusiau savarankiškus nevalstybinius darinius"
+    ],
+    "correct": 1,
+    "explanation": ""
+  },
+  {
+    "id": 196,
+    "section": "4 testas (egzamino pavyzdys)",
+    "question": "Lietuvos Respublikos Seimą sudaro:",
+    "options": [
+      "101 narys",
+      "141 narys",
+      "151 narys"
+    ],
+    "correct": 1,
+    "explanation": ""
+  },
+  {
+    "id": 197,
+    "section": "4 testas (egzamino pavyzdys)",
+    "question": "Referendumą skelbia:",
+    "options": [
+      "Ministras Pirmininkas",
+      "Respublikos Prezidentas",
+      "Seimas"
+    ],
+    "correct": 2,
+    "explanation": ""
+  },
+  {
+    "id": 198,
+    "section": "4 testas (egzamino pavyzdys)",
+    "question": "Ministrą Pirmininką skiria ir atleidžia:",
+    "options": [
+      "Respublikos Prezidentas teisingumo ministro pritarimu",
+      "Respublikos Prezidentas Seimo pritarimu",
+      "Seimas 2/3 Seimo narių balsų dauguma"
+    ],
+    "correct": 1,
+    "explanation": ""
+  },
+  {
+    "id": 199,
+    "section": "4 testas (egzamino pavyzdys)",
+    "question": "Ministrai yra tiesiogiai pavaldūs:",
+    "options": [
+      "Ministrui Pirmininkui",
+      "Respublikos Prezidentui",
+      "Seimui"
+    ],
+    "correct": 0,
+    "explanation": ""
+  },
+  {
+    "id": 200,
+    "section": "4 testas (egzamino pavyzdys)",
+    "question": "Teisingumą Lietuvoje vykdo tik:",
+    "options": [
+      "Seimas",
+      "Teismai",
+      "Vyriausybė"
+    ],
+    "correct": 1,
+    "explanation": ""
+  },
+  {
+    "id": 201,
+    "section": "4 testas (egzamino pavyzdys)",
+    "question": "Savivaldybių tarybų nariai renkami:",
+    "options": [
+      "2 metų kadencijai",
+      "5 metų kadencijai",
+      "4 metų kadencijai"
+    ],
+    "correct": 2,
+    "explanation": ""
+  },
+  {
+    "id": 202,
+    "section": "4 testas (egzamino pavyzdys)",
+    "question": "Asmuo, kurio konstitucinės teisės ar laisvės pažeidžiamos:",
+    "options": [
+      "Turi teisę kreiptis į teismą",
+      "Turi teisę pats ginti savo teises",
+      "Turi kreiptis į LR Ministrą Pirmininką"
+    ],
+    "correct": 0,
+    "explanation": ""
+  },
+  {
+    "id": 203,
+    "section": "4 testas (egzamino pavyzdys)",
+    "question": "Sutuoktinių teisės šeimoje:",
+    "options": [
+      "Lygios",
+      "Vyras turi daugiau teisių už moterį",
+      "Moteris turi daugiau teisių už vyrą"
+    ],
+    "correct": 0,
+    "explanation": ""
+  },
+  {
+    "id": 204,
+    "section": "4 testas (egzamino pavyzdys)",
+    "question": "Mokesčius ir kitas rinkliavas nustato:",
+    "options": [
+      "Vyriausybė nutarimu",
+      "Įstatymai",
+      "Prezidento dekretai"
+    ],
+    "correct": 1,
+    "explanation": ""
+  },
+  {
+    "id": 205,
+    "section": "4 testas (egzamino pavyzdys)",
+    "question": "Lietuvos ūkis grindžiamas:",
+    "options": [
+      "Valstybiniu planavimu",
+      "Privačios nuosavybės teise, asmens ūkinės veiklos laisve ir iniciatyva",
+      "Gamybos ir rinkos monopolizavimu"
+    ],
+    "correct": 1,
+    "explanation": ""
+  },
+  {
+    "id": 206,
+    "section": "4 testas (egzamino pavyzdys)",
+    "question": "Darbuotojai turi teisę streikuoti:",
+    "options": [
+      "Kai darbdavys verčia dirbti viršvalandžius",
+      "Kai nori apginti savo ekonominius ir socialinius interesus",
+      "Kai laiku negauna darbo užmokesčio"
+    ],
+    "correct": 1,
+    "explanation": ""
+  },
+  {
+    "id": 207,
+    "section": "4 testas (egzamino pavyzdys)",
+    "question": "Išrinktas Seimo narys visas Tautos atstovo teises įgyja tik po to, kai:",
+    "options": [
+      "Naujai išrinktas Seimas susirenka į pirmąjį posėdį",
+      "Prisiekia būti ištikimas Lietuvos Respublikai",
+      "LR Prezidentas išleidžia dekretą"
+    ],
+    "correct": 1,
+    "explanation": ""
+  },
+  {
+    "id": 208,
+    "section": "4 testas (egzamino pavyzdys)",
+    "question": "Seimo narys gali būti skiriamas:",
+    "options": [
+      "Tik Ministru Pirmininku ar ministru",
+      "Savivaldybės tarybos nariu ar meru",
+      "Valstybės arba savivaldybės įmonės valdymo organo nariu"
+    ],
+    "correct": 0,
+    "explanation": ""
+  },
+  {
+    "id": 209,
+    "section": "4 testas (egzamino pavyzdys)",
+    "question": "Lietuvos Valstybės vadovas yra:",
+    "options": [
+      "Seimo Pirmininkas",
+      "Respublikos Prezidentas",
+      "Ministras Pirmininkas"
+    ],
+    "correct": 1,
+    "explanation": ""
+  },
+  {
+    "id": 210,
+    "section": "4 testas (egzamino pavyzdys)",
+    "question": "Konstitucinis Teismas sprendžia:",
+    "options": [
+      "Ar įstatymai ir kiti Seimo aktai neprieštarauja Konstitucijai",
+      "Ar Vyriausybės aktai neprieštarauja įstatymams",
+      "Ar įstatymai ir Seimo aktai neprieštarauja Konstitucijai, Respublikos Prezidento ir Vyriausybės aktai – Konstitucijos įstatymams"
+    ],
+    "correct": 2,
+    "explanation": ""
+  },
+  {
+    "id": 211,
+    "section": "4 testas (egzamino pavyzdys)",
+    "question": "Valstybės biudžetą tvirtina:",
+    "options": [
+      "Seimas",
+      "Ministras Pirmininkas",
+      "Ministras Pirmininkas su finansų ministru"
+    ],
+    "correct": 0,
+    "explanation": ""
+  },
+  {
+    "id": 212,
+    "section": "4 testas (egzamino pavyzdys)",
+    "question": "Lietuvoje visuomenės informavimo priemonių cenzūra:",
+    "options": [
+      "Draudžiama",
+      "Leidžiama įstatymų nustatyta tvarka",
+      "Leidžiama Vyriausybės nustatyta tvarka"
+    ],
+    "correct": 0,
+    "explanation": ""
+  },
+  {
+    "id": 213,
+    "section": "5 testas – LR Konstitucijos egzaminas",
+    "question": "Pagal LR Konstituciją referendumas skelbiamas, jeigu to reikalauja:",
+    "options": [
+      "Ne mažiau kaip 50 000 piliečių, turinčių rinkimų teisę",
+      "Ne mažiau kaip 100 000 piliečių, turinčių rinkimų teisę",
+      "Ne mažiau kaip 300 000 piliečių, turinčių rinkimų teisę",
+      "Ne mažiau kaip 500 000 piliečių, turinčių rinkimų teisę"
+    ],
+    "correct": 2,
+    "explanation": ""
+  },
+  {
+    "id": 214,
+    "section": "5 testas – LR Konstitucijos egzaminas",
+    "question": "Pagal Konstituciją vyriausiasis valstybės ginkluotųjų pajėgų vadas yra:",
+    "options": [
+      "Vidaus reikalų ministras",
+      "Krašto apsaugos ministras",
+      "Respublikos Prezidentas",
+      "Lietuvos šaulių sąjungos vadas"
+    ],
+    "correct": 2,
+    "explanation": ""
+  },
+  {
+    "id": 215,
+    "section": "5 testas – LR Konstitucijos egzaminas",
+    "question": "Pagal Konstituciją valdžios galias riboja:",
+    "options": [
+      "Seimo priimti įstatymai",
+      "Seimo priimti įstatymai ir Konstitucija",
+      "Konstitucija",
+      "Konstitucija ir Europos Sąjungos teisės aktai"
+    ],
+    "correct": 2,
+    "explanation": ""
+  },
+  {
+    "id": 216,
+    "section": "5 testas – LR Konstitucijos egzaminas",
+    "question": "Pagal Konstituciją nepaprastąją padėtį šalyje įveda:",
+    "options": [
+      "Seimas",
+      "Respublikos Prezidentas",
+      "Seimas Respublikos Prezidento siūlymu",
+      "Seimas, atsižvelgdamas į krašto apsaugos ministro teikimą"
+    ],
+    "correct": 0,
+    "explanation": ""
+  },
+  {
+    "id": 217,
+    "section": "5 testas – LR Konstitucijos egzaminas",
+    "question": "Pagal LR Konstituciją visuomenės ir valstybės pagrindas yra:",
+    "options": [
+      "Lietuvos Respublikos piliečiai",
+      "Valstybės valdžios institucijos",
+      "Šeima",
+      "Tauta"
+    ],
+    "correct": 2,
+    "explanation": ""
+  },
+  {
+    "id": 218,
+    "section": "5 testas – LR Konstitucijos egzaminas",
+    "question": "Pagal LR Konstituciją Seimo nariu gali būti renkamas:",
+    "options": [
+      "LR pilietis, ne jaunesnis kaip 25 m., įgijęs aukštąjį teisinį išsilavinimą ir nuolat gyvenantis Lietuvoje",
+      "LR pilietis, nesusijęs priesaika ar pasižadėjimu užsienio valstybei ir rinkimų dieną ne jaunesnis kaip 25 m.",
+      "LR pilietis, ne jaunesnis kaip 25 m., ne mažiau kaip trejus pastaruosius metus gyvenęs Lietuvoje",
+      "LR pilietis pagal kilmę, nesusijęs priesaika ar pasižadėjimu užsienio valstybei ir rinkimų dieną ne jaunesnis kaip 25 m."
+    ],
+    "correct": 1,
+    "explanation": ""
+  },
+  {
+    "id": 219,
+    "section": "5 testas – LR Konstitucijos egzaminas",
+    "question": "Tik referendumu gali būti keičiama:",
+    "options": [
+      "Bet kuris Konstitucijos straipsnis",
+      "I skirsnio Lietuvos valstybė ir XIV skirsnio Konstitucijos keitimas nuostatos",
+      "Konstitucijos preambulė",
+      "I skirsnio Lietuvos valstybė ir II skirsnio Žmogus ir valstybė nuostatos"
+    ],
+    "correct": 1,
+    "explanation": ""
+  },
+  {
+    "id": 220,
+    "section": "5 testas – LR Konstitucijos egzaminas",
+    "question": "Pagal Konstituciją savivaldybių biudžetą sudaro ir tvirtina:",
+    "options": [
+      "Savivaldybės",
+      "Seimas savivaldybių teikimu",
+      "Savivaldybės, gavusios Seimo pritarimą",
+      "Finansų ministras"
+    ],
+    "correct": 0,
+    "explanation": ""
+  },
+  {
+    "id": 221,
+    "section": "5 testas – LR Konstitucijos egzaminas",
+    "question": "LR Konstitucinio Teismo teisėjai skiriami:",
+    "options": [
+      "Devyneriems metams ir tik vienai kadencijai",
+      "Šešeriems metams ir tik vienai kadencijai",
+      "Iki įstatymu nustatyto pensinio amžiaus",
+      "Iki 65 metų amžiaus"
+    ],
+    "correct": 0,
+    "explanation": ""
+  },
+  {
+    "id": 222,
+    "section": "5 testas – LR Konstitucijos egzaminas",
+    "question": "Vadovaujantis LR Konstitucija, LR tarptautines sutartis ratifikuoja:",
+    "options": [
+      "Respublikos Prezidentas",
+      "Seimas",
+      "Užsienio reikalų ministras",
+      "Respublikos Prezidentas užsienio reikalų ministro siūlymu"
+    ],
+    "correct": 0,
+    "explanation": ""
+  },
+  {
+    "id": 223,
+    "section": "5 testas – LR Konstitucijos egzaminas",
+    "question": "Piliečio teisė laisvai kilnotis ir pasirinkti gyvenamąją vietą gali būti varžoma tik įstatymu ir jeigu tai būtina:",
+    "options": [
+      "Žmonių garbei ir orumui apsaugoti",
+      "Valstybės saugumui, žmonių sveikatai apsaugoti, taip pat vykdant teisingumą",
+      "Valstybės saugumui, siekiant užtikrinti teismų sprendimų įvykdymą",
+      "Užtikrinti kiekvieno Lietuvoje gyvenančio asmens teises ir teisėtus interesus"
+    ],
+    "correct": 1,
+    "explanation": ""
+  },
+  {
+    "id": 224,
+    "section": "5 testas – LR Konstitucijos egzaminas",
+    "question": "Pagal Konstituciją mokesčius, kitas įmokas į biudžetus ir rinkliavas nustato:",
+    "options": [
+      "Valstybinė mokesčių inspekcija",
+      "Finansų ministras",
+      "Lietuvos Respublikos Vyriausybės nutarimai",
+      "Lietuvos Respublikos įstatymai"
+    ],
+    "correct": 3,
+    "explanation": ""
+  },
+  {
+    "id": 225,
+    "section": "5 testas – LR Konstitucijos egzaminas",
+    "question": "Pagal Konstituciją Lietuvos valstybės gynimas nuo užsienio ginkluoto užpuolimo yra:",
+    "options": [
+      "Šalies ginkluotųjų pajėgų pareiga",
+      "Kiekvieno LR piliečio pareiga",
+      "Kiekvieno LR piliečio teisė ir pareiga",
+      "Kiekvieno LR piliečio ir nuolatinio gyventojo teisė ir pareiga"
+    ],
+    "correct": 2,
+    "explanation": ""
+  },
+  {
+    "id": 226,
+    "section": "5 testas – LR Konstitucijos egzaminas",
+    "question": "LR Konstitucija nustato, jog įgyvendindamas savo teises ir naudodamasis savo laisvėmis, žmogus privalo:",
+    "options": [
+      "Laikytis LR Konstitucijos ir įstatymų, nevaržyti kitų žmonių teisių ir laisvių",
+      "Laikytis LR Konstitucijos",
+      "Laikytis LR įstatymų",
+      "Laikytis moralės principų"
+    ],
+    "correct": 0,
+    "explanation": ""
+  },
+  {
+    "id": 227,
+    "section": "5 testas – LR Konstitucijos egzaminas",
+    "question": "Konstitucijoje įtvirtinta, jog santuoką, gimimą ir mirtį registruoja:",
+    "options": [
+      "Bažnyčia",
+      "Civilinės metrikacijos įstaiga",
+      "Bažnyčia ir civilinės metrikacijos įstaiga",
+      "Valstybė"
+    ],
+    "correct": 3,
+    "explanation": ""
+  },
+  {
+    "id": 228,
+    "section": "5 testas – LR Konstitucijos egzaminas",
+    "question": "Konstitucijoje įtvirtinta, jog LR Vyriausybė atsako Seimui už bendrą Vyriausybės veiklą:",
+    "options": [
+      "Subsidiariai",
+      "Solidariai",
+      "Inidvidualiai",
+      "Moraliai"
+    ],
+    "correct": 1,
+    "explanation": ""
+  },
+  {
+    "id": 229,
+    "section": "5 testas – LR Konstitucijos egzaminas",
+    "question": "Konstitucijoje įtvirtinta, jog ikiteisminį tyrimą organizuoja ir valstybinį kaltinimą baudžiamosiose bylose palaiko:",
+    "options": [
+      "Teisėjas",
+      "Ikiteisminio tyrimo teisėjas",
+      "Valstybės kontrolierius",
+      "Prokuroras"
+    ],
+    "correct": 3,
+    "explanation": ""
+  },
+  {
+    "id": 230,
+    "section": "5 testas – LR Konstitucijos egzaminas",
+    "question": "Konstitucijoje įtvirtinta, jog ministrą laikinai gali pavaduoti:",
+    "options": [
+      "Ministro Pirmininko paskirtas kitas Vyriausybės narys",
+      "Respublikos Prezidento paskirtas kitas Vyriausybės narys",
+      "Ministro paskirtas kitas Vyriausybės narys",
+      "Viceministras"
+    ],
+    "correct": 0,
+    "explanation": ""
+  },
+  {
+    "id": 231,
+    "section": "5 testas – LR Konstitucijos egzaminas",
+    "question": "Pagal Konstituciją Ministrą Pirmininką skiria ir atleidžia:",
+    "options": [
+      "Respublikos Prezidentas Seimo pritarimu",
+      "Respublikos Prezidentas Seimo teikimu",
+      "Respublikos Prezidentas",
+      "Seimas"
+    ],
+    "correct": 0,
+    "explanation": ""
+  },
+  {
+    "id": 232,
+    "section": "5 testas – LR Konstitucijos egzaminas",
+    "question": "Pagal Konstituciją valstybės kontrolė:",
+    "options": [
+      "Kontroliuoja valstybės ir savivaldybių institucijas",
+      "Prižiūri, ar teisėtai valdomas ir naudojamas valstybės turtas",
+      "Tiria skundus dėl valstybės pareigūnų piktnaudžiavimo ir biurokratizmo",
+      "Tiria skundus dėl valstybės valdžios institucijų neteisėtų veiksmų"
+    ],
+    "correct": 1,
+    "explanation": ""
+  },
+  {
+    "id": 233,
+    "section": "5 testas – LR Konstitucijos egzaminas",
+    "question": "Pagal Konstituciją piliečiai turi teisę dalyvauti valdant savo šalį:",
+    "options": [
+      "Tiek tiesiogiai, tiek per demokratiškai išrinktus atstovus",
+      "Tiek tiesiogiai, tiek per demokratiškai išrinktus atstovus, jei tai neprieštarauja Konstitucijai ir įstatymams",
+      "Per demokratiškai išrinktus atstovus ir įgyvendinami peticijos teisę",
+      "Atsižvelgdami į Konstitucijoje ir įstatymuose nustatytus reikalavimus"
+    ],
+    "correct": 0,
+    "explanation": ""
+  },
+  {
+    "id": 234,
+    "section": "5 testas – LR Konstitucijos egzaminas",
+    "question": "Pagal Konstituciją piliečiams laiduojama teisė laisvai vienytis į bendrijas, politines partijas ar asociacijas:",
+    "options": [
+      "Jei šių tikslai ir veikla nėra priešingi Konstitucijai ir įstatymams",
+      "Jei jie nesusiję priesaika ar pasižadėjimu su užsienio valstybe",
+      "Jei jie turi nuolatinę gyvenamąją vietą Lietuvoje",
+      "Jei jų steigimą ir veiklą reglamentuoja įstatymas"
+    ],
+    "correct": 0,
+    "explanation": ""
+  },
+  {
+    "id": 235,
+    "section": "5 testas – LR Konstitucijos egzaminas",
+    "question": "LR konstitucinis aktas Dėl LR narystės Europos Sąjungoje:",
+    "options": [
+      "Yra LR Konstitucijos sudedamoji dalis",
+      "Yra LR Konstitucijos preambulės sudedamoji dalis",
+      "Yra LR Konstitucijos lydimasis aktas",
+      "Yra LR Konstitucijos priedas"
+    ],
+    "correct": 0,
+    "explanation": ""
+  },
+  {
+    "id": 236,
+    "section": "5 testas – LR Konstitucijos egzaminas",
+    "question": "Pagal Konstituciją teismas priima sprendimus:",
+    "options": [
+      "Teisėjo, kuris nagrinėja bylą, vardu",
+      "Teismo, kuriame dirba, vardu",
+      "Teismo pirmininko vardu",
+      "Lietuvos Respublikos vardu"
+    ],
+    "correct": 3,
+    "explanation": ""
+  },
+  {
+    "id": 237,
+    "section": "5 testas – LR Konstitucijos egzaminas",
+    "question": "Konstitucijoje įtvirtinta, jog valstybės herbas:",
+    "options": [
+      "Baltas Vytis raudoname lauke",
+      "Raudonas Vytis baltame lauke",
+      "Baltas Vytis ant žirgo raudoname lauke",
+      "Raudonas Vytis ant žirgo baltame lauke"
+    ],
+    "correct": 0,
+    "explanation": ""
+  },
+  {
+    "id": 238,
+    "section": "5 testas – LR Konstitucijos egzaminas",
+    "question": "Pagal Konstituciją Seimo struktūrą ir darbo tvarką nustato:",
+    "options": [
+      "Seimo statutas, kuris turi konstitucinio įstatymo galią",
+      "Seimo statutas, kuris turi įstatymo galią",
+      "Seimo rinkimų įstatymo III skyrius",
+      "Seimo įstatymas, kuris turi konstitucinio akto galią"
+    ],
+    "correct": 1,
+    "explanation": ""
+  },
+  {
+    "id": 239,
+    "section": "5 testas – LR Konstitucijos egzaminas",
+    "question": "Konstitucijoje įtvirtinta, jog savivaldybių tarybos dėl jų teisių pažeidimo turi teisę kreiptis į:",
+    "options": [
+      "Vyriausybės atstovą",
+      "Teismą",
+      "Vyriausybę",
+      "Seimo Savivaldybių reikalų komitetą"
+    ],
+    "correct": 1,
+    "explanation": ""
+  },
+  {
+    "id": 240,
+    "section": "5 testas – LR Konstitucijos egzaminas",
+    "question": "Pagal Konstituciją Respublikos Prezidentas:",
+    "options": [
+      "Leidžia dekretus",
+      "Sprendžia pagrindinius užsienio politikos klausimus ir kartu su Vyriausybe vykdo užsienio politiką",
+      "Seimo pritarimu atleidžia Ministrą Pirmininką",
+      "Suteikia aukščiausius karinius laipsnius"
+    ],
+    "correct": 0,
+    "explanation": ""
+  },
+  {
+    "id": 241,
+    "section": "5 testas – LR Konstitucijos egzaminas",
+    "question": "Pagal Konstituciją Seimas:",
+    "options": [
+      "Kasmet renkasi į dvi eilines – pavasario ir rudens – sesijas",
+      "Kasmet renkasi į dvi eilines – rudens ir žiemos – sesijas",
+      "Kasmet renkasi į dvi sesijas, kurių trukmę reglamentuoja Seimo statutas",
+      "Kasmet renkasi į vieną sesiją, kurios terminus nustato Seimo Pirmininkas"
+    ],
+    "correct": 0,
+    "explanation": ""
+  },
+  {
+    "id": 242,
+    "section": "5 testas – LR Konstitucijos egzaminas",
+    "question": "Pagal Konstituciją LR Vyriausybė valstybės reikalus sprendžia:",
+    "options": [
+      "Posėdžiuose visų Vyriausybės narių balsų dauguma priimdama potvarkius",
+      "Posėdžiuose dalyvaujančių Vyriausybės narių balsų dauguma priimdama nutarimus",
+      "Posėdžiuose dalyvaujančių Vyriausybės narių balsų dauguma priimdama potvarkius",
+      "Posėdžiuose visų Vyriausybės narių balsų dauguma priimdama nutarimus"
+    ],
+    "correct": 3,
+    "explanation": ""
+  }
+]
