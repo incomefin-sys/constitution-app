@@ -4678,5 +4678,1865 @@
       "На заседаниях большинством голосов участвующих в них членов Правительства, принимая приказы",
       "На заседаниях большинством голосов всех членов Правительства, принимая постановления"
     ]
+  },
+  {
+    "id": 243,
+    "section": "Preambulė",
+    "question": "Kada buvo priimta dabartinė Lietuvos Respublikos Konstitucija?",
+    "question_ru": "Когда была принята действующая Конституция Литовской Республики?",
+    "options": [
+      "1990 m. kovo 11 d.",
+      "1918 m. vasario 16 d.",
+      "1992 m. spalio 25 d.",
+      "1993 m. birželio 1 d."
+    ],
+    "options_ru": [
+      "11 марта 1990 г.",
+      "16 февраля 1918 г.",
+      "25 октября 1992 г.",
+      "1 июня 1993 г."
+    ],
+    "correct": 2,
+    "explanation": ""
+  },
+  {
+    "id": 244,
+    "section": "Preambulė",
+    "question": "Ką išsaugojo lietuvių tauta, kurią mini Konstitucijos preambulė?",
+    "question_ru": "Что сохранил литовский народ, о котором говорится в преамбуле Конституции?",
+    "options": [
+      "Savo teritoriją, nepriklausomybę ir teises",
+      "Savo dvasią, gimtąją kalbą, raštą ir papročius",
+      "Savo kariuomenę, valdžią ir tradicijas",
+      "Savo religiją, kultūrą ir įstatymus"
+    ],
+    "options_ru": [
+      "Свою территорию, независимость и права",
+      "Свой дух, родной язык, письменность и обычаи",
+      "Свою армию, власть и традиции",
+      "Свою религию, культуру и законы"
+    ],
+    "correct": 1,
+    "explanation": ""
+  },
+  {
+    "id": 245,
+    "section": "Preambulė",
+    "question": "Kokiu būdu buvo priimta Lietuvos Respublikos Konstitucija?",
+    "question_ru": "Каким способом была принята Конституция Литовской Республики?",
+    "options": [
+      "Seimo balsavimu",
+      "Ministro Pirmininko dekretu",
+      "Lietuvos Respublikos piliečių referendumu",
+      "Respublikos Prezidento aktu"
+    ],
+    "options_ru": [
+      "Голосованием Сейма",
+      "Декретом Премьер-министра",
+      "На референдуме граждан Литовской Республики",
+      "Актом Президента Республики"
+    ],
+    "correct": 2,
+    "explanation": ""
+  },
+  {
+    "id": 246,
+    "section": "Preambulė",
+    "question": "Prateskite sakini: ikubnydama prigimtine zmagaus ir Tautos teise laisvai gyventi ir kurti savo tevu ir proteviu zemeje -...",
+    "question_ru": "Продолжите предложение: «воплощая естественное право человека и народа свободно жить и творить на земле своих отцов и предков —...»",
+    "options": [
+      "Lietuvos žemėje",
+      "Lietuvos valstybėje",
+      "Nepriklausomoje Lietuvos valstybėje",
+      "Demokratinėje Lietuvos valstybėje"
+    ],
+    "options_ru": [
+      "на земле Литвы",
+      "в Литовском государстве",
+      "в независимом Литовском государстве",
+      "в демократическом Литовском государстве"
+    ],
+    "correct": 2,
+    "explanation": ""
+  },
+  {
+    "id": 247,
+    "section": "I skirsnis – Lietuvos valstybė",
+    "question": "Kokia yra valdymo forma Lietuvos Respublikoje?",
+    "question_ru": "Какова форма правления в Литовской Республике?",
+    "options": [
+      "Federacinė demokratinė respublika",
+      "Konstitucinė monarchija",
+      "Parlamentinė respublika",
+      "Nepriklausoma demokratinė respublika"
+    ],
+    "options_ru": [
+      "Федеративная демократическая республика",
+      "Конституционная монархия",
+      "Парламентская республика",
+      "Независимая демократическая республика"
+    ],
+    "correct": 3,
+    "explanation": ""
+  },
+  {
+    "id": 248,
+    "section": "I skirsnis – Lietuvos valstybė",
+    "question": "Kas vykdo valstybės valdžią Lietuvos Respublikoje?",
+    "question_ru": "Кто осуществляет государственную власть в Литовской Республике?",
+    "options": [
+      "Tauta, Prezidentas ir Vyriausybė",
+      "Seimas, Respublikos Prezidentas ir Vyriausybė, teismas",
+      "Seimas, Vyriausybė ir savivaldybės",
+      "Prezidentas, Vyriausybė ir teismai"
+    ],
+    "options_ru": [
+      "Нация, Президент и Правительство",
+      "Сейм, Президент Республики и Правительство, суды",
+      "Сейм, Правительство и самоуправления",
+      "Президент, Правительство и суды"
+    ],
+    "correct": 1,
+    "explanation": ""
+  },
+  {
+    "id": 249,
+    "section": "I skirsnis – Lietuvos valstybė",
+    "question": "Kuris įstatymas laikomas galiojančiu pagal LR Konstituciją?",
+    "question_ru": "Какой закон считается действительным согласно Конституции ЛР?",
+    "options": [
+      "Kurį pasirašo Respublikos Prezidentas",
+      "Kurį priima Seimas balsų dauguma",
+      "Paskelbtas ir neprieštaraujantis Konstitucijai",
+      "Kurį ratifikuoja Konstitucinis Teismas"
+    ],
+    "options_ru": [
+      "Который подписал Президент Республики",
+      "Который принят Сеймом большинством голосов",
+      "Обнародованный и не противоречащий Конституции",
+      "Который ратифицирован Конституционным судом"
+    ],
+    "correct": 2,
+    "explanation": ""
+  },
+  {
+    "id": 250,
+    "section": "I skirsnis – Lietuvos valstybė",
+    "question": "Kokiu būdu sprendžiami svarbiausi valstybės bei tautos gyvenimo klausimai?",
+    "question_ru": "Каким способом решаются важнейшие вопросы жизни государства и народа?",
+    "options": [
+      "Seimo nutarimais",
+      "Referendumu",
+      "Respublikos Prezidento dekretais",
+      "Vyriausybės posėdžiuose"
+    ],
+    "options_ru": [
+      "Постановлениями Сейма",
+      "Путём референдума",
+      "Декретами Президента Республики",
+      "На заседаниях Правительства"
+    ],
+    "correct": 1,
+    "explanation": ""
+  },
+  {
+    "id": 251,
+    "section": "I skirsnis – Lietuvos valstybė",
+    "question": "Kokiais atvejais skelbiamas referendumas?",
+    "question_ru": "В каких случаях объявляется референдум?",
+    "options": [
+      "Tik Seimo nutarimu",
+      "Tik Respublikos Prezidento siūlymu",
+      "Įstatymo nustatytais atvejais Seimo arba ne mažiau kaip 300 000 piliečių reikalavimu",
+      "Tik Vyriausybės iniciatyva"
+    ],
+    "options_ru": [
+      "Только по постановлению Сейма",
+      "Только по предложению Президента Республики",
+      "В установленных законом случаях по решению Сейма или по требованию не менее 300 000 граждан",
+      "Только по инициативе Правительства"
+    ],
+    "correct": 2,
+    "explanation": ""
+  },
+  {
+    "id": 252,
+    "section": "I skirsnis – Lietuvos valstybė",
+    "question": "Ar Lietuvos Respublikos teritorijoje gali būti įkurti kokie nors valstybiniai dariniai?",
+    "question_ru": "Могут ли на территории Литовской Республики быть созданы какие-либо государственные образования?",
+    "options": [
+      "Taip, autonominiai regionai",
+      "Taip, jei Seimas leidžia",
+      "Ne, valstybės teritorija yra vientisa ir nedalijama",
+      "Taip, istoriniai etniniai regionai"
+    ],
+    "options_ru": [
+      "Да, автономные регионы",
+      "Да, если разрешит Сейм",
+      "Нет, территория государства является единой и неделимой",
+      "Да, исторические этнические регионы"
+    ],
+    "correct": 2,
+    "explanation": ""
+  },
+  {
+    "id": 253,
+    "section": "I skirsnis – Lietuvos valstybė",
+    "question": "Kokiu būdu gali būti keičiamos Lietuvos valstybės sienos?",
+    "question_ru": "Каким способом могут быть изменены государственные границы Литвы?",
+    "options": [
+      "Referendumu, jei pritaria daugiau kaip pusė piliečių",
+      "Tarptautine sutartimi, kurią ratifikuoja 4/5 visų Seimo narių",
+      "Seimo nutarimu 3/5 narių balsų dauguma",
+      "Respublikos Prezidento dekretu su Seimo pritarimu"
+    ],
+    "options_ru": [
+      "Референдумом, если за проголосует более половины граждан",
+      "Международным договором, ратифицированным 4/5 всех членов Сейма",
+      "Постановлением Сейма большинством в 3/5 голосов",
+      "Декретом Президента с одобрения Сейма"
+    ],
+    "correct": 1,
+    "explanation": ""
+  },
+  {
+    "id": 254,
+    "section": "I skirsnis – Lietuvos valstybė",
+    "question": "Ar leidžiama būti kartu Lietuvos Respublikos ir kitos valstybės piliečiu?",
+    "question_ru": "Допускается ли одновременное гражданство Литовской Республики и другого государства?",
+    "options": [
+      "Taip, visada leidžiama",
+      "Taip, jei kita valstybė yra ES narė",
+      "Išskyrus įstatymo numatytus atvejus, draudžiama",
+      "Taip, jei Seimas leidžia"
+    ],
+    "options_ru": [
+      "Да, всегда разрешено",
+      "Да, если другое государство является членом ЕС",
+      "За исключением случаев, предусмотренных законом, запрещено",
+      "Да, если разрешит Сейм"
+    ],
+    "correct": 2,
+    "explanation": ""
+  },
+  {
+    "id": 255,
+    "section": "I skirsnis – Lietuvos valstybė",
+    "question": "Kuri yra Lietuvos Respublikos valstybinė kalba?",
+    "question_ru": "Какой язык является государственным языком Литовской Республики?",
+    "options": [
+      "Lenkų ir lietuvių kalbos",
+      "Rusų kalba",
+      "Konstitucijoje valstybinė kalba nenustatyta",
+      "Lietuvių kalba"
+    ],
+    "options_ru": [
+      "Польский и литовский языки",
+      "Русский язык",
+      "В Конституции государственный язык не установлен",
+      "Литовский язык"
+    ],
+    "correct": 3,
+    "explanation": ""
+  },
+  {
+    "id": 256,
+    "section": "I skirsnis – Lietuvos valstybė",
+    "question": "Išvardykite Lietuvos valstybės vėliavos spalvas.",
+    "question_ru": "Назовите цвета флага Литовского государства.",
+    "options": [
+      "Mėlyna, balta, raudona",
+      "Geltona, žalia, raudona",
+      "Žalia, balta, raudona",
+      "Raudona, balta, žalia"
+    ],
+    "options_ru": [
+      "Синий, белый, красный",
+      "Жёлтый, зелёный, красный",
+      "Зелёный, белый, красный",
+      "Красный, белый, зелёный"
+    ],
+    "correct": 1,
+    "explanation": ""
+  },
+  {
+    "id": 257,
+    "section": "II skirsnis – Žmogus ir valstybė",
+    "question": "Ar gali būti liečiami žmogaus laisvė ir asmens neliečiamybė?",
+    "question_ru": "Могут ли быть ограничены свобода человека и неприкосновенность личности?",
+    "options": [
+      "Taip, bet kuriuo metu valdžios sprendimu",
+      "Taip, Vyriausybės nutarimu",
+      "Ne, žmogaus laisvė neliečiama, jo būstas taip pat neliečiamas",
+      "Taip, Seimo nutarimu"
+    ],
+    "options_ru": [
+      "Да, в любое время по решению власти",
+      "Да, постановлением Правительства",
+      "Нет, свобода человека неприкосновенна, его жилище также неприкосновенно",
+      "Да, постановлением Сейма"
+    ],
+    "correct": 2,
+    "explanation": ""
+  },
+  {
+    "id": 258,
+    "section": "II skirsnis – Žmogus ir valstybė",
+    "question": "Per kiek laiko nusikaltimo vietoje sulaikytas asmuo turi būti pristatytas į teismą?",
+    "question_ru": "В течение какого времени задержанное на месте преступления лицо должно быть доставлено в суд?",
+    "options": [
+      "Per 24 valandas",
+      "Per 48 valandas",
+      "Per 72 valandas",
+      "Per 5 darbo dienas"
+    ],
+    "options_ru": [
+      "В течение 24 часов",
+      "В течение 48 часов",
+      "В течение 72 часов",
+      "В течение 5 рабочих дней"
+    ],
+    "correct": 1,
+    "explanation": ""
+  },
+  {
+    "id": 259,
+    "section": "II skirsnis – Žmogus ir valstybė",
+    "question": "Kokiu pagrindu gali būti atimta žmogaus laisvė?",
+    "question_ru": "На каком основании может быть лишён свободы человек?",
+    "options": [
+      "Policijos pareigūno sprendimu",
+      "Tik prokuratūros reikalavimu",
+      "Tik įstatymo nustatytais pagrindais",
+      "Prezidento dekretu"
+    ],
+    "options_ru": [
+      "По решению сотрудника полиции",
+      "Только по требованию прокуратуры",
+      "Только на основаниях, установленных законом",
+      "По декрету Президента"
+    ],
+    "correct": 2,
+    "explanation": ""
+  },
+  {
+    "id": 260,
+    "section": "II skirsnis – Žmogus ir valstybė",
+    "question": "Kada gali būti atliekami moksliniai ar medicinos bandymai su žmogumi?",
+    "question_ru": "Когда могут проводиться научные или медицинские опыты над человеком?",
+    "options": [
+      "Gavus gydytojo leidimą",
+      "Tik nepilnamečiams draudžiama",
+      "Tik žmogaus žinia ir laisvu jo sutikimu",
+      "Gavus teismo leidimą"
+    ],
+    "options_ru": [
+      "С разрешения врача",
+      "Запрещено только в отношении несовершеннолетних",
+      "Только с ведома человека и его добровольного согласия",
+      "С разрешения суда"
+    ],
+    "correct": 2,
+    "explanation": ""
+  },
+  {
+    "id": 261,
+    "section": "II skirsnis – Žmogus ir valstybė",
+    "question": "Kokiais atvejais gali būti renkama informacija apie privatų asmens gyvenimą?",
+    "question_ru": "В каких случаях может собираться информация о частной жизни лица?",
+    "options": [
+      "Bet kada, jei to reikia policijai",
+      "Tik asmens prašymu",
+      "Tik teismo sprendimu, motyvuotu įstatymo nustatyta tvarka",
+      "Prokuroro leidimu"
+    ],
+    "options_ru": [
+      "В любое время, если это необходимо полиции",
+      "Только по просьбе самого лица",
+      "Только по мотивированному судебному решению в установленном законом порядке",
+      "С разрешения прокурора"
+    ],
+    "correct": 2,
+    "explanation": ""
+  },
+  {
+    "id": 262,
+    "section": "II skirsnis – Žmogus ir valstybė",
+    "question": "Kada gali būti paimama nuosavybė iš savininko?",
+    "question_ru": "Когда может быть изъята собственность у владельца?",
+    "options": [
+      "Vyriausybės sprendimu bet kuriuo metu",
+      "Tik karo metu",
+      "Tik įstatymo nustatyta tvarka visuomenės poreikiams, teisingai atlyginant",
+      "Tik teismo sprendimu dėl skolų"
+    ],
+    "options_ru": [
+      "По решению Правительства в любое время",
+      "Только в военное время",
+      "Только в установленном законом порядке для общественных нужд с надлежащей компенсацией",
+      "Только по судебному решению за долги"
+    ],
+    "correct": 2,
+    "explanation": ""
+  },
+  {
+    "id": 263,
+    "section": "II skirsnis – Žmogus ir valstybė",
+    "question": "Ar turi Lietuvos piliečiai teisę gauti valstybės įstaigų turimą informaciją apie save?",
+    "question_ru": "Имеют ли граждане Литвы право получить имеющуюся о них информацию в государственных учреждениях?",
+    "options": [
+      "Ne, tokios teisės nėra",
+      "Taip, tik teismui leidus",
+      "Taip, įstatymo nustatyta tvarka",
+      "Tik pensinio amžiaus sulaukę piliečiai"
+    ],
+    "options_ru": [
+      "Нет, такого права нет",
+      "Да, только с разрешения суда",
+      "Да, в установленном законом порядке",
+      "Только граждане, достигшие пенсионного возраста"
+    ],
+    "correct": 2,
+    "explanation": ""
+  },
+  {
+    "id": 264,
+    "section": "II skirsnis – Žmogus ir valstybė",
+    "question": "Kokios vertybės pagal LR Konstituciją yra nevaržomos?",
+    "question_ru": "Какие ценности по Конституции ЛР являются неограничиваемыми?",
+    "options": [
+      "Teisė į nuosavybę ir susirinkimų laisvė",
+      "Žodžio laisvė ir teisė į darbą",
+      "Minties, tikėjimo ir sąžinės laisvė",
+      "Spaudos laisvė ir teisė į mokslą"
+    ],
+    "options_ru": [
+      "Право на собственность и свобода собраний",
+      "Свобода слова и право на труд",
+      "Свобода мысли, вероисповедания и совести",
+      "Свобода прессы и право на образование"
+    ],
+    "correct": 2,
+    "explanation": ""
+  },
+  {
+    "id": 265,
+    "section": "II skirsnis – Žmogus ir valstybė",
+    "question": "Kada asmuo gali būti laikomas kaltu pagal LR Konstituciją?",
+    "question_ru": "Когда лицо может считаться виновным согласно Конституции ЛР?",
+    "options": [
+      "Kai jį sulaikė policija",
+      "Kai prokuroras pareiškė kaltinimą",
+      "Kai jo kaltumas įrodytas įstatymo nustatyta tvarka ir nustatytas teismo",
+      "Kai jis prisipažino padaręs nusikaltimą"
+    ],
+    "options_ru": [
+      "Когда его задержала полиция",
+      "Когда прокурор предъявил обвинение",
+      "Когда его вина доказана в установленном законом порядке и установлена судом",
+      "Когда он признал совершение преступления"
+    ],
+    "correct": 2,
+    "explanation": ""
+  },
+  {
+    "id": 266,
+    "section": "II skirsnis – Žmogus ir valstybė",
+    "question": "Kada gali būti varžoma piliečio teisė laisvai kilnotis ir pasirinkti gyvenamąją vietą?",
+    "question_ru": "Когда может быть ограничено право гражданина свободно передвигаться и выбирать место жительства?",
+    "options": [
+      "Vyriausybės nutarimu",
+      "Tik karo metu",
+      "Įstatymu, kai būtina valstybės saugumui, žmonių sveikatai arba vykdant teisingumą",
+      "Prezidento dekretu"
+    ],
+    "options_ru": [
+      "Постановлением Правительства",
+      "Только в военное время",
+      "Законом, когда это необходимо в интересах безопасности государства, охраны здоровья или при отправлении правосудия",
+      "Декретом Президента"
+    ],
+    "correct": 2,
+    "explanation": ""
+  },
+  {
+    "id": 267,
+    "section": "II skirsnis – Žmogus ir valstybė",
+    "question": "Kas Lietuvoje turi rinkimų teisę?",
+    "question_ru": "Кто в Литве имеет избирательное право?",
+    "options": [
+      "Visi Lietuvos gyventojai, sulaukę 18 metų",
+      "Lietuvos piliečiai, kuriems rinkimų dieną sukako 18 metų",
+      "Lietuvos piliečiai, sulaukę 21 metų",
+      "Visi nuolatiniai Lietuvos gyventojai"
+    ],
+    "options_ru": [
+      "Все жители Литвы, достигшие 18 лет",
+      "Граждане Литвы, которым в день выборов исполнилось 18 лет",
+      "Граждане Литвы, достигшие 21 года",
+      "Все постоянные жители Литвы"
+    ],
+    "correct": 1,
+    "explanation": ""
+  },
+  {
+    "id": 268,
+    "section": "II skirsnis – Žmogus ir valstybė",
+    "question": "Kas neturi teisės dalyvauti rinkimuose?",
+    "question_ru": "Кто не имеет права участвовать в выборах?",
+    "options": [
+      "Piliečiai, turintys nesumokėtų skolų valstybei",
+      "Piliečiai, esantys užsienyje",
+      "Teismo sprendimu pripažinti neveiksniais asmenys",
+      "Asmenys, jaunesni nei 20 metų"
+    ],
+    "options_ru": [
+      "Граждане, имеющие задолженности перед государством",
+      "Граждане, находящиеся за рубежом",
+      "Лица, признанные судом недееспособными",
+      "Лица моложе 20 лет"
+    ],
+    "correct": 2,
+    "explanation": ""
+  },
+  {
+    "id": 269,
+    "section": "II skirsnis – Žmogus ir valstybė",
+    "question": "Kada piliečiams draudžiama vienytis į bendrijas, politines partijas ar asociacijas?",
+    "question_ru": "Когда гражданам запрещается объединяться в общества, политические партии или ассоциации?",
+    "options": [
+      "Karo ar nepaprastosios padėties metu",
+      "Kai neturi nuolatinės gyvenamosios vietos",
+      "Kai šių organizacijų tikslai ir veikla prieštarauja Konstitucijai ir įstatymams",
+      "Kai narių skaičius viršija 10 000"
+    ],
+    "options_ru": [
+      "В период военного или чрезвычайного положения",
+      "Когда не имеют постоянного места жительства",
+      "Когда цели и деятельность этих организаций противоречат Конституции и законам",
+      "Когда число членов превышает 10 000"
+    ],
+    "correct": 2,
+    "explanation": ""
+  },
+  {
+    "id": 270,
+    "section": "III skirsnis – Visuomenė ir valstybė",
+    "question": "Ką saugo ir globoja Valstybė pagal LR Konstituciją?",
+    "question_ru": "Что охраняет и опекает государство согласно Конституции ЛР?",
+    "options": [
+      "Religiją, mokslą ir meną",
+      "Šeimą, motinystę, tėvystę ir vaikystę",
+      "Nuosavybę, darbą ir verslą",
+      "Tradicijas, kultūrą ir kalbą"
+    ],
+    "options_ru": [
+      "Религию, науку и искусство",
+      "Семью, материнство, отцовство и детство",
+      "Собственность, труд и предпринимательство",
+      "Традиции, культуру и язык"
+    ],
+    "correct": 1,
+    "explanation": ""
+  },
+  {
+    "id": 271,
+    "section": "III skirsnis – Visuomenė ir valstybė",
+    "question": "Kuri santuoka yra pripažįstama pagal LR Konstituciją?",
+    "question_ru": "Какой брак признаётся согласно Конституции ЛР?",
+    "options": [
+      "Tik bažnytinė santuoka",
+      "Bažnytinė arba civilinė santuoka pagal piliečio pasirinkimą",
+      "Santuoka, įregistruota valstybės nustatyta tvarka",
+      "Santuoka, sudaryta bet kuria forma"
+    ],
+    "options_ru": [
+      "Только церковный брак",
+      "Церковный или гражданский брак по выбору гражданина",
+      "Брак, зарегистрированный в установленном государством порядке",
+      "Брак, заключённый в любой форме"
+    ],
+    "correct": 2,
+    "explanation": ""
+  },
+  {
+    "id": 272,
+    "section": "III skirsnis – Visuomenė ir valstybė",
+    "question": "Kokios yra tėvų teisės ir pareigos vaikų atžvilgiu?",
+    "question_ru": "Каковы права и обязанности родителей в отношении детей?",
+    "options": [
+      "Tik išlaikyti vaikus iki pilnametystės",
+      "Auklėti vaikus dorais žmonėmis ir piliečiais, rūpintis jų sveikata",
+      "Perduoti vaikams savo turtą",
+      "Vaikų auklėjimas yra tik asmeninis tėvų reikalas"
+    ],
+    "options_ru": [
+      "Только содержать детей до совершеннолетия",
+      "Воспитывать детей честными людьми и гражданами, заботиться об их здоровье",
+      "Передать детям своё имущество",
+      "Воспитание детей — исключительно личное дело родителей"
+    ],
+    "correct": 1,
+    "explanation": ""
+  },
+  {
+    "id": 273,
+    "section": "III skirsnis – Visuomenė ir valstybė",
+    "question": "Kokios yra vaikų pareigos tėvų atžvilgiu?",
+    "question_ru": "Каковы обязанности детей по отношению к родителям?",
+    "options": [
+      "Dirbti ir materialiai remti tėvus nuo 16 metų",
+      "Gerbti tėvus, globoti juos senatvėje ir tausoti jų palikimą",
+      "Mokėti tėvams pensiją, kai sukaks 60 metų",
+      "Tik gerbti tėvus"
+    ],
+    "options_ru": [
+      "Работать и материально поддерживать родителей с 16 лет",
+      "Уважать родителей, опекать их в старости и беречь их наследство",
+      "Платить родителям пенсию по достижении ими 60 лет",
+      "Только уважать родителей"
+    ],
+    "correct": 1,
+    "explanation": ""
+  },
+  {
+    "id": 274,
+    "section": "III skirsnis – Visuomenė ir valstybė",
+    "question": "Ką numato įstatymas dirbančioms motinoms pagal Konstituciją?",
+    "question_ru": "Что предусматривает закон для работающих матерей согласно Конституции?",
+    "options": [
+      "Teisę dirbti ne visą darbo dieną",
+      "Mokamas atostogas iki gimdymo ir po jo, palankias darbo sąlygas ir kitas lengvatas",
+      "Nemokamą vaikų priežiūrą darbo metu",
+      "Teisę į ankstyvo išėjimo į pensiją"
+    ],
+    "options_ru": [
+      "Право работать неполный рабочий день",
+      "Оплачиваемый отпуск до и после родов, благоприятные условия труда и иные льготы",
+      "Бесплатный уход за детьми в рабочее время",
+      "Право на досрочный выход на пенсию"
+    ],
+    "correct": 1,
+    "explanation": ""
+  },
+  {
+    "id": 275,
+    "section": "III skirsnis – Visuomenė ir valstybė",
+    "question": "Kas suteikiama aukštosioms mokykloms pagal Konstituciją?",
+    "question_ru": "Что предоставляется высшим учебным заведениям согласно Конституции?",
+    "options": [
+      "Įstatymų leidybos iniciatyvos teisė",
+      "Autonomija",
+      "Valstybinės institucijos statusas",
+      "Teisė nustatyti savo mokesčius"
+    ],
+    "options_ru": [
+      "Право законодательной инициативы",
+      "Автономия",
+      "Статус государственного органа",
+      "Право устанавливать собственные налоги"
+    ],
+    "correct": 1,
+    "explanation": ""
+  },
+  {
+    "id": 276,
+    "section": "III skirsnis – Visuomenė ir valstybė",
+    "question": "Iki kelintų metų mokslas yra privalomas pagal LR Konstituciją?",
+    "question_ru": "До какого возраста обучение является обязательным согласно Конституции ЛР?",
+    "options": [
+      "Iki 14 metų",
+      "Iki 18 metų",
+      "Iki 16 metų",
+      "Iki vidurinės mokyklos baigimo"
+    ],
+    "options_ru": [
+      "До 14 лет",
+      "До 18 лет",
+      "До 16 лет",
+      "До окончания средней школы"
+    ],
+    "correct": 2,
+    "explanation": ""
+  },
+  {
+    "id": 277,
+    "section": "III skirsnis – Visuomenė ir valstybė",
+    "question": "Kuriose mokyklose mokslas yra nemokamas pagal LR Konstituciją?",
+    "question_ru": "В каких школах обучение является бесплатным согласно Конституции ЛР?",
+    "options": [
+      "Tik universitetuose ir kolegijose",
+      "Visose valstybinėse ir privačiose mokyklose",
+      "Valstybinėse ir savivaldybių bendrojo lavinimo, profesinėse ir aukštesniosiose mokyklose",
+      "Tik bendrojo lavinimo mokyklose"
+    ],
+    "options_ru": [
+      "Только в университетах и колледжах",
+      "Во всех государственных и частных школах",
+      "В государственных и муниципальных общеобразовательных, профессиональных и средних специальных школах",
+      "Только в общеобразовательных школах"
+    ],
+    "correct": 2,
+    "explanation": ""
+  },
+  {
+    "id": 278,
+    "section": "III skirsnis – Visuomenė ir valstybė",
+    "question": "Kam valstybinėse aukštosiose mokyklose laiduojamas nemokamas mokslas?",
+    "question_ru": "Кому в государственных высших учебных заведениях гарантируется бесплатное обучение?",
+    "options": [
+      "Visiems stojusiesiems be išimties",
+      "Tik neįgaliems asmenims",
+      "Gerai besimokantiems piliečiams",
+      "Tik socialiai remtinų šeimų vaikams"
+    ],
+    "options_ru": [
+      "Всем поступившим без исключения",
+      "Только лицам с инвалидностью",
+      "Хорошо успевающим гражданам",
+      "Только детям из социально незащищённых семей"
+    ],
+    "correct": 2,
+    "explanation": ""
+  },
+  {
+    "id": 279,
+    "section": "III skirsnis – Visuomenė ir valstybė",
+    "question": "Kas Lietuvoje vykdo masinės informacijos cenzūrą?",
+    "question_ru": "Кто в Литве осуществляет цензуру средств массовой информации?",
+    "options": [
+      "Kultūros ministerija",
+      "Seimas karo metu",
+      "Vyriausybė nepaprastosios padėties metu",
+      "Masinės informacijos cenzūra Lietuvoje draudžiama"
+    ],
+    "options_ru": [
+      "Министерство культуры",
+      "Сейм в военное время",
+      "Правительство в период чрезвычайного положения",
+      "Цензура средств массовой информации в Литве запрещена"
+    ],
+    "correct": 3,
+    "explanation": ""
+  },
+  {
+    "id": 280,
+    "section": "IV skirsnis – Tautos ūkis ir darbas",
+    "question": "Kas gina vartotojo interesus pagal LR Konstituciją?",
+    "question_ru": "Кто защищает интересы потребителя согласно Конституции ЛР?",
+    "options": [
+      "Teismai",
+      "Profesinės sąjungos",
+      "Vartotojų asociacijos",
+      "Valstybė"
+    ],
+    "options_ru": [
+      "Суды",
+      "Профессиональные союзы",
+      "Потребительские ассоциации",
+      "Государство"
+    ],
+    "correct": 3,
+    "explanation": ""
+  },
+  {
+    "id": 281,
+    "section": "IV skirsnis – Tautos ūkis ir darbas",
+    "question": "Ar Lietuvos Respublikoje leidžiamas priverčiamasis darbas?",
+    "question_ru": "Разрешён ли в Литовской Республике принудительный труд?",
+    "options": [
+      "Taip, karo metu",
+      "Taip, nuteistiesiems",
+      "Ne, priverčiamasis darbas draudžiamas",
+      "Taip, jei darbuotojas sutinka"
+    ],
+    "options_ru": [
+      "Да, в военное время",
+      "Да, для осуждённых",
+      "Нет, принудительный труд запрещён",
+      "Да, если работник соглашается"
+    ],
+    "correct": 2,
+    "explanation": ""
+  },
+  {
+    "id": 282,
+    "section": "IV skirsnis – Tautos ūkis ir darbas",
+    "question": "Kokią socialinę paramą laiduoja Valstybė pagal LR Konstituciją?",
+    "question_ru": "Какую социальную помощь гарантирует государство согласно Конституции ЛР?",
+    "options": [
+      "Tik pensijas senatvėje",
+      "Tik bedarbio pašalpas",
+      "Paramą nedarbo, ligos, našlystės, maitintojo netekimo ir kitais įstatymų nustatytais atvejais",
+      "Tik motinystės ir tėvystės išmokas"
+    ],
+    "options_ru": [
+      "Только пенсии по старости",
+      "Только пособия по безработице",
+      "Помощь при безработице, болезни, вдовстве, потере кормильца и в иных установленных законом случаях",
+      "Только пособия по материнству и отцовству"
+    ],
+    "correct": 2,
+    "explanation": ""
+  },
+  {
+    "id": 283,
+    "section": "IV skirsnis – Tautos ūkis ir darbas",
+    "question": "Ar medicinos paslaugos Lietuvoje yra nemokamos?",
+    "question_ru": "Являются ли медицинские услуги в Литве бесплатными?",
+    "options": [
+      "Taip, visos medicinos paslaugos nemokamos",
+      "Tik skubios pagalbos paslaugos nemokamos",
+      "Įstatymas nustato gyventojų medicinos pagalbos sąlygas; nemokama teikiama nepasiturintiems",
+      "Tik valstybinėse ligoninėse nemokamos"
+    ],
+    "options_ru": [
+      "Да, все медицинские услуги бесплатны",
+      "Только услуги скорой помощи бесплатны",
+      "Закон устанавливает условия медпомощи; бесплатно — малоимущим",
+      "Только в государственных больницах бесплатно"
+    ],
+    "correct": 2,
+    "explanation": ""
+  },
+  {
+    "id": 284,
+    "section": "V skirsnis – Seimas",
+    "question": "Kokia yra Seimo sudėtis ir kada jis laikomas išrinktu?",
+    "question_ru": "Каков состав Сейма и когда он считается избранным?",
+    "options": [
+      "200 narių; kai išrinkta daugiau kaip pusė",
+      "141 narys; kai išrinkta ne mažiau kaip 3/5 narių",
+      "100 narių; kai išrinkti visi nariai",
+      "141 narys; kai išrinkta ne mažiau kaip 2/3 narių"
+    ],
+    "options_ru": [
+      "200 членов; когда избрано более половины",
+      "141 член; когда избрано не менее 3/5 членов",
+      "100 членов; когда избраны все члены",
+      "141 член; когда избрано не менее 2/3 членов"
+    ],
+    "correct": 1,
+    "explanation": ""
+  },
+  {
+    "id": 285,
+    "section": "V skirsnis – Seimas",
+    "question": "Kas gali būti renkamas Seimo nariu?",
+    "question_ru": "Кто может быть избран членом Сейма?",
+    "options": [
+      "LR pilietis, ne jaunesnis kaip 21 metų, nuolat gyvenantis Lietuvoje",
+      "LR pilietis, ne jaunesnis kaip 25 metų, turintis aukštąjį išsilavinimą",
+      "LR pilietis, nesusijęs priesaika kita valstybe, ne jaunesnis kaip 25 metų, nuolat gyvenantis Lietuvoje",
+      "LR pilietis pagal kilmę, ne jaunesnis kaip 30 metų"
+    ],
+    "options_ru": [
+      "Гражданин ЛР не моложе 21 года, постоянно проживающий в Литве",
+      "Гражданин ЛР не моложе 25 лет, имеющий высшее образование",
+      "Гражданин ЛР, не связанный присягой иностранному государству, не моложе 25 лет, постоянно проживающий в Литве",
+      "Гражданин ЛР по происхождению не моложе 30 лет"
+    ],
+    "correct": 2,
+    "explanation": ""
+  },
+  {
+    "id": 286,
+    "section": "V skirsnis – Seimas",
+    "question": "Kada rengiami eiliniai Seimo rinkimai?",
+    "question_ru": "Когда проводятся очередные выборы в Сейм?",
+    "options": [
+      "Pirmą spalio mėnesio sekmadienį",
+      "Antrą spalio mėnesio sekmadienį",
+      "Paskutinį rugsėjo mėnesio sekmadienį",
+      "Pirmą lapkričio mėnesio sekmadienį"
+    ],
+    "options_ru": [
+      "В первое воскресенье октября",
+      "Во второе воскресенье октября",
+      "В последнее воскресенье сентября",
+      "В первое воскресенье ноября"
+    ],
+    "correct": 1,
+    "explanation": ""
+  },
+  {
+    "id": 287,
+    "section": "V skirsnis – Seimas",
+    "question": "Kokios pareigos taikomos Seimo nariams einant pareigas?",
+    "question_ru": "Какие обязательства установлены для членов Сейма при исполнении полномочий?",
+    "options": [
+      "Privalo būti partijos nariais",
+      "Negali gauti jokio atlyginimo",
+      "Atstovauja visai Tautai ir negali būti varžomi jokių mandatų",
+      "Privalo gyventi Vilniuje"
+    ],
+    "options_ru": [
+      "Обязаны быть членами партии",
+      "Не могут получать никакого вознаграждения",
+      "Представляют весь народ и не могут быть связаны никакими мандатами",
+      "Обязаны проживать в Вильнюсе"
+    ],
+    "correct": 2,
+    "explanation": ""
+  },
+  {
+    "id": 288,
+    "section": "V skirsnis – Seimas",
+    "question": "Kada Seimo narys gali būti traukiamas baudžiamojon atsakomybėn?",
+    "question_ru": "Когда член Сейма может быть привлечён к уголовной ответственности?",
+    "options": [
+      "Bet kada prokuroro sprendimu",
+      "Tik po kadencijos pabaigos",
+      "Tik gavus Seimo sutikimą",
+      "Tik teismui leidus"
+    ],
+    "options_ru": [
+      "В любое время по решению прокурора",
+      "Только после окончания каденции",
+      "Только с согласия Сейма",
+      "Только с разрешения суда"
+    ],
+    "correct": 2,
+    "explanation": ""
+  },
+  {
+    "id": 289,
+    "section": "V skirsnis – Seimas",
+    "question": "Kokiais atvejais nutrūksta Seimo nario įgaliojimai?",
+    "question_ru": "В каких случаях прекращаются полномочия члена Сейма?",
+    "options": [
+      "Tik pasibaigus kadencijai arba mirus",
+      "Pasibaigus kadencijai, mirus, atsistatydinus, teismui pripažinus neveiksniam ar Seimui panaikinus mandatą",
+      "Tik Seimui priėmus sprendimą",
+      "Tik teismo sprendimu"
+    ],
+    "options_ru": [
+      "Только по окончании каденции или в случае смерти",
+      "По окончании каденции, в случае смерти, отставки, признания недееспособным судом или лишения мандата Сеймом",
+      "Только по решению Сейма",
+      "Только по решению суда"
+    ],
+    "correct": 1,
+    "explanation": ""
+  },
+  {
+    "id": 290,
+    "section": "V skirsnis – Seimas",
+    "question": "Kas kviečia naujai išrinktą Seimą susirinkti į pirmąjį posėdį?",
+    "question_ru": "Кто созывает вновь избранный Сейм на первое заседание?",
+    "options": [
+      "Seimo Pirmininkas",
+      "Ministras Pirmininkas",
+      "Respublikos Prezidentas",
+      "Amžiumi vyriausias naujai išrinkto Seimo narys"
+    ],
+    "options_ru": [
+      "Председатель Сейма",
+      "Премьер-министр",
+      "Президент Республики",
+      "Старейший по возрасту член вновь избранного Сейма"
+    ],
+    "correct": 2,
+    "explanation": ""
+  },
+  {
+    "id": 291,
+    "section": "V skirsnis – Seimas",
+    "question": "Kas pradeda pirmąjį po rinkimų Seimo posėdį?",
+    "question_ru": "Кто открывает первое после выборов заседание Сейма?",
+    "options": [
+      "Respublikos Prezidentas",
+      "Konstitucinio Teismo Pirmininkas",
+      "Ankstesnio Seimo Pirmininkas",
+      "Amžiumi vyriausias Seimo narys"
+    ],
+    "options_ru": [
+      "Президент Республики",
+      "Председатель Конституционного суда",
+      "Председатель предыдущего Сейма",
+      "Старейший по возрасту член Сейма"
+    ],
+    "correct": 3,
+    "explanation": ""
+  },
+  {
+    "id": 292,
+    "section": "V skirsnis – Seimas",
+    "question": "Kas turi teisę įvesti nepaprastąją padėtį ar karo padėtį?",
+    "question_ru": "Кто вправе ввести чрезвычайное или военное положение?",
+    "options": [
+      "Respublikos Prezidentas",
+      "Vyriausybė",
+      "Seimas",
+      "Valstybės gynimo taryba"
+    ],
+    "options_ru": [
+      "Президент Республики",
+      "Правительство",
+      "Сейм",
+      "Совет государственной обороны"
+    ],
+    "correct": 2,
+    "explanation": ""
+  },
+  {
+    "id": 293,
+    "section": "V skirsnis – Seimas",
+    "question": "Kas ratifikuoja tarptautines sutartis pagal LR Konstituciją?",
+    "question_ru": "Кто ратифицирует международные договоры согласно Конституции ЛР?",
+    "options": [
+      "Respublikos Prezidentas",
+      "Vyriausybė",
+      "Seimas",
+      "Užsienio reikalų ministerija"
+    ],
+    "options_ru": [
+      "Президент Республики",
+      "Правительство",
+      "Сейм",
+      "Министерство иностранных дел"
+    ],
+    "correct": 2,
+    "explanation": ""
+  },
+  {
+    "id": 294,
+    "section": "V skirsnis – Seimas",
+    "question": "Nuo kada įsigalioja Seimo priimti įstatymai?",
+    "question_ru": "С какого момента вступают в силу принятые Сеймом законы?",
+    "options": [
+      "Nuo Seimo balsavimo dienos",
+      "Nuo Konstitucinio Teismo patvirtinimo",
+      "Nuo oficialaus paskelbimo Respublikos Prezidento",
+      "Nuo kitos dienos po paskelbimo"
+    ],
+    "options_ru": [
+      "Со дня голосования Сейма",
+      "После подтверждения Конституционным судом",
+      "После официального обнародования Президентом Республики",
+      "На следующий день после обнародования"
+    ],
+    "correct": 2,
+    "explanation": ""
+  },
+  {
+    "id": 295,
+    "section": "V skirsnis – Seimas",
+    "question": "Kas tiria piliečių skundus dėl valstybės ir savivaldybių pareigūnų piktnaudžiavimo?",
+    "question_ru": "Кто рассматривает жалобы граждан на злоупотребления государственных и муниципальных чиновников?",
+    "options": [
+      "Generalinis prokuroras",
+      "Respublikos Prezidentas",
+      "Seimo kontrolieriai",
+      "Valstybės kontrolierius"
+    ],
+    "options_ru": [
+      "Генеральный прокурор",
+      "Президент Республики",
+      "Контролёры Сейма",
+      "Государственный контролёр"
+    ],
+    "correct": 2,
+    "explanation": ""
+  },
+  {
+    "id": 296,
+    "section": "V skirsnis – Seimas",
+    "question": "Kam gali būti taikoma apkaltos proceso tvarka?",
+    "question_ru": "К кому может применяться процедура импичмента?",
+    "options": [
+      "Tik Respublikos Prezidentui",
+      "Tik Seimo nariams",
+      "Prezidentui, Seimo nariams, Aukščiausiojo, Apeliacinio teismų ir Konstitucinio Teismo teisėjams",
+      "Tik ministrams"
+    ],
+    "options_ru": [
+      "Только Президенту Республики",
+      "Только членам Сейма",
+      "Президенту, членам Сейма, судьям Верховного, Апелляционного судов и Конституционного суда",
+      "Только министрам"
+    ],
+    "correct": 2,
+    "explanation": ""
+  },
+  {
+    "id": 297,
+    "section": "VI skirsnis – Respublikos Prezidentas",
+    "question": "Kas gali būti įregistruojamas kandidatu į Respublikos Prezidentus?",
+    "question_ru": "Кто может быть зарегистрирован кандидатом в Президенты Республики?",
+    "options": [
+      "LR pilietis, sulaukęs 35 metų ir surinkęs 10 000 parašų",
+      "LR pilietis, atitinkantis Konstitucijos 78 str. sąlygas ir surinkęs ne mažiau kaip 20 000 rinkėjų parašų",
+      "LR pilietis pagal kilmę, sulaukęs 40 metų",
+      "Bet kuris LR pilietis, sulaukęs 30 metų"
+    ],
+    "options_ru": [
+      "Гражданин ЛР, достигший 35 лет и собравший 10 000 подписей",
+      "Гражданин ЛР, отвечающий условиям ст. 78 Конституции и собравший не менее 20 000 подписей избирателей",
+      "Гражданин ЛР по происхождению, достигший 40 лет",
+      "Любой гражданин ЛР, достигший 30 лет"
+    ],
+    "correct": 1,
+    "explanation": ""
+  },
+  {
+    "id": 298,
+    "section": "VI skirsnis – Respublikos Prezidentas",
+    "question": "Kandidatų į Respublikos Prezidento vietą skaičius:",
+    "question_ru": "Число кандидатов на пост Президента Республики:",
+    "options": [
+      "Ne daugiau kaip 3",
+      "Ne daugiau kaip 5",
+      "Ne daugiau kaip 10",
+      "Neribojamas"
+    ],
+    "options_ru": [
+      "Не более 3",
+      "Не более 5",
+      "Не более 10",
+      "Не ограничивается"
+    ],
+    "correct": 3,
+    "explanation": ""
+  },
+  {
+    "id": 299,
+    "section": "VI skirsnis – Respublikos Prezidentas",
+    "question": "Kokį atlyginimą gali gauti Respublikos Prezidentas be prezidentinio atlyginimo?",
+    "question_ru": "Какое вознаграждение помимо президентского оклада может получать Президент Республики?",
+    "options": [
+      "Atlyginimą už dėstymą universitete",
+      "Pelną iš verslo",
+      "Atlyginimą už kūrybinę veiklą",
+      "Jokio kito atlyginimo negali gauti"
+    ],
+    "options_ru": [
+      "Вознаграждение за преподавание в университете",
+      "Прибыль от бизнеса",
+      "Вознаграждение за творческую деятельность",
+      "Никакого иного вознаграждения получать не может"
+    ],
+    "correct": 2,
+    "explanation": ""
+  },
+  {
+    "id": 300,
+    "section": "VI skirsnis – Respublikos Prezidentas",
+    "question": "Kas vykdo Lietuvos Respublikos užsienio politiką?",
+    "question_ru": "Кто осуществляет внешнюю политику Литовской Республики?",
+    "options": [
+      "Tik Respublikos Prezidentas",
+      "Tik Vyriausybė",
+      "Respublikos Prezidentas ir Vyriausybė",
+      "Seimas ir Prezidentas"
+    ],
+    "options_ru": [
+      "Только Президент Республики",
+      "Только Правительство",
+      "Президент Республики и Правительство",
+      "Сейм и Президент"
+    ],
+    "correct": 2,
+    "explanation": ""
+  },
+  {
+    "id": 301,
+    "section": "VI skirsnis – Respublikos Prezidentas",
+    "question": "Kaip skiriamas Ministras Pirmininkas pagal LR Konstituciją?",
+    "question_ru": "Как назначается Премьер-министр согласно Конституции ЛР?",
+    "options": [
+      "Seimo renkamas tiesiogiai",
+      "Vyriausybės skiriamas",
+      "Respublikos Prezidento, gavus Seimo pritarimą",
+      "Respublikos Prezidento be papildomų sąlygų"
+    ],
+    "options_ru": [
+      "Избирается Сеймом напрямую",
+      "Назначается Правительством",
+      "Президентом Республики с одобрения Сейма",
+      "Президентом Республики без дополнительных условий"
+    ],
+    "correct": 2,
+    "explanation": ""
+  },
+  {
+    "id": 302,
+    "section": "VI skirsnis – Respublikos Prezidentas",
+    "question": "Kas pasirašo Lietuvos Respublikos tarptautines sutartis ir teikia jas Seimui ratifikuoti?",
+    "question_ru": "Кто подписывает международные договоры Литовской Республики и представляет их Сейму на ратификацию?",
+    "options": [
+      "Ministras Pirmininkas",
+      "Užsienio reikalų ministras",
+      "Seimo Pirmininkas",
+      "Respublikos Prezidentas"
+    ],
+    "options_ru": [
+      "Премьер-министр",
+      "Министр иностранных дел",
+      "Председатель Сейма",
+      "Президент Республики"
+    ],
+    "correct": 3,
+    "explanation": ""
+  },
+  {
+    "id": 303,
+    "section": "VI skirsnis – Respublikos Prezidentas",
+    "question": "Konstitucijoje numatytais atvejais kas šaukia neeilinę Seimo sesiją?",
+    "question_ru": "В предусмотренных Конституцией случаях кто созывает внеочередную сессию Сейма?",
+    "options": [
+      "Seimo Pirmininkas",
+      "Ministras Pirmininkas",
+      "Respublikos Prezidentas",
+      "Vyriausybė"
+    ],
+    "options_ru": [
+      "Председатель Сейма",
+      "Премьер-министр",
+      "Президент Республики",
+      "Правительство"
+    ],
+    "correct": 2,
+    "explanation": ""
+  },
+  {
+    "id": 304,
+    "section": "VI skirsnis – Respublikos Prezidentas",
+    "question": "Kas teikia malonę nuteistiesiems?",
+    "question_ru": "Кто осуществляет помилование осуждённых?",
+    "options": [
+      "Generalinis prokuroras",
+      "Teisingumo ministras",
+      "Seimas",
+      "Respublikos Prezidentas"
+    ],
+    "options_ru": [
+      "Генеральный прокурор",
+      "Министр юстиции",
+      "Сейм",
+      "Президент Республики"
+    ],
+    "correct": 3,
+    "explanation": ""
+  },
+  {
+    "id": 305,
+    "section": "VI skirsnis – Respublikos Prezidentas",
+    "question": "Kas įstatymo nustatyta tvarka teikia Lietuvos Respublikos pilietybę?",
+    "question_ru": "Кто в установленном законом порядке предоставляет гражданство Литовской Республики?",
+    "options": [
+      "Seimas",
+      "Vyriausybė",
+      "Respublikos Prezidentas",
+      "Migracijos departamentas"
+    ],
+    "options_ru": [
+      "Сейм",
+      "Правительство",
+      "Президент Республики",
+      "Департамент миграции"
+    ],
+    "correct": 2,
+    "explanation": ""
+  },
+  {
+    "id": 306,
+    "section": "VI skirsnis – Respublikos Prezidentas",
+    "question": "Kokius aktus leidžia Respublikos Prezidentas, įgyvendindamas jam suteiktus įgaliojimus?",
+    "question_ru": "Какие акты издаёт Президент Республики, осуществляя возложенные на него полномочия?",
+    "options": [
+      "Nutarimus",
+      "Potvarkius",
+      "Įsakymus",
+      "Dekretus"
+    ],
+    "options_ru": [
+      "Постановления",
+      "Распоряжения",
+      "Приказы",
+      "Декреты"
+    ],
+    "correct": 3,
+    "explanation": ""
+  },
+  {
+    "id": 307,
+    "section": "VI skirsnis – Respublikos Prezidentas",
+    "question": "Kas pavaduoja Prezidentą jam laikinai išvykus į užsienį arba esant laikinai nedarbingam?",
+    "question_ru": "Кто замещает Президента в случае его временного выезда за рубеж или временной нетрудоспособности?",
+    "options": [
+      "Ministras Pirmininkas",
+      "Seimo Pirmininkas",
+      "Konstitucinio Teismo Pirmininkas",
+      "Vyriausiasis Aukščiausiojo teismo teisėjas"
+    ],
+    "options_ru": [
+      "Премьер-министр",
+      "Председатель Сейма",
+      "Председатель Конституционного суда",
+      "Председатель Верховного суда"
+    ],
+    "correct": 1,
+    "explanation": ""
+  },
+  {
+    "id": 308,
+    "section": "VII skirsnis – Lietuvos Respublikos Vyriausybė",
+    "question": "Kada Vyriausybė grąžina savo įgaliojimus Respublikos Prezidentui?",
+    "question_ru": "Когда Правительство слагает свои полномочия перед Президентом Республики?",
+    "options": [
+      "Kasmet sausio mėnesį",
+      "Po Seimo rinkimų arba išrinkus Respublikos Prezidentą",
+      "Kai Seimas pareiškia nepasitikėjimą",
+      "Pasibaigus penkerių metų kadencijai"
+    ],
+    "options_ru": [
+      "Каждый год в январе",
+      "После выборов Сейма или после избрания Президента Республики",
+      "Когда Сейм выражает вотум недоверия",
+      "По окончании пятилетней каденции"
+    ],
+    "correct": 1,
+    "explanation": ""
+  },
+  {
+    "id": 309,
+    "section": "VII skirsnis – Lietuvos Respublikos Vyriausybė",
+    "question": "Kada nauja Vyriausybė gauna įgaliojimus veikti?",
+    "question_ru": "Когда новое Правительство получает полномочия действовать?",
+    "options": [
+      "Kai Prezidentas ją patvirtina",
+      "Kai Seimas dalyvavusių narių balsų dauguma pritaria jos programai",
+      "Kai paskelbiama Valstybės žiniose",
+      "Kai visi ministrai prisiekia"
+    ],
+    "options_ru": [
+      "Когда Президент её утверждает",
+      "Когда Сейм большинством голосов присутствующих членов одобряет её программу",
+      "Когда объявляется в официальном издании",
+      "Когда все министры принесут присягу"
+    ],
+    "correct": 1,
+    "explanation": ""
+  },
+  {
+    "id": 310,
+    "section": "VII skirsnis – Lietuvos Respublikos Vyriausybė",
+    "question": "Kas tvarko krašto reikalus pagal LR Konstituciją?",
+    "question_ru": "Кто ведёт дела края согласно Конституции ЛР?",
+    "options": [
+      "Seimas",
+      "Respublikos Prezidentas",
+      "Lietuvos Respublikos Vyriausybė",
+      "Savivaldybės"
+    ],
+    "options_ru": [
+      "Сейм",
+      "Президент Республики",
+      "Правительство Литовской Республики",
+      "Самоуправления"
+    ],
+    "correct": 2,
+    "explanation": ""
+  },
+  {
+    "id": 311,
+    "section": "VII skirsnis – Lietuvos Respublikos Vyriausybė",
+    "question": "Kas gali pavaduoti Ministrą Pirmininką, kol šis negali eiti pareigų?",
+    "question_ru": "Кто может замещать Премьер-министра в период его отсутствия?",
+    "options": [
+      "Seimo Pirmininkas Ministro Pirmininko teikimu",
+      "Respublikos Prezidentas Ministro Pirmininko teikimu ne ilgesniam kaip 60 dienų laikotarpiui",
+      "Seniausias pagal pareigas ministras",
+      "Bet kuris kabineto narys Seimo sprendimu"
+    ],
+    "options_ru": [
+      "Председатель Сейма по представлению Премьер-министра",
+      "Президент Республики по представлению Премьер-министра на срок не более 60 дней",
+      "Старший по должности министр",
+      "Любой член кабинета по решению Сейма"
+    ],
+    "correct": 1,
+    "explanation": ""
+  },
+  {
+    "id": 312,
+    "section": "VII skirsnis – Lietuvos Respublikos Vyriausybė",
+    "question": "Kas gali laikinai pavaduoti ministrą?",
+    "question_ru": "Кто может временно замещать министра?",
+    "options": [
+      "Viceministras",
+      "Kitas Vyriausybės narys Ministro Pirmininko sprendimu",
+      "Ministro paskirtas valstybės sekretorius",
+      "Seimo komiteto pirmininkas"
+    ],
+    "options_ru": [
+      "Вице-министр",
+      "Другой член Правительства по решению Премьер-министра",
+      "Назначенный министром государственный секретарь",
+      "Председатель комитета Сейма"
+    ],
+    "correct": 1,
+    "explanation": ""
+  },
+  {
+    "id": 313,
+    "section": "VII skirsnis – Lietuvos Respublikos Vyriausybė",
+    "question": "Kokio atlyginimo negali gauti Ministras Pirmininkas ir ministrai, išskyrus nustatytąjį pagal pareigas?",
+    "question_ru": "Какое вознаграждение не могут получать Премьер-министр и министры помимо должностного оклада?",
+    "options": [
+      "Jokio kito - draudžiama absoliučiai",
+      "Jokio kito, išskyrus atlyginimą už kūrybinę veiklą",
+      "Pensijų ar socialinių išmokų",
+      "Dividendų iš privačių įmonių"
+    ],
+    "options_ru": [
+      "Никакого - запрет абсолютный",
+      "Никакого иного, кроме вознаграждения за творческую деятельность",
+      "Пенсий или социальных выплат",
+      "Дивидендов от частных компаний"
+    ],
+    "correct": 1,
+    "explanation": ""
+  },
+  {
+    "id": 314,
+    "section": "VIII skirsnis – Konstitucinis Teismas",
+    "question": "Kaip dažnai ir kiek atnaujinamas Konstitucinis Teismas?",
+    "question_ru": "Как часто и в какой части обновляется Конституционный суд?",
+    "options": [
+      "Kas penkerius metus vienu trečdaliu",
+      "Kas trejus metus vienu trečdaliu",
+      "Kas dvejus metus viena devintadaliu",
+      "Kas trejus metus vienu devintadaliu"
+    ],
+    "options_ru": [
+      "Каждые пять лет на одну треть",
+      "Каждые три года на одну треть",
+      "Каждые два года на одну девятую",
+      "Каждые три года на одну девятую"
+    ],
+    "correct": 1,
+    "explanation": ""
+  },
+  {
+    "id": 315,
+    "section": "VIII skirsnis – Konstitucinis Teismas",
+    "question": "Kas gali būti skiriamas Konstitucinio Teismo teisėju?",
+    "question_ru": "Кто может быть назначен судьёй Конституционного суда?",
+    "options": [
+      "Bet kuris LR pilietis, turintis teisinį išsilavinimą",
+      "Nepriekaištingos reputacijos LR pilietis su aukštuoju teisiniu išsilavinimu ir ne mažesniu kaip 10 metų teisiniu darbo stažu",
+      "LR pilietis, ne jaunesnis kaip 50 metų, dirbęs Seime",
+      "Teisinis išsilavinimas nebūtinas - pakanka valstybinio administravimo patirties"
+    ],
+    "options_ru": [
+      "Любой гражданин ЛР с юридическим образованием",
+      "Гражданин ЛР безупречной репутации с высшим юридическим образованием и стажем юридической работы не менее 10 лет",
+      "Гражданин ЛР не моложе 50 лет, работавший в Сейме",
+      "Юридическое образование не обязательно — достаточно опыта государственного управления"
+    ],
+    "correct": 1,
+    "explanation": ""
+  },
+  {
+    "id": 316,
+    "section": "VIII skirsnis – Konstitucinis Teismas",
+    "question": "Kokias neliečiamybės garantijas turi Konstitucinio Teismo teisėjai?",
+    "question_ru": "Какими гарантиями неприкосновенности обладают судьи Конституционного суда?",
+    "options": [
+      "Mažesnę neliečiamybę nei Seimo nariai",
+      "Tokią pačią kaip Seimo nariai",
+      "Tokią pačią kaip Respublikos Prezidentas",
+      "Absoliučią neliečiamybę"
+    ],
+    "options_ru": [
+      "Меньшую неприкосновенность, чем члены Сейма",
+      "Такую же, как у членов Сейма",
+      "Такую же, как у Президента Республики",
+      "Абсолютную неприкосновенность"
+    ],
+    "correct": 1,
+    "explanation": ""
+  },
+  {
+    "id": 317,
+    "section": "VIII skirsnis – Konstitucinis Teismas",
+    "question": "Kokios yra Konstitucinio Teismo funkcijos?",
+    "question_ru": "Каковы функции Конституционного суда?",
+    "options": [
+      "Nagrinėja baudžiamąsias bylas",
+      "Sprendžia rinkimų ginčus",
+      "Sprendžia įstatymų ir kitų aktų atitiktį Konstitucijai, teikia išvadas Seimui",
+      "Tvirtina valstybės biudžetą"
+    ],
+    "options_ru": [
+      "Рассматривает уголовные дела",
+      "Разрешает избирательные споры",
+      "Решает вопросы соответствия законов и иных актов Конституции, даёт заключения Сейму",
+      "Утверждает государственный бюджет"
+    ],
+    "correct": 2,
+    "explanation": ""
+  },
+  {
+    "id": 318,
+    "section": "VIII skirsnis – Konstitucinis Teismas",
+    "question": "Kas turi teisę kreiptis į Konstitucinį Teismą?",
+    "question_ru": "Кто имеет право обращаться в Конституционный суд?",
+    "options": [
+      "Bet kuris LR pilietis",
+      "Tik Respublikos Prezidentas",
+      "Vyriausybė, ne mažiau kaip 1/5 visų Seimo narių, taip pat teismai",
+      "Tik Seimo Pirmininkas"
+    ],
+    "options_ru": [
+      "Любой гражданин ЛР",
+      "Только Президент Республики",
+      "Правительство, не менее 1/5 всех членов Сейма, а также суды",
+      "Только Председатель Сейма"
+    ],
+    "correct": 2,
+    "explanation": ""
+  },
+  {
+    "id": 319,
+    "section": "VIII skirsnis – Konstitucinis Teismas",
+    "question": "Kada nutrūksta Konstitucinio Teismo teisėjo įgaliojimai?",
+    "question_ru": "Когда прекращаются полномочия судьи Конституционного суда?",
+    "options": [
+      "Tik pasibaigus devynerių metų kadencijai",
+      "Pasibaigus kadencijai, atsistatydinus, esant sveikatos sutrikimams, pašalinus apkaltos tvarka ar mirus",
+      "Tik Seimo sprendimu",
+      "Tik Prezidento dekretu"
+    ],
+    "options_ru": [
+      "Только по истечении девятилетней каденции",
+      "По окончании каденции, при отставке, по состоянию здоровья, при отстранении в порядке импичмента или в случае смерти",
+      "Только по решению Сейма",
+      "Только по декрету Президента"
+    ],
+    "correct": 1,
+    "explanation": ""
+  },
+  {
+    "id": 320,
+    "section": "IX skirsnis – Teismas",
+    "question": "Kokie teismai veikia Lietuvos Respublikoje?",
+    "question_ru": "Какие суды действуют в Литовской Республике?",
+    "options": [
+      "Tik Aukščiausiasis Teismas ir apylinkių teismai",
+      "Aukščiausiasis Teismas, Apeliacinis teismas, apygardų ir apylinkių teismai",
+      "Tik Konstitucinis Teismas ir apygardų teismai",
+      "Aukščiausiasis Teismas ir administraciniai teismai"
+    ],
+    "options_ru": [
+      "Только Верховный суд и участковые суды",
+      "Верховный суд, Апелляционный суд, окружные и участковые суды",
+      "Только Конституционный суд и окружные суды",
+      "Верховный суд и административные суды"
+    ],
+    "correct": 1,
+    "explanation": ""
+  },
+  {
+    "id": 321,
+    "section": "IX skirsnis – Teismas",
+    "question": "Ar Lietuvos Respublikoje taikos metu gali būti steigiami teismai su ypatingais įgaliojimais?",
+    "question_ru": "Могут ли в мирное время в Литовской Республике создаваться суды с особыми полномочиями?",
+    "options": [
+      "Taip, Seimo nutarimu",
+      "Taip, Prezidento dekretu karo pavojaus atveju",
+      "Ne, tokie teismai negali būti steigiami",
+      "Taip, bet tik administraciniai"
+    ],
+    "options_ru": [
+      "Да, по постановлению Сейма",
+      "Да, декретом Президента при угрозе войны",
+      "Нет, такие суды не могут создаваться",
+      "Да, но только административные"
+    ],
+    "correct": 2,
+    "explanation": ""
+  },
+  {
+    "id": 322,
+    "section": "IX skirsnis – Teismas",
+    "question": "Kas skiria apylinkių ir apygardų teismų teisėjus?",
+    "question_ru": "Кто назначает судей участковых и окружных судов?",
+    "options": [
+      "Seimas",
+      "Teisingumo ministras",
+      "Respublikos Prezidentas",
+      "Generalinis prokuroras"
+    ],
+    "options_ru": [
+      "Сейм",
+      "Министр юстиции",
+      "Президент Республики",
+      "Генеральный прокурор"
+    ],
+    "correct": 2,
+    "explanation": ""
+  },
+  {
+    "id": 323,
+    "section": "IX skirsnis – Teismas",
+    "question": "Kokio atlyginimo negali gauti teisėjas, išskyrus teisėjo atlyginimą?",
+    "question_ru": "Какое вознаграждение не может получать судья помимо судейского оклада?",
+    "options": [
+      "Jokio kito atlyginimo absoliučiai",
+      "Jokio, išskyrus atlyginimą už pedagoginę ar kūrybinę veiklą",
+      "Tik dividendų iš akcijų",
+      "Tik politinės veiklos atlyginimo"
+    ],
+    "options_ru": [
+      "Никакого иного вознаграждения абсолютно",
+      "Никакого иного, кроме вознаграждения за педагогическую или творческую деятельность",
+      "Только дивидендов от акций",
+      "Только вознаграждения за политическую деятельность"
+    ],
+    "correct": 1,
+    "explanation": ""
+  },
+  {
+    "id": 324,
+    "section": "IX skirsnis – Teismas",
+    "question": "Kur teisėjas negali dalyvauti?",
+    "question_ru": "В чём не может участвовать судья?",
+    "options": [
+      "Tarptautinėse konferencijose",
+      "Politinių partijų veikloje",
+      "Profesinių sąjungų veikloje",
+      "Kultūrinėse organizacijose"
+    ],
+    "options_ru": [
+      "В международных конференциях",
+      "В деятельности политических партий",
+      "В деятельности профессиональных союзов",
+      "В культурных организациях"
+    ],
+    "correct": 1,
+    "explanation": ""
+  },
+  {
+    "id": 325,
+    "section": "IX skirsnis – Teismas",
+    "question": "Kokiais pagrindais gali būti atleistas teisėjas iš pareigų?",
+    "question_ru": "По каким основаниям может быть освобождён судья от должности?",
+    "options": [
+      "Tik savo noru arba sukakus pensinio amžiaus",
+      "Savo noru, sukakus pensinio amžiaus, perkeliant, pažeminus teisėjo vardą, dėl sveikatos, apkaltos tvarka ar mirus",
+      "Tik Seimo sprendimu",
+      "Tik Prezidento dekretu"
+    ],
+    "options_ru": [
+      "Только по собственному желанию или по достижении пенсионного возраста",
+      "По собственному желанию, по достижении пенсионного возраста, при переводе, за порочащий поступок, по состоянию здоровья, в порядке импичмента или в случае смерти",
+      "Только по решению Сейма",
+      "Только по декрету Президента"
+    ],
+    "correct": 1,
+    "explanation": ""
+  },
+  {
+    "id": 326,
+    "section": "IX skirsnis – Teismas",
+    "question": "Kas skiria ir atleidžia Generalinį prokurorą?",
+    "question_ru": "Кто назначает и освобождает от должности Генерального прокурора?",
+    "options": [
+      "Seimas",
+      "Respublikos Prezidentas Seimo pritarimu",
+      "Vyriausybė",
+      "Teisingumo ministras"
+    ],
+    "options_ru": [
+      "Сейм",
+      "Президент Республики с одобрения Сейма",
+      "Правительство",
+      "Министр юстиции"
+    ],
+    "correct": 1,
+    "explanation": ""
+  },
+  {
+    "id": 327,
+    "section": "IX skirsnis – Teismas",
+    "question": "Kas organizuoja ikiteisminį tyrimą ir palaiko valstybinį kaltinimą baudžiamosiose bylose?",
+    "question_ru": "Кто организует досудебное расследование и поддерживает государственное обвинение по уголовным делам?",
+    "options": [
+      "Teisėjas",
+      "Policija",
+      "Prokuroras",
+      "Teisingumo ministerija"
+    ],
+    "options_ru": [
+      "Судья",
+      "Полиция",
+      "Прокурор",
+      "Министерство юстиции"
+    ],
+    "correct": 2,
+    "explanation": ""
+  },
+  {
+    "id": 328,
+    "section": "X skirsnis – Vietos savivalda",
+    "question": "Kas gali būti išrinktas savivaldybių tarybų nariais?",
+    "question_ru": "Кто может быть избран членом советов самоуправлений?",
+    "options": [
+      "Tik LR piliečiai",
+      "Tik valstybės tarnautojai",
+      "LR piliečiai ir nuolatiniai tos savivaldybės teritorijos gyventojai",
+      "Tik tos savivaldybės mokesčių mokėtojai"
+    ],
+    "options_ru": [
+      "Только граждане ЛР",
+      "Только государственные служащие",
+      "Граждане ЛР и постоянные жители данной территории самоуправления",
+      "Только налогоплательщики данного самоуправления"
+    ],
+    "correct": 2,
+    "explanation": ""
+  },
+  {
+    "id": 329,
+    "section": "X skirsnis – Vietos savivalda",
+    "question": "Kas gali būti išrinktas meru?",
+    "question_ru": "Кто может быть избран мэром?",
+    "options": [
+      "Bet kuris savivaldybės gyventojas",
+      "Tik Lietuvos Respublikos piliečiai",
+      "Tik valstybės tarnautojai",
+      "Tik savivaldybės tarybos nariai"
+    ],
+    "options_ru": [
+      "Любой житель самоуправления",
+      "Только граждане Литовской Республики",
+      "Только государственные служащие",
+      "Только члены совета самоуправления"
+    ],
+    "correct": 1,
+    "explanation": ""
+  },
+  {
+    "id": 330,
+    "section": "X skirsnis – Vietos savivalda",
+    "question": "Kas prižiūri, ar savivaldybės laikosi Konstitucijos ir įstatymų?",
+    "question_ru": "Кто следит за соблюдением самоуправлениями Конституции и законов?",
+    "options": [
+      "Seimo kontrolieriai",
+      "Generalinis prokuroras",
+      "Vyriausybės paskirti atstovai",
+      "Valstybės kontrolierius"
+    ],
+    "options_ru": [
+      "Контролёры Сейма",
+      "Генеральный прокурор",
+      "Назначенные Правительством представители",
+      "Государственный контролёр"
+    ],
+    "correct": 2,
+    "explanation": ""
+  },
+  {
+    "id": 331,
+    "section": "XI skirsnis – Finansai ir valstybės biudžetas",
+    "question": "Kam priklauso Lietuvos bankas?",
+    "question_ru": "Кому принадлежит Банк Литвы?",
+    "options": [
+      "Privatiems akcininkams",
+      "Savivaldybėms",
+      "Valstybei nuosavybės teise",
+      "Tarptautiniam valiutos fondui"
+    ],
+    "options_ru": [
+      "Частным акционерам",
+      "Самоуправлениям",
+      "Государству на праве собственности",
+      "Международному валютному фонду"
+    ],
+    "correct": 2,
+    "explanation": ""
+  },
+  {
+    "id": 332,
+    "section": "XI skirsnis – Finansai ir valstybės biudžetas",
+    "question": "Kas skiria Lietuvos banko valdybos pirmininką?",
+    "question_ru": "Кто назначает председателя правления Банка Литвы?",
+    "options": [
+      "Vyriausybė",
+      "Finansų ministras",
+      "Seimas Respublikos Prezidento teikimu",
+      "Seimas savo iniciatyva"
+    ],
+    "options_ru": [
+      "Правительство",
+      "Министр финансов",
+      "Сейм по представлению Президента Республики",
+      "Сейм по собственной инициативе"
+    ],
+    "correct": 2,
+    "explanation": ""
+  },
+  {
+    "id": 333,
+    "section": "XII skirsnis – Valstybės kontrolė",
+    "question": "Kokios yra valstybės kontrolės funkcijos pagal LR Konstituciją?",
+    "question_ru": "Каковы функции государственного контроля согласно Конституции ЛР?",
+    "options": [
+      "Tikrinti valstybės tarnautojų kvalifikaciją",
+      "Prižiūrėti, ar teisėtai valdomas ir naudojamas valstybės turtas ir kaip vykdomas valstybės biudžetas",
+      "Tirti korupcijos bylas",
+      "Kontroliuoti savivaldybių rinkimų eigą"
+    ],
+    "options_ru": [
+      "Проверять квалификацию государственных служащих",
+      "Осуществлять надзор за законностью управления и использования государственного имущества и исполнением государственного бюджета",
+      "Расследовать дела о коррупции",
+      "Контролировать ход муниципальных выборов"
+    ],
+    "correct": 1,
+    "explanation": ""
+  },
+  {
+    "id": 334,
+    "section": "XIII skirsnis – Užsienio politika ir valstybės gynimas",
+    "question": "Ar privalo Lietuvos Respublikos piliečiai atlikti karo tarnybą?",
+    "question_ru": "Обязаны ли граждане Литовской Республики проходить военную службу?",
+    "options": [
+      "Ne, karinė tarnyba savanoriška",
+      "Taip, tačiau galima atlikti alternatyviąją tarnybą",
+      "Tik vyrai privalo atlikti karo tarnybą",
+      "Tik tam tikrų profesijų asmenys"
+    ],
+    "options_ru": [
+      "Нет, военная служба добровольная",
+      "Да, однако можно проходить альтернативную службу",
+      "Только мужчины обязаны проходить военную службу",
+      "Только лица определённых профессий"
+    ],
+    "correct": 1,
+    "explanation": ""
+  },
+  {
+    "id": 335,
+    "section": "XIII skirsnis – Užsienio politika ir valstybės gynimas",
+    "question": "Kada Seimas gali visoje valstybės teritorijoje ar jos dalyje įvesti karo padėtį?",
+    "question_ru": "Когда Сейм может ввести военное положение на всей территории государства или её части?",
+    "options": [
+      "Ekonominės krizės metu",
+      "Atsiradus grėsmei konstitucinei santvarkai ar visuomenės rimčiai, taip pat ginkluoto užpuolimo atveju",
+      "Tik su Prezidento sutikimu ir NATO susitarimu",
+      "Tik referendumo pagrindu"
+    ],
+    "options_ru": [
+      "В период экономического кризиса",
+      "При возникновении угрозы конституционному строю или общественному порядку, а также в случае вооружённого нападения",
+      "Только с согласия Президента и по договорённости с НАТО",
+      "Только на основании референдума"
+    ],
+    "correct": 1,
+    "explanation": ""
   }
 ]

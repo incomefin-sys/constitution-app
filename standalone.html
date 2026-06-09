@@ -222,7 +222,18 @@ function Quiz({ questions }) {
   }
 
   const startQuiz = () => {
-    const d = shuffle(questions).slice(0, count).map(prepQ);
+    // Weighted selection: 0 misses→1 ticket, 1→2, 2→3, 3+→4 (max 4× boost)
+    const missed = ls(QUIZ_MISS, {});
+    const pool = [];
+    for (const q of questions) {
+      const tickets = 1 + Math.min(missed[String(q.id)] || 0, 3);
+      for (let i = 0; i < tickets; i++) pool.push(q);
+    }
+    const seen = new Set();
+    const d = shuffle(pool)
+      .filter(q => seen.has(q.id) ? false : (seen.add(q.id), true))
+      .slice(0, count)
+      .map(prepQ);
     setDeck(d); setCur(0); setAnswers(new Array(d.length).fill(null));
     setPhase('playing');
   };

@@ -51,7 +51,21 @@ export default function Quiz() {
   const [finalTotal, setFinalTotal] = useState(0)
 
   const startQuiz = () => {
-    const sample   = shuffle(questions).slice(0, count)
+    // Weighted selection — questions answered wrong more often get more "tickets"
+    // and therefore appear more frequently in the deck.
+    // Weight: 0 misses → 1 ticket, 1 miss → 2, 2 → 3, 3+ → 4  (max 4× boost)
+    const missed = JSON.parse(localStorage.getItem(MISSED_KEY) || '{}')
+    const pool = []
+    for (const q of questions) {
+      const missCount = missed[String(q.id)] || 0
+      const tickets = 1 + Math.min(missCount, 3)
+      for (let i = 0; i < tickets; i++) pool.push(q)
+    }
+    // Shuffle pool, deduplicate by id, take first `count`
+    const seen = new Set()
+    const sample = shuffle(pool)
+      .filter(q => seen.has(q.id) ? false : (seen.add(q.id), true))
+      .slice(0, count)
     const prepared = sample.map(prepareQuestion)
     setDeck(prepared)
     setCur(0)

@@ -22,7 +22,11 @@
       "Bash(python3 -c \"import googletrans; print\\('googletrans ok'\\)\")",
       "Bash(pip3 install *)",
       "Bash(kill %1)",
-      "Bash(cp /Users/allsmn/Downloads/questions_ru.json /Users/allsmn/IT/konstitution/src/data/questions.json && echo \"copied\")"
+      "Bash(cp /Users/allsmn/Downloads/questions_ru.json /Users/allsmn/IT/konstitution/src/data/questions.json && echo \"copied\")",
+      "Bash(brew install *)",
+      "Bash(python3 -c \"import pdfplumber; print\\('ok'\\)\")",
+      "Bash(python3 -c \"import PyPDF2; print\\('ok'\\)\")",
+      "Bash(python3 -c \"import fitz; print\\('ok'\\)\")"
     ]
   }
 }
