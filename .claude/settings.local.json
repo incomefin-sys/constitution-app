@@ -16,7 +16,13 @@
       "Bash(mkdir -p /Users/allsmn/IT/konstitution/.claude && ls /usr/local/bin/node /opt/homebrew/bin/node /usr/local/bin/npm /opt/homebrew/bin/npm 2>/dev/null; find /Users/allsmn -name \"node\" -type f 2>/dev/null | head -5)",
       "mcp__Claude_Preview__preview_start",
       "Bash(python3 -c ' *)",
-      "Bash(mkdir -p /Users/allsmn/.claude/projects/-Users-allsmn-IT-konstitution/memory)"
+      "Bash(mkdir -p /Users/allsmn/.claude/projects/-Users-allsmn-IT-konstitution/memory)",
+      "Bash(pip3 list *)",
+      "Bash(python3 -c \"import deep_translator; print\\('deep_translator ok'\\)\")",
+      "Bash(python3 -c \"import googletrans; print\\('googletrans ok'\\)\")",
+      "Bash(pip3 install *)",
+      "Bash(kill %1)",
+      "Bash(cp /Users/allsmn/Downloads/questions_ru.json /Users/allsmn/IT/konstitution/src/data/questions.json && echo \"copied\")"
     ]
   }
 }

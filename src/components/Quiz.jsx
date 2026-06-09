@@ -1,4 +1,4 @@
-import { useState, useContext, useRef } from 'react'
+import { useState, useContext } from 'react'
 import { AppContext } from '../App'
 import questions from '../data/questions.json'
 
@@ -15,12 +15,13 @@ function shuffle(arr) {
 }
 
 function prepareQuestion(q) {
-  const indexed = q.options.map((text, idx) => ({ text, idx }))
-  const shuffled = shuffle(indexed)
+  // Shuffle the indices, not the text — text is derived from source data at render time
+  const indices  = q.options.map((_, i) => i)
+  const shuffled = shuffle(indices)          // e.g. [2, 0, 3, 1]
   return {
     ...q,
-    displayOptions: shuffled.map(o => o.text),
-    displayCorrect: shuffled.findIndex(o => o.idx === q.correct),
+    shuffleOrder:  shuffled,                  // permutation to apply to options array
+    displayCorrect: shuffled.indexOf(q.correct),
   }
 }
 
@@ -37,64 +38,60 @@ function saveSession(score, total, missedMap) {
 }
 
 export default function Quiz() {
-  const { i18n, setTab } = useContext(AppContext)
+  const { i18n, lang, setTab } = useContext(AppContext)
 
-  const [phase, setPhase]   = useState('start')  // start | playing | results
-  const [count, setCount]   = useState(20)
-  const [deck,  setDeck]    = useState([])
-  const [cur,   setCur]     = useState(0)
-  const [selected, setSelected] = useState(null)
-  const [showCorrect, setShowCorrect] = useState(false)
+  const [phase, setPhase]     = useState('start')   // start | playing | results
+  const [count, setCount]     = useState(20)
+  const [deck,  setDeck]      = useState([])
+  const [cur,   setCur]       = useState(0)
+  // answers[i] = null (unanswered) or the index the user tapped
+  const [answers, setAnswers] = useState([])
 
-  // Use refs to avoid stale closure issues in setTimeout
-  const scoreRef  = useRef(0)
-  const missedRef = useRef({})
-
-  // Exposed state for results screen
   const [finalScore, setFinalScore] = useState(0)
   const [finalTotal, setFinalTotal] = useState(0)
 
   const startQuiz = () => {
-    const sample = shuffle(questions).slice(0, count)
+    const sample   = shuffle(questions).slice(0, count)
     const prepared = sample.map(prepareQuestion)
     setDeck(prepared)
     setCur(0)
-    setSelected(null)
-    setShowCorrect(false)
-    scoreRef.current  = 0
-    missedRef.current = {}
+    setAnswers(new Array(prepared.length).fill(null))
     setPhase('playing')
   }
 
   const handleAnswer = (idx) => {
-    if (selected !== null) return
+    if (answers[cur] !== null) return   // already answered — no re-selection
+    setAnswers(prev => {
+      const next = [...prev]
+      next[cur] = idx
+      return next
+    })
+  }
 
-    const q = deck[cur]
-    setSelected(idx)
-    setShowCorrect(true)
+  const goPrev = () => {
+    if (cur > 0) setCur(cur - 1)
+  }
 
-    const isCorrect = idx === q.displayCorrect
-    if (isCorrect) {
-      scoreRef.current += 1
+  const goNext = () => {
+    if (cur === deck.length - 1) {
+      // Last question — tally and save
+      const score = answers.filter(
+        (sel, i) => sel !== null && sel === deck[i].displayCorrect
+      ).length
+      const missedMap = {}
+      answers.forEach((sel, i) => {
+        if (sel === null || sel !== deck[i].displayCorrect) {
+          const id = String(deck[i].id)
+          missedMap[id] = (missedMap[id] || 0) + 1
+        }
+      })
+      saveSession(score, deck.length, missedMap)
+      setFinalScore(score)
+      setFinalTotal(deck.length)
+      setPhase('results')
     } else {
-      missedRef.current[q.id] = (missedRef.current[q.id] || 0) + 1
+      setCur(cur + 1)
     }
-
-    setTimeout(() => {
-      const next = cur + 1
-      if (next >= deck.length) {
-        const fs = scoreRef.current
-        const ft = deck.length
-        saveSession(fs, ft, { ...missedRef.current })
-        setFinalScore(fs)
-        setFinalTotal(ft)
-        setPhase('results')
-      } else {
-        setCur(next)
-        setSelected(null)
-        setShowCorrect(false)
-      }
-    }, 1200)
   }
 
   /* ── Start screen ──────────────────────────────────────────── */
@@ -125,12 +122,20 @@ export default function Quiz() {
 
   /* ── Playing ───────────────────────────────────────────────── */
   if (phase === 'playing') {
-    const q = deck[cur]
-    const progress = (cur / deck.length) * 100
+    const q        = deck[cur]
+    const answered = answers[cur] !== null
+    const selected = answers[cur]          // null or tapped index
+    const isLast   = cur === deck.length - 1
+    const progress = ((cur + 1) / deck.length) * 100
+
+    // Derive display text from source data + current language on every render
+    const qText    = lang === 'ru' && q.question_ru ? q.question_ru : q.question
+    const srcOpts  = lang === 'ru' && q.options_ru  ? q.options_ru  : q.options
+    const dispOpts = q.shuffleOrder.map(i => srcOpts[i])
 
     return (
       <div className="screen quiz-playing">
-        {/* Progress */}
+        {/* Progress bar */}
         <div className="progress-wrap">
           <div className="progress-track">
             <div className="progress-fill" style={{ width: `${progress}%` }} />
@@ -138,20 +143,20 @@ export default function Quiz() {
           <span className="progress-label">{cur + 1} / {deck.length}</span>
         </div>
 
-        {/* Question */}
+        {/* Question card */}
         <div className="card question-card">
           <p className="section-tag">{q.section}</p>
-          <p className="question-text">{q.question}</p>
+          <p className="question-text">{qText}</p>
         </div>
 
-        {/* Options */}
+        {/* Answer options */}
         <div className="options">
-          {q.displayOptions.map((opt, idx) => {
+          {dispOpts.map((opt, idx) => {
             let cls = 'option-btn'
-            if (showCorrect) {
-              if (idx === q.displayCorrect)       cls += ' opt-correct'
-              else if (idx === selected)           cls += ' opt-wrong'
-              else                                 cls += ' opt-dim'
+            if (answered) {
+              if (idx === q.displayCorrect) cls += ' opt-correct'
+              else if (idx === selected)    cls += ' opt-wrong'
+              else                          cls += ' opt-dim'
             }
             return (
               <button key={idx} className={cls} onClick={() => handleAnswer(idx)}>
@@ -159,6 +164,26 @@ export default function Quiz() {
               </button>
             )
           })}
+        </div>
+
+        {/* Floating ← / → navigation */}
+        <div className="quiz-float-nav">
+          <button
+            className="float-btn float-prev"
+            onClick={goPrev}
+            disabled={cur === 0}
+            aria-label="Previous question"
+          >
+            ←
+          </button>
+          <button
+            className={`float-btn float-next${isLast ? ' float-results' : ''}`}
+            onClick={goNext}
+            disabled={!answered}
+            aria-label={isLast ? i18n.quiz.results : 'Next question'}
+          >
+            {isLast ? i18n.quiz.results : '→'}
+          </button>
         </div>
       </div>
     )

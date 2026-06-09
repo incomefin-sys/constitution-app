@@ -125,6 +125,21 @@
     .empty-icon{font-size:48px}
     .empty-card p{font-size:16px;color:var(--text2);line-height:1.5}
     .loading{text-align:center;padding:60px 20px;font-size:16px;color:var(--text2)}
+    .quiz-playing{gap:12px;padding-bottom:88px}
+    .quiz-float-nav{position:fixed;bottom:calc(56px + 16px + env(safe-area-inset-bottom,0px));
+      left:50%;transform:translateX(-50%);width:100%;max-width:430px;
+      display:flex;justify-content:space-between;align-items:center;
+      padding:0 16px;pointer-events:none;z-index:100}
+    .float-btn{pointer-events:all;width:56px;height:56px;border-radius:50%;background:#fff;
+      border:none;box-shadow:0 4px 16px rgba(0,0,0,.14),0 1px 4px rgba(0,0,0,.06);
+      display:flex;align-items:center;justify-content:center;cursor:pointer;
+      color:var(--blue);font-size:22px;font-weight:400;
+      -webkit-tap-highlight-color:transparent;transition:transform .1s,box-shadow .1s,opacity .15s}
+    .float-btn:active:not(:disabled){transform:scale(.91);box-shadow:0 2px 8px rgba(0,0,0,.10)}
+    .float-btn:disabled{opacity:.28;cursor:default}
+    .float-results{width:auto;border-radius:28px;padding:0 22px;font-size:15px;
+      font-weight:600;letter-spacing:-.2px;min-width:56px}
+    .weak-answer{font-size:13px;font-weight:600;color:#1a8c3a;margin-bottom:4px;line-height:1.4}
   </style>
 </head>
 <body>
@@ -133,7 +148,7 @@
 <script src="https://unpkg.com/react-dom@18/umd/react-dom.development.js" crossorigin></script>
 <script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
 <script type="text/babel" data-presets="react">
-const { useState, useContext, createContext, useRef, useEffect } = React;
+const { useState, useContext, createContext, useEffect } = React;
 
 /* ── i18n ──────────────────────────────────────────────── */
 const I18N = {
@@ -141,7 +156,7 @@ const I18N = {
     tabs:{ quiz:'Тесты', terms:'Термины', stats:'Статистика' },
     quiz:{ selectCount:'Количество вопросов', start:'Начать', result:'Результат',
            pass:'Сдан', fail:'Не сдан', restart:'Повторить', goStats:'Перейти к статистике',
-           of:'из', note:'Вопросы на литовском языке' },
+           results:'Результаты', of:'из', note:'Вопросы на литовском языке' },
     terms:{ selectMode:'Выберите режим', modeA:'Литовский → Русский', modeB:'Русский → Литовский',
             next:'Следующий', correct:'Правильно!', wrong:'Неверно', back:'Назад' },
     stats:{ quizTitle:'Тесты', sessions:'Сессий завершено', avgScore:'Средний балл',
@@ -156,7 +171,7 @@ const I18N = {
     tabs:{ quiz:'Testai', terms:'Terminai', stats:'Statistika' },
     quiz:{ selectCount:'Klausimų skaičius', start:'Pradėti', result:'Rezultatas',
            pass:'Išlaikyta', fail:'Neišlaikyta', restart:'Kartoti', goStats:'Eiti į statistiką',
-           of:'iš', note:'Klausimai lietuvių kalba' },
+           results:'Rezultatai', of:'iš', note:'Klausimai lietuvių kalba' },
     terms:{ selectMode:'Pasirinkite režimą', modeA:'Lietuvių → Rusų', modeB:'Rusų → Lietuvių',
             next:'Kitas', correct:'Teisingai!', wrong:'Neteisingai', back:'Atgal' },
     stats:{ quizTitle:'Testai', sessions:'Sesijų skaičius', avgScore:'Vidutinis balas',
@@ -189,52 +204,55 @@ const AppCtx = createContext();
 
 /* ── Quiz component ────────────────────────────────────── */
 function Quiz({ questions }) {
-  const { i18n, setTab } = useContext(AppCtx);
+  const { i18n, lang, setTab } = useContext(AppCtx);
   const [phase, setPhase] = useState('start');
   const [count, setCount] = useState(20);
   const [deck, setDeck] = useState([]);
   const [cur, setCur] = useState(0);
-  const [selected, setSelected] = useState(null);
-  const [showCorrect, setShowCorrect] = useState(false);
-  const scoreRef = useRef(0);
-  const missRef = useRef({});
+  // answers[i] = null (unanswered) | option-index the user selected
+  const [answers, setAnswers] = useState([]);
   const [finalScore, setFinalScore] = useState(0);
   const [finalTotal, setFinalTotal] = useState(0);
 
   function prepQ(q) {
-    const idx = q.options.map((t,i)=>({t,i}));
-    const sh = shuffle(idx);
-    return { ...q, displayOptions: sh.map(o=>o.t), displayCorrect: sh.findIndex(o=>o.i===q.correct) };
+    // Store shuffle order as indices; text derived from source data + lang at render time
+    const indices  = q.options.map((_,i)=>i);
+    const shuffled = shuffle(indices);
+    return { ...q, shuffleOrder:shuffled, displayCorrect:shuffled.indexOf(q.correct) };
   }
 
   const startQuiz = () => {
     const d = shuffle(questions).slice(0, count).map(prepQ);
-    setDeck(d); setCur(0); setSelected(null); setShowCorrect(false);
-    scoreRef.current=0; missRef.current={};
+    setDeck(d); setCur(0); setAnswers(new Array(d.length).fill(null));
     setPhase('playing');
   };
 
   const handleAnswer = (idx) => {
-    if (selected !== null) return;
-    setSelected(idx); setShowCorrect(true);
-    const q = deck[cur];
-    if (idx === q.displayCorrect) scoreRef.current++;
-    else missRef.current[q.id] = (missRef.current[q.id]||0)+1;
-    setTimeout(() => {
-      const next = cur+1;
-      if (next >= deck.length) {
-        const fs=scoreRef.current, ft=deck.length;
-        const sessions=ls(SESSIONS_KEY,[]);
-        sessions.push({score:fs,total:ft,date:Date.now()});
-        lsSet(SESSIONS_KEY,sessions);
-        const gm=ls(QUIZ_MISS,{});
-        for(const [id,c] of Object.entries(missRef.current)) gm[id]=(gm[id]||0)+c;
-        lsSet(QUIZ_MISS,gm);
-        setFinalScore(fs); setFinalTotal(ft); setPhase('results');
-      } else {
-        setCur(next); setSelected(null); setShowCorrect(false);
-      }
-    }, 1200);
+    if (answers[cur] !== null) return;   // already answered
+    setAnswers(prev => { const n=[...prev]; n[cur]=idx; return n; });
+  };
+
+  const goPrev = () => { if (cur > 0) setCur(cur-1); };
+
+  const goNext = () => {
+    if (cur === deck.length-1) {
+      const score = answers.filter((s,i)=> s!==null && s===deck[i].displayCorrect).length;
+      const missedMap = {};
+      answers.forEach((s,i)=>{
+        if (s===null || s!==deck[i].displayCorrect) {
+          const id=String(deck[i].id); missedMap[id]=(missedMap[id]||0)+1;
+        }
+      });
+      const sessions=ls(SESSIONS_KEY,[]);
+      sessions.push({score,total:deck.length,date:Date.now()});
+      lsSet(SESSIONS_KEY,sessions);
+      const gm=ls(QUIZ_MISS,{});
+      for(const [id,c] of Object.entries(missedMap)) gm[id]=(gm[id]||0)+c;
+      lsSet(QUIZ_MISS,gm);
+      setFinalScore(score); setFinalTotal(deck.length); setPhase('results');
+    } else {
+      setCur(cur+1);
+    }
   };
 
   if (phase==='start') return (
@@ -253,29 +271,46 @@ function Quiz({ questions }) {
   );
 
   if (phase==='playing') {
-    const q = deck[cur];
+    const q        = deck[cur];
+    const answered = answers[cur] !== null;
+    const selected = answers[cur];
+    const isLast   = cur === deck.length-1;
+    const progress = ((cur+1)/deck.length)*100;
+    // Derive display text from source data + current language on every render
+    const qText    = lang==='ru' && q.question_ru ? q.question_ru : q.question;
+    const srcOpts  = lang==='ru' && q.options_ru  ? q.options_ru  : q.options;
+    const dispOpts = q.shuffleOrder.map(i=>srcOpts[i]);
     return (
-      <div className="screen" style={{gap:'12px'}}>
+      <div className="screen quiz-playing">
         <div className="progress-wrap">
           <div className="progress-track">
-            <div className="progress-fill" style={{width:`${(cur/deck.length)*100}%`}}/>
+            <div className="progress-fill" style={{width:`${progress}%`}}/>
           </div>
           <span className="progress-label">{cur+1} / {deck.length}</span>
         </div>
         <div className="card">
           <p className="section-tag">{q.section}</p>
-          <p className="question-text">{q.question}</p>
+          <p className="question-text">{qText}</p>
         </div>
         <div className="options">
-          {q.displayOptions.map((opt,idx)=>{
+          {dispOpts.map((opt,idx)=>{
             let cls='option-btn';
-            if(showCorrect){
+            if(answered){
               if(idx===q.displayCorrect) cls+=' opt-correct';
-              else if(idx===selected) cls+=' opt-wrong';
-              else cls+=' opt-dim';
+              else if(idx===selected)    cls+=' opt-wrong';
+              else                       cls+=' opt-dim';
             }
             return <button key={idx} className={cls} onClick={()=>handleAnswer(idx)}>{opt}</button>;
           })}
+        </div>
+        <div className="quiz-float-nav">
+          <button className="float-btn float-prev" onClick={goPrev}
+            disabled={cur===0} aria-label="Previous">&#8592;</button>
+          <button className={`float-btn float-next${isLast?' float-results':''}`}
+            onClick={goNext} disabled={!answered}
+            aria-label={isLast?i18n.quiz.results:'Next'}>
+            {isLast ? i18n.quiz.results : '→'}
+          </button>
         </div>
       </div>
     );
@@ -384,7 +419,7 @@ function Terms({ glossary }) {
 
 /* ── Stats component ───────────────────────────────────── */
 function Stats({ questions, glossary }) {
-  const { i18n } = useContext(AppCtx);
+  const { i18n, lang } = useContext(AppCtx);
   const [, forceUp] = useState(0);
 
   const sessions=ls(SESSIONS_KEY,[]);
@@ -449,18 +484,25 @@ function Stats({ questions, glossary }) {
             {topQ.length>0 && (
               <div className="card">
                 <h3 className="sub-heading">{i18n.stats.weakSpots}</h3>
-                {topQ.map(({q,cnt},i)=>(
-                  <details key={i} className="weak-item">
-                    <summary className="weak-summary">
-                      <span className="weak-preview">{q.question.length>70?q.question.slice(0,70)+'…':q.question}</span>
-                      <span className="miss-badge">{cnt}</span>
-                    </summary>
-                    <div className="weak-body">
-                      <p className="weak-full">{q.question}</p>
-                      <p className="weak-section">{q.section}</p>
-                    </div>
-                  </details>
-                ))}
+                {topQ.map(({q,cnt},i)=>{
+                  // Derive text from source data + current language on every render
+                  const qText  = lang==='ru' && q.question_ru ? q.question_ru : q.question;
+                  const answer = lang==='ru' && q.options_ru
+                    ? q.options_ru[q.correct] : q.options[q.correct];
+                  return (
+                    <details key={i} className="weak-item">
+                      <summary className="weak-summary">
+                        <span className="weak-preview">{qText.length>70?qText.slice(0,70)+'…':qText}</span>
+                        <span className="miss-badge">{cnt}</span>
+                      </summary>
+                      <div className="weak-body">
+                        <p className="weak-full">{qText}</p>
+                        <p className="weak-answer">&#10003; {answer}</p>
+                        <p className="weak-section">{q.section}</p>
+                      </div>
+                    </details>
+                  );
+                })}
               </div>
             )}
           </>}
@@ -500,8 +542,8 @@ function App() {
 
   useEffect(()=>{
     Promise.all([
-      fetch('./src/data/questions.json').then(r=>r.json()),
-      fetch('./src/data/glossary.json').then(r=>r.json()),
+      fetch('./src/data/questions.json', {cache:'no-cache'}).then(r=>r.json()),
+      fetch('./src/data/glossary.json',  {cache:'no-cache'}).then(r=>r.json()),
     ]).then(([q,g])=>setData({questions:q,glossary:g}));
   },[]);
 

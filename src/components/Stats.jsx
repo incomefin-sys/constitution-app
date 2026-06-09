@@ -16,7 +16,7 @@ function pct(num, den) {
 }
 
 export default function Stats() {
-  const { i18n } = useContext(AppContext)
+  const { i18n, lang } = useContext(AppContext)
   const [, forceUpdate] = useState(0)
 
   const sessions    = JSON.parse(localStorage.getItem(SESSIONS_KEY)     || '[]')
@@ -106,22 +106,28 @@ export default function Stats() {
               {topQuestions.length > 0 && (
                 <div className="card">
                   <h3 className="sub-heading">{i18n.stats.weakSpots}</h3>
-                  {topQuestions.map(({ q, cnt }, i) => (
-                    <details key={i} className="weak-item">
-                      <summary className="weak-summary">
-                        <span className="weak-preview">
-                          {q.question.length > 70
-                            ? q.question.slice(0, 70) + '…'
-                            : q.question}
-                        </span>
-                        <span className="miss-badge">{cnt}</span>
-                      </summary>
-                      <div className="weak-body">
-                        <p className="weak-full">{q.question}</p>
-                        <p className="weak-section">{q.section}</p>
-                      </div>
-                    </details>
-                  ))}
+                  {topQuestions.map(({ q, cnt }, i) => {
+                    // Derive text from source data + current language on every render
+                    const qText  = lang === 'ru' && q.question_ru ? q.question_ru : q.question
+                    const answer = lang === 'ru' && q.options_ru
+                      ? q.options_ru[q.correct]
+                      : q.options[q.correct]
+                    return (
+                      <details key={i} className="weak-item">
+                        <summary className="weak-summary">
+                          <span className="weak-preview">
+                            {qText.length > 70 ? qText.slice(0, 70) + '…' : qText}
+                          </span>
+                          <span className="miss-badge">{cnt}</span>
+                        </summary>
+                        <div className="weak-body">
+                          <p className="weak-full">{qText}</p>
+                          <p className="weak-answer">✓ {answer}</p>
+                          <p className="weak-section">{q.section}</p>
+                        </div>
+                      </details>
+                    )
+                  })}
                 </div>
               )}
             </>

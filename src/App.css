@@ -544,4 +544,70 @@ html, body {
 .empty-card p { font-size: 16px; color: var(--text2); line-height: 1.5; }
 
 /* ── Quiz playing layout ──────────────────────────────────── */
-.quiz-playing { gap: 12px; }
+.quiz-playing {
+  gap: 12px;
+  padding-bottom: 88px;   /* scroll past floating nav buttons */
+}
+
+/* ── Floating prev / next navigation ─────────────────────── */
+.quiz-float-nav {
+  position: fixed;
+  bottom: calc(var(--nav-h) + 16px + env(safe-area-inset-bottom, 0px));
+  left: 50%;
+  transform: translateX(-50%);
+  width: 100%;
+  max-width: 430px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 16px;
+  pointer-events: none;   /* pass clicks through the gap between buttons */
+  z-index: 100;
+}
+
+.float-btn {
+  pointer-events: all;
+  width: 56px;
+  height: 56px;
+  border-radius: 50%;
+  background: #fff;
+  border: none;
+  box-shadow: 0 4px 16px rgba(0,0,0,.14), 0 1px 4px rgba(0,0,0,.06);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  color: var(--blue);
+  font-size: 22px;
+  font-weight: 400;
+  -webkit-tap-highlight-color: transparent;
+  transition: transform .1s, box-shadow .1s, opacity .15s;
+}
+.float-btn:active:not(:disabled) {
+  transform: scale(0.91);
+  box-shadow: 0 2px 8px rgba(0,0,0,.10);
+}
+.float-btn:disabled {
+  opacity: 0.28;
+  cursor: default;
+}
+
+/* Results variant — wider pill with text */
+.float-results {
+  width: auto;
+  border-radius: 28px;
+  padding: 0 22px;
+  font-size: 15px;
+  font-weight: 600;
+  letter-spacing: -0.2px;
+  min-width: 56px;
+}
+
+/* ── Weak-spot correct answer ─────────────────────────────── */
+.weak-answer {
+  font-size: 13px;
+  font-weight: 600;
+  color: #1a8c3a;
+  margin-bottom: 4px;
+  line-height: 1.4;
+}

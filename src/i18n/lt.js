@@ -10,6 +10,7 @@ export default {
     wrong: 'Neteisingai',
     restart: 'Kartoti',
     goStats: 'Eiti į statistiką',
+    results: 'Rezultatai',
     of: 'iš',
     note: 'Klausimai lietuvių kalba',
   },
